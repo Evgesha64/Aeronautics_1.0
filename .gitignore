@@ -1,3 +1,7 @@
+# Репозиторий = папка экземпляра / версии (копия в .minecraft/versions/Aeronautics_1.0/).
+# Лаунчеру нужны в корне и в Git: Aeronautics_1.0.json и Aeronautics_1.0.jar (имя = id в JSON).
+# Не добавляйте их в ignore; не вводите в корне общие *.jar / *.json без исключений для этой пары.
+
 # --- игрок / сессия ---
 saves/
 logs/
@@ -10,11 +14,10 @@ session.lock
 servers.dat
 servers.dat_old
 
-# --- лаунчер и чувствительное ---
+# --- лаунчер и чувствительное (только корень, чтобы не задеть вложенные пути) ---
 .curseclient
-TLauncherAdditional.json
 clientId.txt
-launcher_*.*
+/launcher_*.*
 *_credentials*
 *.bin
 
@@ -53,3 +56,4 @@ Thumbs.db
 # тогда список модов выгружайте через CurseForge / Modrinth / packwiz).
 # mods/*.jar
 # mods/*.jar.disabled
+# При этом всё равно не игнорируйте Aeronautics_1.0.json и Aeronautics_1.0.jar в корне — без них версия не появится в лаунчере.
