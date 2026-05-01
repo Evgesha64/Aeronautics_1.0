@@ -26,8 +26,6 @@ cache/
 local/
 runtime/
 
-# --- клиент (не распространять через Git) ---
-Aeronautics_1.0.jar
 
 # --- карты / личные данные ---
 xaero/
