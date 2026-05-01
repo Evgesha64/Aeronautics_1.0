@@ -1,0 +1,284 @@
+{
+  "mod.rpgseteffects.name": "Class Artifacts",
+  "creativetab.rpgseteffects": "Class Artifacts",
+
+  "item.rpgseteffects.shield_1_bag": "Мешок Щита I",
+  "item.rpgseteffects.shield_1_bag.desc": "Содержит части Щита 1. Нажмите ПКМ по воздуху, чтобы получить случайный Щит 1.",
+
+  "item.rpgseteffects.shield_2_bag": "Мешок Щита II",
+  "item.rpgseteffects.shield_2_bag.desc": "Содержит части Щита 2. Нажмите ПКМ по воздуху, чтобы получить случайный Щит 2.",
+
+  "item.rpgseteffects.shield_3_bag": "Мешок Щита III",
+  "item.rpgseteffects.shield_3_bag.desc": "Содержит части Щита 3. Нажмите ПКМ по воздуху, чтобы получить случайный Щит 3.",
+
+  "item.rpgseteffects.shield_4_bag": "Мешок Щита IV",
+  "item.rpgseteffects.shield_4_bag.desc": "Содержит части Щита 4. Нажмите ПКМ по воздуху, чтобы получить случайный Щит 4.",
+
+  "item.rpgseteffects.shield_5_bag": "Мешок Щита V",
+  "item.rpgseteffects.shield_5_bag.desc": "Содержит части Щита 5. Нажмите ПКМ по воздуху, чтобы получить случайный Щит 5.",
+
+  "item.rpgseteffects.shield_6_bag": "Мешок Щита VI",
+  "item.rpgseteffects.shield_6_bag.desc": "Содержит части Щита 6. Нажмите ПКМ по воздуху, чтобы получить случайный Щит 6.",
+
+  "item.rpgseteffects.set_fragment": "Фрагмент комплекта",
+  "item.rpgseteffects.concentrated_energy": "Концентрированная энергия",
+
+  "item.rpgseteffects.set_fragment.desc": "Добывается при разрушении частей комплекта. Используется для создания Концентрированной энергии.",
+  "item.rpgseteffects.concentrated_energy.desc": "Материал из фрагментов комплекта. Используется для создания Мешка амулетов.",
+
+  "curios.identifier.shield_1": "RPG Щит I",
+  "curios.identifier.shield_2": "RPG Щит II",
+  "curios.identifier.shield_3":  "RPG Щит II",
+  "curios.identifier.shield_4":  "RPG Щит IV",
+  "curios.identifier.shield_5":  "RPG Щит V",
+  "curios.identifier.shield_6": "RPG Щит VI",
+  "curios.identifier.talisman": "Талисман",
+
+  "set.altharion.title": "Ангел милосердия",
+  "item.rpgseteffects.altharion_relic": "Щит Алтариона I",
+  "item.rpgseteffects.altharion_amulet": "Щит Алтариона II",
+  "item.rpgseteffects.altharion_helm":   "Щит Алтариона III",
+  "item.rpgseteffects.altharion_body":   "Щит Алтариона IV",
+  "item.rpgseteffects.altharion_belt":   "Щит Алтариона V",
+  "item.rpgseteffects.altharion_boots":  "Щит Алтариона VI",
+
+  "set.altharion.name": "Эгида Алтариона",
+  "set.altharion.bonus.shield_aura": "Создаёт ауру исцеления при блокировании щитом. Она медленно восстанавливает здоровье союзников рядом.",
+  "set.altharion.bonus.shield_damage": "Если вы держите щит во второй руке, ваш урон увеличивается на 175%.",
+  "effect.rpgseteffects.shield_healing_aura": "Аура исцеления щита",
+  "effect.rpgseteffects.shield_healing_aura.tooltip": "Золотая аура лечит союзников в области (при блокировании щитом)",
+
+
+  "set.blood_fury.title": "Клинок ярости",
+  "item.rpgseteffects.blood_fury_relic": "Щит Кровавой ярости I",
+  "item.rpgseteffects.blood_fury_amulet": "Щит Кровавой ярости II",
+  "item.rpgseteffects.blood_fury_helm": "Щит Кровавой ярости III",
+  "item.rpgseteffects.blood_fury_body": "Щит Кровавой ярости IV",
+  "item.rpgseteffects.blood_fury_belt": "Щит Кровавой ярости V",
+  "item.rpgseteffects.blood_fury_boots": "Щит Кровавой ярости VI",
+
+
+  "set.blood_fury.bonus.blood_rage.line1": "Даёт эффект Кровавая ярость.",
+  "set.blood_fury.bonus.blood_rage.line2": "Каждый удар повышает скорость атаки на 3% (максимум 39%).",
+
+  "effect.rpgseteffects.blood_rage": "Кровавая ярость",
+  "effect.rpgseteffects.blood_rage.description": "Каждый удар повышает вашу скорость атаки на 3%, до максимума 39%, пока эффект активен.",
+
+  "set.shadowhunter.title": "Плащ тишины",
+  "item.rpgseteffects.shadow_hunter_relic": "Щит Теневого охотника I",
+  "item.rpgseteffects.shadow_hunter_amulet": "Щит Теневого охотника II",
+  "item.rpgseteffects.shadow_hunter_helm": "Щит Теневого охотника III",
+  "item.rpgseteffects.shadow_hunter_body": "Щит Теневого охотника IV",
+  "item.rpgseteffects.shadow_hunter_belt": "Щит Теневого охотника V",
+  "item.rpgseteffects.shadow_hunter_boots": "Щит Теневого охотника VI",
+
+
+  "set.shadowhunter.bonus.sprint_burst.line1": "Бег даёт невидимость на 3 секунды (снимается при ударе по врагам).",
+  "set.shadowhunter.bonus.sprint_burst.line2": "Бег даёт Засаду на 3 секунды (увеличивает ваш урон на 200%).",
+
+  "effect.rpgseteffects.true_invisibility": "Истинная невидимость",
+  "effect.rpgseteffects.true_invisibility.description": "Вы становитесь полностью незаметны: враги не могут выбрать вас целью, вы исчезаете в дыму, а эффект заканчивается, когда вы наносите урон.",
+
+  "effect.rpgseteffects.shadow_ambush": "Теневая засада",
+  "effect.rpgseteffects.shadow_ambush.description": "Усиливает ваши следующие удары. Они наносят на 300% больше урона на короткое время.",
+
+  "set.sanctum.title": "Оплот веры",
+  "item.rpgseteffects.sanctum_relic": "Щит Санктума I",
+  "item.rpgseteffects.sanctum_amulet": "Щит Санктума II",
+  "item.rpgseteffects.sanctum_helm": "Щит Санктума III",
+  "item.rpgseteffects.sanctum_body": "Щит Санктума IV",
+  "item.rpgseteffects.sanctum_belt": "Щит Санктума V",
+  "item.rpgseteffects.sanctum_boots": "Щит Санктума VI",
+
+
+  "set.sanctum.bonus.aggro_radius": "При блокировании щитом вы притягиваете агрессию всех врагов в радиусе 10 блоков.",
+  "set.sanctum.bonus.sanctum_offense": "Без щита: +75% наносимого урона.",
+  "set.sanctum.bonus.sanctum_defense": "При блокировании щитом: +50% брони.",
+
+  "effect.rpgseteffects.bulwark_of_solitude": "Бастион одиночества",
+  "effect.rpgseteffects.bulwark_of_solitude.tooltip": "§9+50% Брони только при 2+ врагах рядом",
+
+  "effect.rpgseteffects.relentless_assault": "Неумолимый натиск",
+  "effect.rpgseteffects.relentless_assault.tooltip": "§c+75% Урона только при 1 враге рядом",
+
+  "set.hellbrand.title": "Клеймо погибели",
+  "item.rpgseteffects.hellbrand_relic": "Щит Адского клейма I",
+  "item.rpgseteffects.hellbrand_amulet": "Щит Адского клейма II",
+  "item.rpgseteffects.hellbrand_helm": "Щит Адского клейма III",
+  "item.rpgseteffects.hellbrand_body": "Щит Адского клейма IV",
+  "item.rpgseteffects.hellbrand_belt": "Щит Адского клейма V",
+  "item.rpgseteffects.hellbrand_boots": "Щит Адского клейма VI",
+
+
+
+  "effect.rpgseteffects.armor_break_i": "Пробитие брони",
+  "effect.rpgseteffects.armor_break_i.description": "Снижает броню цели и стойкость брони на 30%, пока эффект активен..",
+  "effect.rpgseteffects.armor_break_ii": "Пробитие брони",
+  "effect.rpgseteffects.armor_break_ii.description": "Снижает броню цели и стойкость брони на 50%, пока эффект активен..",
+  "effect.rpgseteffects.armor_break_iii": "Пробитие брони",
+  "effect.rpgseteffects.armor_break_iii.description": "Снижает броню цели и стойкость брони на 70%, пока эффект активен..",
+  "set.hellbrand.bonus.combo": "Каждый третий последовательный удар наносит на 50% больше урона.",
+
+  "set.wolfheart.title": "Дух дикой природы",
+  "item.rpgseteffects.wolfheart_relic": "Щит Волчьего сердца I",
+  "item.rpgseteffects.wolfheart_amulet": "Щит Волчьего сердца II",
+  "item.rpgseteffects.wolfheart_helm": "Щит Волчьего сердца III",
+  "item.rpgseteffects.wolfheart_body": "Щит Волчьего сердца IV",
+  "item.rpgseteffects.wolfheart_belt": "Щит Волчьего сердца V",
+  "item.rpgseteffects.wolfheart_boots": "Щит Волчьего сердца VI",
+
+  "effect.rpgseteffects.pet_mastery": "Мастерство питомцев",
+  "effect.rpgseteffects.pet_mastery.description": "Получайте +10% к урону атаки за каждого приручённого питомца (максимум +50%)",
+
+
+  "set.moonpiercer.title": "Шёпот охоты",
+  "item.rpgseteffects.moonpiercer_relic": "Щит Лунного пронзателя I",
+  "item.rpgseteffects.moonpiercer_amulet": "Щит Лунного пронзателя II",
+  "item.rpgseteffects.moonpiercer_helm": "Щит Лунного пронзателя III",
+  "item.rpgseteffects.moonpiercer_body": "Щит Лунного пронзателя IV",
+  "item.rpgseteffects.moonpiercer_belt": "Щит Лунного пронзателя V",
+  "item.rpgseteffects.moonpiercer_boots": "Щит Лунного пронзателя VI",
+
+  "set.moonpiercer.bonus.arrow_rain": "Попадание снарядом по врагу создаёт вокруг цели самонаводящийся дождь стрел.",
+
+  "set.stormpiercer.title": "Буря порывов",
+  "item.rpgseteffects.stormpiercer_relic": "Щит Грозового пронзателя I",
+  "item.rpgseteffects.stormpiercer_amulet": "Щит Грозового пронзателя II",
+  "item.rpgseteffects.stormpiercer_helm": "Щит Грозового пронзателя III",
+  "item.rpgseteffects.stormpiercer_body": "Щит Грозового пронзателя IV",
+  "item.rpgseteffects.stormpiercer_belt": "Щит Грозового пронзателя V",
+  "item.rpgseteffects.stormpiercer_boots": "Щит Грозового пронзателя VI",
+
+  "set.stormpiercer.bonus.arrow_fan": "Попадание снарядом по врагу выпускает веер стрел перед игроком.",
+
+
+  "set.ignisphere.title": "Сердце инферно",
+  "item.rpgseteffects.ignisphere_relic": "Щит Игнисферы I",
+  "item.rpgseteffects.ignisphere_amulet": "Щит Игнисферы II",
+  "item.rpgseteffects.ignisphere_helm": "Щит Игнисферы III",
+  "item.rpgseteffects.ignisphere_body": "Щит Игнисферы IV",
+  "item.rpgseteffects.ignisphere_belt": "Щит Игнисферы V",
+  "item.rpgseteffects.ignisphere_boots": "Щит Игнисферы VI",
+
+  "effect.rpgseteffects.inferno": "Инферно",
+  "effect.rpgseteffects.inferno.description": "Ваши атаки могут зарядить сферу Инферно. Следующий удар расходует сферу и наносит огромный дополнительный урон. Он увеличивается, если цель горит.",
+
+  "set.ignisphere.bonus.inferno.line1": "Шанс зарядить сферу за удар: 100% двуручным оружием, 10% при мече во второй руке, 50% со щитом.",
+  "set.ignisphere.bonus.inferno.line2": "При расходе сферы урон удваивается. Если цель горит, урон удваивается ещё раз (итого x4).",
+
+
+  "set.hexweaver.title": "Комплект Hexweaver",
+  "item.rpgseteffects.hexweaver_shield_1": "Щит Hexweaver I",
+  "item.rpgseteffects.hexweaver_shield_2": "Щит Hexweaver II",
+  "item.rpgseteffects.hexweaver_shield_3": "Щит Hexweaver III",
+  "item.rpgseteffects.hexweaver_shield_4": "Щит Hexweaver IV",
+  "item.rpgseteffects.hexweaver_shield_5": "Щит Hexweaver V",
+  "item.rpgseteffects.hexweaver_shield_6": "Щит Hexweaver VI",
+
+  "set.hexweaver.bonus.line1": "Крадёт положительный эффект у врагов при ударе",
+  "set.hexweaver.bonus.line2": "Распространяет один из ваших отрицательных эффектов на врагов при ударе",
+  "set.hexweaver.bonus.line3": "Урон растёт от ваших усилений и ослаблений врага",
+
+
+  "set.poison_aura.title": "Дыхание распада",
+  "set.fire_aura.title": "Неукрощённое пламя",
+  "set.ice_aura.title": "Эхо зимы",
+  "set.wither_aura.title": "Эхо иссушителя",
+
+  "item.rpgseteffects.poison_aura": "Аура яда",
+  "item.rpgseteffects.fire_aura": "Аура огня",
+  "item.rpgseteffects.ice_aura": "Аура льда",
+  "item.rpgseteffects.wither_aura": "Аура иссушения",
+
+  "settooltip.attack_speed": "Скорость атаки: +%s%%",
+  "settooltip.crit_damage": "Критический урон: +%s%%",
+  "settooltip.current_hp_damage": "Урон по текущему здоровью: +%s%%",
+
+  "set.altharion.bonus.heal_aura": "Вы и союзники рядом получаете исцеление в области действия",
+  "set.altharion.bonus.heal_allies": "Союзники рядом лечатся на 1 сердце каждые 2 с.",
+  "set.altharion.bonus.absorption_player": "Вы получаете 1 сердце поглощения каждые 5 с (максимум 3).",
+
+
+  "tooltip.rpgseteffects.piece.1": "1 часть: ",
+  "tooltip.rpgseteffects.piece.2": "2 части: ",
+  "tooltip.rpgseteffects.piece.3": "3 части: ",
+  "tooltip.rpgseteffects.piece.4": "4 части: ",
+
+  "set.tooltip.gain_good": "Вы получаете: ",
+  "set.tooltip.apply_bad": "Накладывает на цель: ",
+
+  "item.rpgseteffects.builders_flight_charm": "Талисман полёта строителя",
+  "item.rpgseteffects.builders_flight_charm.tooltip.0": "Разрешает полёт в режиме креатива.",
+  "item.rpgseteffects.builders_flight_charm.tooltip.1": "Нельзя атаковать существ.",
+  "item.rpgseteffects.builders_flight_charm.tooltip.2": "Нельзя добывать руды.",
+  "item.rpgseteffects.builders_flight_charm.tooltip.3": "Нельзя есть еду.",
+  "item.rpgseteffects.builders_flight_charm.tooltip.4": "Нельзя взаимодействовать с контейнерами.",
+  "item.rpgseteffects.builders_flight_charm.tooltip.5": "Максимальное здоровье принудительно равно 1 сердцу.",
+  "item.rpgseteffects.builders_flight_charm.tooltip.6": "Автоматически снимает любую броню.",
+  "item.rpgseteffects.builders_flight_charm.tooltip.7": "Вы можете летать только в области действия активного маяка.",
+  "msg.rpgseteffects.action_blocked": "У вас экипирован Талисман полёта строителя, действие заблокировано.",
+
+  "item.rpgseteffects.magic_leather": "Волшебная кожа",
+  "item.rpgseteffects.magic_leather.desc": "Используется для создания мешков щитов",
+
+
+  "item.rpgseteffects.specter_lens": "Линза призрака",
+  "item.rpgseteffects.specter_lens.tooltip.0": "Даёт ночное зрение.",
+  "item.rpgseteffects.specter_lens.tooltip.1": "Пусть тьма больше не будет проблемой.",
+
+  "item.rpgseteffects.frost_walker_artifact": "Ледяная тропа",
+  "item.rpgseteffects.frost_walker_artifact.desc": "Ледяной шаг",
+  "item.rpgseteffects.frost_walker_artifact.tooltip": "Замораживайте воду под ногами и исследуйте мир без ограничений!",
+
+  "item.rpgseteffects.fire_immunity_artifact": "Огненная защита",
+  "item.rpgseteffects.fire_immunity_artifact.desc": "Даёт иммунитет к огню.",
+  "item.rpgseteffects.fire_immunity_artifact.tooltip": "Артефакт, благословлённый богом огня.",
+
+  "item.rpgseteffects.magma_walker_artifact": "Пылающий шаг",
+  "item.rpgseteffects.magma_walker_artifact.desc": "Позволяет ходить по лаве и превращает её в магму.",
+  "item.rpgseteffects.magma_walker_artifact.tooltip": "Ходите по лаве безопасно!",
+
+  "item.rpgseteffects.poison_immunity_artifact": "Кровь змея",
+  "item.rpgseteffects.poison_immunity_artifact.desc": "Даёт иммунитет к яду.",
+  "item.rpgseteffects.poison_immunity_artifact.tooltip": "Абсолютная стойкость к токсинам.",
+
+  "item.rpgseteffects.wither_immunity_artifact": "Бездонное дыхание",
+  "item.rpgseteffects.wither_immunity_artifact.desc": "Даёт иммунитет к эффекту Иссушение.",
+  "item.rpgseteffects.wither_immunity_artifact.tooltip": "Порочная сила Иссушителя слабеет перед вами.",
+
+  "item.rpgseteffects.extra_jump_artifact": "Небесный прыжок",
+  "item.rpgseteffects.extra_jump_artifact.desc": "Призывает божественную лёгкость для сверхъестественного прыжка.",
+
+  "item.rpgseteffects.vampiric_hand_artifact": "Вампирская рука",
+  "item.rpgseteffects.vampiric_hand_artifact.desc": "Крадёт здоровье при каждом ударе в ближнем бою",
+
+  "item.rpgseteffects.swift_strike_hand_artifact": "Рука стремительного удара",
+  "item.rpgseteffects.swift_strike_hand_artifact.desc": "Удары выполняются намного быстрее",
+
+  "item.rpgseteffects.brutal_fist_hand_artifact": "Рука жестокого кулака",
+  "item.rpgseteffects.brutal_fist_hand_artifact.desc": "Удары в ближнем бою наносят намного больше урона",
+
+  "item.rpgseteffects.lethal_crit_hand_artifact": "Рука смертельного крита",
+  "item.rpgseteffects.lethal_crit_hand_artifact.desc": "Критические удары наносят сокрушительный урон",
+
+  "item.rpgseteffects.deadly_luck_hand_artifact": "Рука смертельной удачи",
+  "item.rpgseteffects.deadly_luck_hand_artifact.desc": "Шанс нанести критический удар намного выше",
+
+  "item.rpgseteffects.swift_boots_artifact": "Сапоги стремительности",
+  "item.rpgseteffects.swift_boots_artifact.desc": "Бегайте и спринтуйте с невероятной скоростью",
+
+  "item.rpgseteffects.featherfall_boots_artifact": "Сапоги лёгкого падения",
+  "item.rpgseteffects.featherfall_boots_artifact.desc": "Падайте с любой высоты без урона",
+
+  "item.rpgseteffects.multi_jump_boots_artifact": "Сапоги многократного прыжка",
+  "item.rpgseteffects.multi_jump_boots_artifact.desc": "Прыгайте несколько раз в воздухе",
+
+  "rpgseteffects.attr.attack_damage": "+%s%% к урону атаки",
+  "rpgseteffects.attr.attack_speed": "+%s%% к скорости атаки",
+  "rpgseteffects.attr.movement_speed": "+%s%% к скорости передвижения",
+  "rpgseteffects.attr.armor": "+%s к броне",
+  "rpgseteffects.attr.armor_toughness": "+%s к стойкости брони",
+  "rpgseteffects.attr.max_health": "+%s к максимальному здоровью",
+  "rpgseteffects.attr.luck": "+%s к удаче",
+  "rpgseteffects.attr.knockback_resistance": "+%s к сопротивлению отбрасыванию"
+}

@@ -1,0 +1,48 @@
+{
+  "itemGroup.farmlife": "Farm Life",
+
+  "item.farmlife.tribull_shank": "Сырая голяшка три-быка",
+  "item.farmlife.cooked_tribull_shank": "Жареная голяшка три-быка",
+  "item.farmlife.music_disc_life_on_the_farm": "Музыкальная пластинка",
+  "item.farmlife.music_disc_life_on_the_farm.desc": "Mr. Esuoh - Life on the Farm",
+  "item.farmlife.galliraptor_egg": "Яйцо галлираптора",
+  "item.farmlife.galliraptor": "Сырой галлираптор",
+  "item.farmlife.cooked_galliraptor": "Жареный галлираптор",
+  "item.farmlife.tribull_milk": "Ведро молока три-быка",
+  "item.farmlife.tribull_cheese_wedge": "Кусок сыра три-быка",
+  "item.farmlife.cooked_fuli": "Жареный фули",
+  "item.farmlife.fuli": "Сырой фули",
+
+  "item.farmlife.domestic_tribull_spawn_egg": "Яйцо призыва домашнего три-быка",
+  "item.farmlife.galliraptor_spawn_egg": "Яйцо призыва галлираптора",
+  "item.farmlife.platefish_spawn_egg": "Яйцо призыва рыбы-тарелки",
+
+  "block.farmlife.peacock_burst_poppy": "Павлиний взрывной мак",
+  "block.farmlife.electric_burst_poppy": "Электрический взрывной мак",
+  "block.farmlife.fancy_burst_poppy": "Нарядный взрывной мак",
+  "block.farmlife.olive_burst_poppy": "Оливковый взрывной мак",
+  "block.farmlife.rusty_burst_poppy": "Ржавый взрывной мак",
+  "block.farmlife.sunstreak_burst_poppy": "Солнечный взрывной мак",
+  "block.farmlife.potted_peacock_burst_poppy": "Павлиний взрывной мак в горшке",
+  "block.farmlife.potted_electric_burst_poppy": "Электрический взрывной мак в горшке",
+  "block.farmlife.potted_fancy_burst_poppy": "Нарядный взрывной мак в горшке",
+  "block.farmlife.potted_olive_burst_poppy": "Оливковый взрывной мак в горшке",
+  "block.farmlife.potted_rusty_burst_poppy": "Ржавый взрывной мак в горшке",
+  "block.farmlife.potted_sunstreak_burst_poppy": "Солнечный взрывной мак в горшке",
+  "block.farmlife.tribull_milk_cauldron": "Котёл молока три-быка",
+  "block.farmlife.tribull_cheese_wheel": "Головка сыра три-быка",
+  "block.farmlife.platefish_plate": "Тарелка из рыбы-тарелки",
+
+  "entity.farmlife.domestic_tribull": "Домашний три-бык",
+  "entity.farmlife.galliraptor": "Галлираптор",
+  "entity.farmlife.galliraptor_egg": "Яйцо галлираптора",
+  "entity.farmlife.platefish": "Рыба-тарелка",
+
+  "farmlife.domestic_tribull.ambient": "Домашний три-бык ворчит",
+  "farmlife.domestic_tribull.hurt": "Домашний три-бык ранен",
+  "farmlife.domestic_tribull.death": "Домашний три-бык умирает",
+
+  "farmlife.galliraptor.ambient": "Галлираптор кудахчет",
+  "farmlife.galliraptor.hurt": "Галлираптор ранен",
+  "farmlife.galliraptor.death": "Галлираптор умирает"
+}

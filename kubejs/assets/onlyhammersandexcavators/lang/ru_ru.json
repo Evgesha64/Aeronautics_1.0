@@ -1,0 +1,25 @@
+{
+  "item.onlyhammersandexcavators.wooden_excavator": "Деревянный экскаватор",
+  "item.onlyhammersandexcavators.stone_excavator": "Каменный экскаватор",
+  "item.onlyhammersandexcavators.iron_excavator": "Железный экскаватор",
+  "item.onlyhammersandexcavators.gold_excavator": "Золотой экскаватор",
+  "item.onlyhammersandexcavators.lapis_excavator": "Лазуритовый экскаватор",
+  "item.onlyhammersandexcavators.redstone_excavator": "Редстоуновый экскаватор",
+  "item.onlyhammersandexcavators.diamond_excavator": "Алмазный экскаватор",
+  "item.onlyhammersandexcavators.emerald_excavator": "Изумрудный экскаватор",
+  "item.onlyhammersandexcavators.obsidian_excavator": "Обсидиановый экскаватор",
+  "item.onlyhammersandexcavators.netherite_excavator": "Незеритовый экскаватор",
+
+  "item.onlyhammersandexcavators.wooden_hammer": "Деревянный молот",
+  "item.onlyhammersandexcavators.stone_hammer": "Каменный молот",
+  "item.onlyhammersandexcavators.iron_hammer": "Железный молот",
+  "item.onlyhammersandexcavators.gold_hammer": "Золотой молот",
+  "item.onlyhammersandexcavators.lapis_hammer": "Лазуритовый молот",
+  "item.onlyhammersandexcavators.redstone_hammer": "Редстоуновый молот",
+  "item.onlyhammersandexcavators.diamond_hammer": "Алмазный молот",
+  "item.onlyhammersandexcavators.emerald_hammer": "Изумрудный молот",
+  "item.onlyhammersandexcavators.obsidian_hammer": "Обсидиановый молот",
+  "item.onlyhammersandexcavators.netherite_hammer": "Незеритовый молот",
+
+  "itemGroup.onlyhammersandexcavators": "Only Hammers And Excavators"
+}

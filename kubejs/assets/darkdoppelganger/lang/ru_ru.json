@@ -1,0 +1,21 @@
+{
+  "item.darkdoppelganger.summon_scroll": "Свиток призыва",
+  "item.darkdoppelganger.shadow_orb": "Теневая сфера",
+  "item.darkdoppelganger.elder_necklace": "Ожерелье древнего",
+  "item.darkdoppelganger.summons_necklace": "Ожерелье призывателя",
+  "item.darkdoppelganger.doppelganger_ring": "Кольцо доппельгангера",
+  "itemGroup.darkdoppelganger.example_tab": "Вкладка Dark Doppelganger",
+  "item.darkdoppelganger.summon_scroll.tooltip": "Используйте это, чтобы призвать Тёмного доппельгангера!",
+  "advancement.kill_dark_doppelganger.title": "Убийца Тёмного доппельгангера",
+  "advancement.kill_dark_doppelganger.description": "Победите Тёмного доппельгангера. Награда уже ждёт!",
+
+  "advancement.summon_dark_doppelganger.title": "Пробуждение Тёмного доппельгангера",
+  "advancement.summon_dark_doppelganger.description": "Используйте свиток призыва, чтобы вызвать Тёмного доппельгангера.",
+
+  "spell.irons_spellbooks.doppel_portal": "Прыжок через портал",
+  "spell.darkdoppelganger.doppel_portal": "Прыжок через портал",
+
+  "spell.irons_spellbooks.doppel_portal.guide": "Войдите в портал, призванный перед вами, чтобы выйти через другой портал в нескольких блоках отсюда.",
+
+  "itemGroup.darkdoppelganger.doppelganger_tab": "Dark Doppelganger"
+}

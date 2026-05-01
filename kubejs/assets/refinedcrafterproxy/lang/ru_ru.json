@@ -1,0 +1,12 @@
+{
+  "block.refinedcrafterproxy.crafter_proxy": "Прокси-крафтер",
+  "item.refinedcrafterproxy.crafter_proxy_card": "Карта связи прокси-крафтера",
+  "item_group.refinedcrafterproxy.general": "Refined Crafter Proxy",
+  "refinedcrafterproxy.crafter_proxy_card.clear": "Выбор очищен",
+  "refinedcrafterproxy.crafter_proxy_card.select": "Блок выбран",
+  "refinedcrafterproxy.crafter_proxy_card.status.connected": "Подключено",
+  "refinedcrafterproxy.crafter_proxy_card.status.disconnected": "Отключено",
+  "refinedcrafterproxy.crafter_proxy_card.status.invalid_crafter": "Неверный целевой крафтер",
+  "refinedcrafterproxy.crafter_proxy_card.status.prefix": "Последний статус: ",
+  "refinedcrafterproxy.crafter_proxy_card.tooltip": "Связано с блоком в %4$s по координатам (%1$d, %2$d, %3$d)"
+}

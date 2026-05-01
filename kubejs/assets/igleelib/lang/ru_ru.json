@@ -1,0 +1,20 @@
+{
+  "itemGroup.igleelib.base": "Библиотека Iglee",
+
+  "block.igleelib.modium_block": "Блок модия",
+  "block.igleelib.derium_block": "Блок дерия",
+  "block.igleelib.blazum_block": "Блок блазума",
+  "block.igleelib.lavium_block": "Блок лавия",
+
+  "item.igleelib.modium_ingot": "Слиток модия",
+  "item.igleelib.derium_ingot": "Слиток дерия",
+  "item.igleelib.blazum_ingot": "Слиток блазума",
+  "item.igleelib.lavium_ingot": "Слиток лавия",
+  "item.igleelib.blaze_shard": "Осколок всполоха",
+  "item.igleelib.iglium_upgrade_smithing_template": "Улучшение иглиума",
+
+  "item.igleelib.smithing_template.iglium_upgrade.additions_slot_description": "Добавьте алмаз, плачущий обсидиан, стержень всполоха или осколок всполоха",
+  "item.igleelib.smithing_template.iglium_upgrade.applies_to": "Незеритовый слиток",
+  "item.igleelib.smithing_template.iglium_upgrade.base_slot_description": "Добавьте незеритовый слиток",
+  "item.igleelib.smithing_template.iglium_upgrade.ingredients": "Алмаз, плачущий обсидиан, стержень всполоха, осколок всполоха"
+}

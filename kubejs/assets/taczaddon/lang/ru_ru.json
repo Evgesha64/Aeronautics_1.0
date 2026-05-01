@@ -1,0 +1,6 @@
+{
+  "key.taczaddon.switch_gun.desc": "Быстрая смена оружия",
+  "key.categories.taczaddon": "Аддон TaCZ",
+  "gui.taczaddon.gun_smith_table.page_index": "%s (Страница-%s/%s)",
+  "gui.taczaddon.gun_smith_table.default_prop": "Фильтр модулей"
+}

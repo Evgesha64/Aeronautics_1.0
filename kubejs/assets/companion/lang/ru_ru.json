@@ -1,0 +1,6 @@
+{
+  "gamerule.petFriendlyFire": "Огонь по своим (питомцы)",
+  "gamerule.petFriendlyFire.description": "Огонь по своим для питомцев. (от мода Companion)",
+  "gamerule.companion:alwaysTeleportHorses": "Всегда телепортировать лошадь",
+  "gamerule.companion:alwaysTeleportHorses.description": "Всегда телепортирует ваших лошадей, если они слишком далеко от вас. (от мода Companion)"
+}

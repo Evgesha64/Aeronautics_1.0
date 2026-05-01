@@ -1,0 +1,11 @@
+{
+  "item.medieval_healing.bandage": "Бинт",
+  "item.medieval_healing.healing_wrap": "Лечебная повязка",
+  "item.medieval_healing.leather_binding": "Кожаная обвязка",
+  "item.medieval_healing.raw_herbal_mix": "Сырая травяная смесь",
+  "item.medieval_healing.herbal_medicine": "Травяное лекарство",
+  "item.medieval_healing.herbal_tonic": "Травяной тоник",
+  "item.medieval_healing.suture_kit": "Набор для наложения швов",
+
+  "itemGroup.medieval_healing": "Medieval Healing"
+}

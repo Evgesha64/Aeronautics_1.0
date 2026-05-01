@@ -1,0 +1,20 @@
+{
+  "item.assimilator.assimilator_spawn_egg": "Яйцо призыва ассимилированного пещерного обитателя",
+  "item.assimilator.assimilator_spawn_egg.tooltip": "§5Призывает Ассимилированного\n§7Искажённый Пещерный обитатель",
+  
+  "entity.assimilator.assimilator": "Ассимилированный пещерный обитатель",
+
+  "death.attack.assimilator": "%1$s был ассимилирован и пожран заживо",
+  "death.attack.assimilator.player": "%1$s был пожран, сражаясь с %2$s",
+
+  "advancement.assimilator.root.title": "Начало ассимиляции",
+  "advancement.assimilator.root.description": "Ты столкнулся с чем-то противоестественным.",
+
+  "advancement.assimilator.first_contact.title": "Первый контакт",
+  "advancement.assimilator.first_contact.description": "Ты встретил Ассимилятора.",
+
+  "advancement.assimilator.kill_assimilated.title": "Очистить заражение",
+  "advancement.assimilator.kill_assimilated.description": "Победи ассимилированного пещерного обитателя.",
+
+  "itemGroup.assimilator": "Assimilator Mod"
+}

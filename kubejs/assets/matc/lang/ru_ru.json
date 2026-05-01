@@ -1,0 +1,8 @@
+{
+	"item.matc.inferium_crystal" : "§eИнфериум кристалл инфузии",
+	"item.matc.prudentium_crystal" : "§2Прудентий кристалл инфузии",
+	"item.matc.tertium_crystal" : "§6Тертиум кристалл инфузии",
+	"item.matc.imperium_crystal" : "§9Империум кристалл инфузии",
+	"item.matc.supremium_crystal" : "§cСупремиум кристалл инфузии",
+	"itemGroup.matc": "Кристаллы уровней Mystical Agriculture"
+}

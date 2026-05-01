@@ -1,0 +1,362 @@
+# Essential Translations
+## Menus
+# Friends Menu
+gui.menu.friends.titletext=Друзья
+
+# Cosmetic Studio Menu
+gui.menu.cosmeticstudio.next=Следующая косметика
+gui.menu.cosmeticstudio.previous=Предыдущая косметика
+gui.menu.cosmeticstudio.previewnone=Убрать предпросмотр
+gui.menu.cosmeticstudio.togglespin=Вкл./выкл. вращение
+gui.menu.cosmeticstudio.togglefollowmouse=Вкл./выкл. следование за мышью
+gui.menu.cosmeticstudio.resetspin=Сбросить вращение
+gui.menu.cosmeticstudio.previewing=Предпросмотр:
+gui.menu.cosmeticstudio.none=Нет
+gui.menu.cosmeticstudio.adjustposition=Настроить положение:
+
+studio.BACK=Назад
+studio.EARS=Уши
+studio.FACE=Лицо
+studio.FULL_BODY=Костюм
+studio.HAT=Головной убор
+studio.PET=Питомец
+studio.TAIL=Хвост
+studio.ARMS=Руки
+studio.SUITS=Костюмы
+studio.SHOES=Обувь
+studio.PANTS=Штаны
+studio.WINGS=Крылья
+studio.FEATURED=Рекомендуемое
+studio.OWNED=Куплено
+studio.CAPE=Плащ
+studio.PARTNER=Партнёры
+studio.NEW=Новое
+studio.SHOULDERS=Плечи
+studio.test=Тестовое событие
+studio.100T=100 Thieves
+studio.INSANE=InsaneCraft
+studio.HALLOWEEN=Жуть
+studio.TEAMSEAS=#TeamSeas
+studio.RED=(RED)
+studio.WINTER=Зима
+studio.EFFECT=Эффект
+studio.FLAME=Пламя
+studio.HACKER=Хакер
+
+## Configuration
+# Configuration Names
+gui.config.name.friendnotifications=Уведомления о друзьях
+gui.config.name.messagereceivednotifications=Уведомления о новых сообщениях
+gui.config.name.messagegroupupdate=Обновления группы сообщений
+
+# Configuration Descriptions
+gui.config.description.displayfriendnotifs=Показывать уведомления о действиях друзей
+gui.config.description.displaymessagenotifs=Показывать уведомления о полученных сообщениях
+gui.config.description.displaygroupupdates=Показывать уведомления об обновлениях группы
+
+# Configuration Categories
+gui.config.category.notifications=Уведомления
+
+# Configuration Subcategories
+gui.config.subcategory.friends=Друзья
+gui.config.subcategory.messages=Сообщения
+
+## Feedback
+# Command Feedback
+command.feedback.refreshpurchases=Обновление вашего профиля
+
+# Keybind Feedback
+keybind.feedback.lookatplayerfriend=Посмотрите на игрока, чтобы добавить его в друзья!
+keybind.feedback.alreadyfriends=Вы уже дружите с этим человеком!
+keybind.feedback.blockedbyplayerfriend=Вы не можете добавить этого игрока в друзья, потому что он вас заблокировал!
+keybind.feedback.hasplayerblockedfriend=Вы не можете добавить этого игрока в друзья, потому что вы его заблокировали! Сначала снимите блокировку
+keybind.feedback.alreadypendingfriendrequest=Вы уже отправили этому игроку запрос в друзья!
+keybind.feedback.sendingfriendrequest=Отправка запроса в друзья игроку %s
+keybind.feedback.lookatplayermessage=Посмотрите на игрока, чтобы написать ему!
+keybind.feedback.notfriendedmessage=Вы не можете писать игроку, пока не добавите его в друзья Essential! Сначала добавьте его в друзья!
+keybind.feedback.openconversationmessage=Попытка открыть диалог с %s
+
+## Keybinds
+keybind.name.ESSENTIAL_FRIENDS=Открыть список друзей
+keybind.name.COSMETIC_STUDIO=Открыть гардероб
+Open Cosmetic Studio=Открыть гардероб
+keybind.name.ZOOM=Приближение
+keybind.name.COSMETICS_VISIBILITY_TOGGLE=Показать/скрыть мою косметику
+Cosmetic Visibility Toggle=Показать/скрыть мою косметику
+keybind.name.CHAT_PEEK=Быстрый просмотр чата
+keybind.name.INVITE_FRIENDS=Пригласить друзей
+keybind.name.SCREENSHOT_MANAGER=Менеджер скриншотов
+# Emote Keybinds
+keybind.name.EMOTE_WHEEL=Открыть колесо эмоций
+keybind.name.EMOTE_SLOT_1=Проиграть верхнюю левую эмоцию
+keybind.name.EMOTE_SLOT_2=Проиграть верхнюю среднюю эмоцию
+keybind.name.EMOTE_SLOT_3=Проиграть верхнюю правую эмоцию
+keybind.name.EMOTE_SLOT_4=Проиграть среднюю левую эмоцию
+keybind.name.EMOTE_SLOT_5=Проиграть среднюю правую эмоцию
+keybind.name.EMOTE_SLOT_6=Проиграть нижнюю левую эмоцию
+keybind.name.EMOTE_SLOT_7=Проиграть нижнюю среднюю эмоцию
+keybind.name.EMOTE_SLOT_8=Проиграть нижнюю правую эмоцию
+
+keybind.error.nonplayer=Этот игрок недоступен!
+
+## Notifications
+# Notification Titles
+notification.title.message=Сообщение
+notification.title.friends=Друзья
+notification.title.messages=Сообщения
+notification.title.failedgroupcreation=Не удалось создать группу
+notification.title.groupcreated=Группа создана
+
+# Notification Messages - Friends
+notification.message.acceptedfriend=Теперь вы дружите с %s!
+notification.message.removedfriend=Вы больше не дружите с %s!
+notification.message.sentfriendrequest=%s отправил вам запрос в друзья!
+notification.message.cancelledfriendrequest=Запрос в друзья %s %s отменён!
+notification.message.cancelledfriendrequestto=для
+notification.message.cancelledfriendr[]'equestfrom=from44
+notification.message.deniedfriendrequest=%s отклонил ваш запрос в друзья!
+notification.message.deniedfriendrequest_alt=Отклонён запрос в друзья от %s
+notification.message.blockedfriendrequest=%s заблокировал вас!
+notification.message.hasblockedfriendrequest=%s заблокирован!
+notification.message.unblockedfriendrequest=%s снял с вас блокировку!
+notification.message.hasunblockedfriendrequest=%s разблокирован!
+notification.message.requestsuccess=Запрос в друзья игроку %s успешно отправлен
+
+# Notification Messages - Messaging
+notification.message.newmessage=Сообщение от %s в %s
+notification.message.newmessage_dm=Сообщение от %s
+notification.message.groupcreated=Группа создана!
+
+# Cosmetics
+cosmetics.WINGS=Крылья
+cosmetics.DRAGON_COMPANION=Спутник-дракон
+cosmetics.DRAGON_HEAD=Голова дракона
+cosmetics.FEZ_HAT=Феска
+cosmetics.LEGO_HAT=Шляпа Lego
+cosmetics.TOP_HAT=Цилиндр
+cosmetics.CUSTOM_CAPE_STATIC=Пользовательский плащ без анимации
+cosmetics.CUSTOM_CAPE_DYNAMIC=Пользовательский плащ с анимацией
+cosmetics.NITRO_CAPE=Плащ Nitro
+cosmetics.EXAMPLE_CAPE=Пример плаща
+cosmetics.TAB_DOT=Точка в табе
+cosmetics.HEAD_TEXT=Текст над головой
+cosmetics.COLONIST_HAT=Шляпа колониста
+cosmetics.JETPACK=Ранец
+cosmetics.GENERIC_BACKPACK=Обычный рюкзак
+cosmetics.DOG_BACKPACK=Рюкзак с собакой
+cosmetics.AIRPODS=AirPods
+cosmetics.TAN_BACKPACK=Светло-коричневый рюкзак
+cosmetics.ELEPHANT_BACKPACK=Рюкзак-слон
+cosmetics.FEATHER_TOPHAT=Цилиндр с пером
+cosmetics.EARS=Уши
+cosmetics.HEADSET=Гарнитура
+cosmetics.SUNGLASSES=Солнцезащитные очки
+cosmetics.CUSTOM_SKIN_STATIC=Пользовательский скин без анимации
+cosmetics.CUSTOM_SKIN_DYNAMIC=Пользовательский скин с анимацией
+cosmetics.LEGO_MAESTRO_CAPE=Плащ Lego Maestro
+cosmetics.FLIP=Сальто
+cosmetics.DOG_FILTER=Собачий фильтр
+cosmetics.TURTLE_BACKPACK=Рюкзак-черепаха
+cosmetics.MONKEY_BACKPACK=Рюкзак-обезьяна
+cosmetics.KING_CROWN=Корона короля
+cosmetics.QUEEN_CROWN=Корона королевы
+cosmetics.FLOWER_CROWN=Цветочный венок
+cosmetics.FIRE_JETPACK=Огненный ранец
+cosmetics.WATER_JETPACK=Водяной ранец
+cosmetics.MAGIC_JETPACK=Магический ранец
+cosmetics.ANGEL_WINGS=Ангельские крылья
+cosmetics.DEMON_WINGS=Демонические крылья
+cosmetics.HEADPHONES=Наушники
+cosmetics.ROBOT_HELPMET=Шлем робота-помощника
+cosmetics.FROG_HAT=Шляпа-лягушка
+cosmetics.SPACESUIT_HELMET=Шлем скафандра
+cosmetics.PROPELLER_HAT=Шапка с пропеллером
+cosmetics.FRANKENSTEIN_BOLTS=Болты Франкенштейна
+cosmetics.EARMUFFS=Тёплые наушники
+cosmetics.HEADBANDS=Повязки на голову
+cosmetics.UNICORN__HORN=Рог единорога
+cosmetics.VIKING_HELMET=Шлем викинга
+cosmetics.ARROW_THROUGH_HEAD=Стрела в голове
+cosmetics.DEVIL_HORNS=Рога дьявола
+cosmetics.COWBOY_HAT=Ковбойская шляпа
+cosmetics.TALL_COWBOY_HAT=Высокая ковбойская шляпа
+cosmetics.CAT_EARS=Кошачьи уши
+cosmetics.RABBIT_EARS=Кроличьи уши
+cosmetics.DOG_EARS=Собачьи уши
+cosmetics.PANDA_EARS=Уши панды
+cosmetics.KANGAROO_EARS=Уши кенгуру
+cosmetics.ALIEN_EARS=Уши пришельца
+cosmetics.SUPER_TALL_COWBOY_HAT=Очень высокая ковбойская шляпа
+cosmetics.DEAL_WITH_IT_GLASSES=Очки Deal With It
+cosmetics.THREE_D_GLASSES=3D-очки
+cosmetics.CAT_FILTER=Кошачий фильтр
+cosmetics.RABBIT_FILTER=Кроличий фильтр
+cosmetics.MONOCLE=Монокль
+cosmetics.TIKI_MASK=Маска тики
+cosmetics.BANANA_OUTFIT=Костюм банана
+cosmetics.ENDER_DRAGON_OUTFIT=Костюм дракона Края
+cosmetics.SPACE_SUIT=Скафандр
+cosmetics.GOATEE=Эспаньолка
+cosmetics.OLD_DUTCH_BEARD=Старая голландская борода
+cosmetics.SOUL_PATCH=Бородач под губой
+cosmetics.MUTTON_CHOPS_BEARD=Борода-бакенбарды
+cosmetics.A_LA_SOUVAROV_BEARD=Борода а-ля Суваров
+cosmetics.PHARAOH_HEADDRESS=Головной убор фараона
+cosmetics.VAN_DYKE_BEARD=Борода Ван Дайка
+cosmetics.SHORT_BOXED_BEARD=Короткая окантованная борода
+cosmetics.SPARROW_BEARD=Борода Воробья
+cosmetics.FRANZ_JOSEF_BEARD=Борода Франца Иосифа
+cosmetics.HOLLYWOOD_BEARD=Голливудская борода
+cosmetics.FU_MANCHU_MUSTACHE=Усы Фу Маньчжу
+cosmetics.LONG_BOXED_BEARD=Длинная окантованная борода
+cosmetics.PHARAOH_BEARD=Борода фараона
+cosmetics.SAMURAI_MASK_HELMET=Шлем-маска самурая
+cosmetics.SAMURAI_HELMET=Шлем самурая
+cosmetics.DRAGON_TAIL=Хвост дракона
+cosmetics.CHEF_HAT=Поварской колпак
+cosmetics.FIREFIGHTER_HELMET=Шлем пожарного
+cosmetics.SODA_HAT=Шляпа с газировкой
+cosmetics.SOMBRERO=Сомбреро
+cosmetics.CLOWN_MASK=Маска клоуна
+cosmetics.ARMY_HELMET=Армейский шлем
+cosmetics.PILOT_HAT=Шляпа пилота
+cosmetics.PIRATE_HAT=Пиратская шляпа
+cosmetics.STEAMPUNK_HAT=Стимпанк-шляпа
+cosmetics.RASTA_WIG=Раста-парик
+cosmetics.GAS_MASK=Противогаз
+cosmetic.BIONIC_CYBORG_FACE=Bionic
+cosmetic.BITZEL_SOCK_MONKEY.partnername=Bitzel
+cosmetic.HAPICO_FROG.partnername=Hapico
+cosmetic.BIFFLE_MONOCLE.partnername=Biffle
+cosmetic.HENRY_COSMETIC.partnername=Henwy
+cosmetic.JEROME_BEAR_ONESIE.partnername=JeromeASF
+cosmetic.SSUNDEE_FOOT_ONESIE.partnername=SSundee
+cosmetic.SIGILS_STARTER_KIT.partnername=Sigils
+cosmetic.MEFS_TACO_WINGS.partnername=Mefs
+cosmetic.MICHAELMCCHIL_ALESIA_BACKPACK.partnername=Michaelmcchill
+cosmetic.KRINIOS_KEY_WINGS.partnername=Krinios
+
+
+connectionmanager.friends.EXISTING_REQUEST_IS_PENDING=Вы уже отправили этому человеку запрос в друзья
+connectionmanager.friends.SENDER_TYPE_VERIFIED_SLOT_LIMIT=Вы достигли максимального числа друзей. Удалите кого-нибудь, чтобы добавить новых.
+connectionmanager.friends.TARGET_TYPE_VERIFIED_SLOT_LIMIT=Этот человек достиг максимального числа друзей
+connectionmanager.friends.NO_PENDING_REQUEST_TO_VERIFY=Нет запроса в друзья для принятия
+connectionmanager.friends.VERIFIED_RELATIONSHIP_ALREADY_EXISTS=Вы уже дружите с этим человеком
+connectionmanager.friends.NO_BLOCKED_RELATIONSHIP_TO_CONVERT=Не вышло заблокировать этого человека
+connectionmanager.friends.SENDER_BLOCKED_TARGET=У вас заблокирован этот человек. Снимите блокировку, чтобы отправить запрос в друзья
+connectionmanager.friends.TARGET_BLOCKED_SENDER=Этот человек вас заблокировал
+connectionmanager.friends.SENDER_TYPE_OUTGOING_SLOT_LIMIT=Вы достигли максимального числа ожидающих запросов в друзья. Отмените часть, прежде чем отправлять новые
+connectionmanager.friends.TARGET_TYPE_INCOMING_SLOT_LIMIT=У этого человека слишком много входящих запросов в друзья
+connectionmanager.friends.TARGET_PRIVACY_SETTING_FRIEND_OF_FRIENDS=Этот человек принимает запросы в друзья только от общих друзей
+connectionmanager.friends.TARGET_PRIVACY_SETTING_NO_ONE=Этот человек сейчас не принимает запросы в друзья
+connectionmanager.friends.TARGET_NOT_EXIST=Игрок не найден
+
+## World Settings
+# Game Rules
+gamerule.announceAdvancements=Объявлять достижения
+gamerule.announceAdvancements.description=Показывать достижения в чате.
+gamerule.commandBlocksEnabled=Командные блоки включены
+gamerule.commandBlocksEnabled.description=Разрешить командным блокам выполнять команды.
+gamerule.commandBlockOutput=Вывод командных блоков
+gamerule.commandBlockOutput.description=Показывать вывод командных блоков администраторам в чате.
+gamerule.disableElytraMovementCheck=Отключить проверку движения на элитрах
+gamerule.disableElytraMovementCheck.description=Убрать дёрганье элитр через отключение античита.
+gamerule.disableRaids=Отключить рейды
+gamerule.disableRaids.description=Отключить рейды на деревни.
+gamerule.doDaylightCycle=Смена дня и ночи
+gamerule.doDaylightCycle.description=Время суток идёт своим чередом.
+gamerule.doEntityDrops=Выпадение предметов с сущностей
+gamerule.doEntityDrops.description=Неживые сущности, например вагонетки и рамки, роняют предметы.
+gamerule.doFireTick=Распространение огня
+gamerule.doFireTick.description=Огонь распространяется и уничтожает блоки.
+gamerule.doInsomnia=Бессонница
+gamerule.doInsomnia.description=Ночью появляются фантомы.
+gamerule.doImmediateRespawn=Мгновенное возрождение
+gamerule.doImmediateRespawn.description=Игроки возрождаются сразу, без экрана смерти.
+gamerule.doLimitedCrafting=Ограниченный крафт
+gamerule.doLimitedCrafting.description=Игроки могут создавать только открытые рецепты.
+gamerule.doMobLoot=Добыча с мобов
+gamerule.doMobLoot.description=Мобы, например овцы и зомби, роняют предметы и опыт.
+gamerule.doMobSpawning=Появление мобов
+gamerule.doMobSpawning.description=Мобы появляются естественным образом.
+gamerule.doPatrolSpawning=Появление патрулей
+gamerule.doPatrolSpawning.description=Патрули появляются естественным образом.
+gamerule.doTileDrops=Выпадение предметов с блоков
+gamerule.doTileDrops.description=Блоки роняют предметы при разрушении.
+gamerule.doTraderSpawning=Появление торговца
+gamerule.doTraderSpawning.description=Может появляться странствующий торговец.
+gamerule.doWeatherCycle=Смена погоды
+gamerule.doWeatherCycle.description=Погода меняется естественным образом.
+gamerule.doWardenSpawning=Появление надзирателя
+gamerule.doWardenSpawning.description=Надзиратели могут появляться.
+gamerule.drowningDamage=Урон от утопления
+gamerule.drowningDamage.description=Игроки получают урон от утопления.
+gamerule.fallDamage=Урон от падения
+gamerule.fallDamage.description=Игроки получают урон от падения.
+gamerule.fireDamage=Урон от огня
+gamerule.fireDamage.description=Игроки получают урон от огня и лавы.
+gamerule.forgiveDeadPlayers=Прощать мёртвых игроков
+gamerule.forgiveDeadPlayers.description=Разозлённые нейтральные мобы, например эндермены и пчёлы, перестают злиться после смерти игрока.
+gamerule.freezeDamage=Урон от замерзания
+gamerule.freezeDamage.description=Игроки получают урон от замерзания в рыхлом снегу.
+gamerule.functionCommandLimit=Лимит команд функции
+gamerule.functionCommandLimit.description=Лимит команд, которые может выполнить /function.
+gamerule.keepInventory=Сохранять инвентарь
+gamerule.keepInventory.description=Игроки сохраняют инвентарь после смерти.
+gamerule.logAdminCommands=Журнал команд админа
+gamerule.logAdminCommands.description=Включать команды админа в журнал сервера.
+gamerule.maxCommandChainLength=Макс. длина цепочки команд
+gamerule.maxCommandChainLength.description=Максимальная длина цепочки команд за тик.
+gamerule.maxEntityCramming=Макс. скученность сущностей
+gamerule.maxEntityCramming.description=Сколько мобов может находиться в одном месте с игроком до удушья.
+gamerule.mobGriefing=Разрушение мира мобами
+gamerule.mobGriefing.description=Мобы могут подбирать предметы и ломать блоки.
+gamerule.naturalRegeneration=Естественная регенерация
+gamerule.naturalRegeneration.description=Игроки восстанавливают здоровье, когда шкала голода достаточно заполнена.
+gamerule.playersSleepingPercentage=Процент спящих игроков
+gamerule.playersSleepingPercentage.description=Процент игроков, который должен спать для пропуска ночи.
+gamerule.pvp=PvP
+gamerule.pvp.description=Игроки могут сражаться друг с другом.
+gamerule.randomTickSpeed=Скорость случайных тиков
+gamerule.randomTickSpeed.description=Скорость роста растений, гниения листвы и распространения огня.
+gamerule.reducedDebugInfo=Сокращённая отладка
+gamerule.reducedDebugInfo.description=Показывать только основную информацию в оверлее F3.
+gamerule.respawnBlocksExplode=Блоки возрождения взрываются
+gamerule.respawnBlocksExplode.description=Кровати и якоря возрождения не будут взрываться в других измерениях.
+gamerule.sendCommandFeedback=Показывать отклик команд
+gamerule.sendCommandFeedback.description=Показывать отклик команд в чате.
+gamerule.showBorderEffect=Показывать эффект границы
+gamerule.showBorderEffect.description=Показывать эффект, который указывает границу блоков.
+gamerule.showCoordinates=Показывать координаты
+gamerule.showCoordinates.description=Показывать координаты игрока.
+gamerule.showDeathMessages=Показывать сообщения о смерти
+gamerule.showDeathMessages.description=Сообщения о смерти видны в чате, когда игрок умирает.
+gamerule.showTags=Показывать теги
+gamerule.showTags.description=Скрыть индикаторы блокировки предметов и сведения о размещении или ломании из описания предмета.
+gamerule.spawnRadius=Радиус спавна
+gamerule.spawnRadius.description=Радиус вокруг точки спавна мира, в котором появляются игроки.
+gamerule.spectatorsGenerateChunks=Зрители создают чанки
+gamerule.spectatorsGenerateChunks.description=Игроки в режиме наблюдателя создают новые чанки.
+gamerule.tntExplodes=Взрыв TNT
+gamerule.tntExplodes.description=TNT взрывается при поджоге.
+gamerule.universalAnger=Всеобщая агрессия
+gamerule.universalAnger.description=Разозлённые нейтральные мобы атакуют всех игроков, а не только того, кто их задел.
+gamerule.gameLoopFunction=Функция игрового цикла
+
+# Category names
+gamerule.category.player=Игрок
+gamerule.category.mobs=Мобы
+gamerule.category.spawning=Появление
+gamerule.category.drops=Добыча
+gamerule.category.world_updates=Обновление мира
+gamerule.category.chat=Чат
+gamerule.category.miscellaneous=Разное
+gamerule.category.other=Другое
+gamerule.category.pinned=Закреплённое
+
+## Window titles
+title.singleplayer=Одиночная игра
+title.multiplayer.realms=Сетевая игра (Realms)
+title.multiplayer.lan=Сетевая игра (LAN)
+title.multiplayer.other=Сетевая игра (сторонний сервер)
+title.multiplayer.hosted=Сетевая игра (хост-мир)

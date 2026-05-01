@@ -1,0 +1,57 @@
+# --- игрок / сессия ---
+saves/
+logs/
+crash-reports/
+debug/
+usercache.json
+usernamecache.json
+command_history.txt
+session.lock
+servers.dat
+servers.dat_old
+
+# --- лаунчер и чувствительное ---
+.curseclient
+TLauncherAdditional.json
+clientId.txt
+launcher_*.*
+*_credentials*
+*.bin
+
+# --- кэш и нативы ---
+natives/
+downloads/
+cache/
+.mixin.out/
+local/
+runtime/
+
+# --- клиент (не распространять через Git) ---
+Aeronautics_1.0.jar
+
+# --- карты / личные данные ---
+xaero/
+XaeroWaypoints_BACKUP*/
+emi.json
+ponders_watched.json
+imgui.ini
+options.txt
+optionsof.txt
+
+# --- прочее ---
+*.log
+hs_err_pid*.log
+replay_recordings/
+screenshots/
+server-resource-packs/
+
+# --- системные ---
+Thumbs.db
+.DS_Store
+*.swp
+*~
+
+# Опционально: раскомментируйте, если моды не кладёте в Git (только конфиги + kubejs;
+# тогда список модов выгружайте через CurseForge / Modrinth / packwiz).
+# mods/*.jar
+# mods/*.jar.disabled

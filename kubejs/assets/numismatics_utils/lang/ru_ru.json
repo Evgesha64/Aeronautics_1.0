@@ -1,0 +1,12 @@
+{
+  "itemGroup.numismatics_utils": "Numismatics Utils",
+
+  "item.numismatics_utils.bank_meter": "Банковский счётчик",
+  "item.numismatics_utils.portable_bank_terminal": "Портативный банковский терминал",
+
+  "gui.numismatics_utils.bank_meter": "¤ %s",
+  "info.numismatics_utils.balance": "Баланс: ¤ %s",
+
+  "curios.identifier.card": "Карта",
+  "curios.identifier.bank_meter": "Банковский счётчик"
+}

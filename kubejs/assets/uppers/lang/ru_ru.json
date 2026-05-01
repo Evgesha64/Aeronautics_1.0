@@ -1,0 +1,17 @@
+{
+	"_comment": "Items",
+	"item.uppers.upper_item": "Верхний воронкообразный блок",
+
+	"_comment": "Blocks",
+	"block.uppers.upper": "Верхний воронкообразный блок",
+
+	"_comment": "Tool Tips",
+	"tooltip.upper_1": "Работает как перевёрнутая воронка.",
+	"tooltip.upper_2": "Втягивает предметы из блока снизу.",
+
+	"_comment": "Gui",
+	"container.upper": "Верхний воронкообразный блок",
+
+	"_comment": "Creative Tabs",
+	"itemGroup.uppers": "Верхние воронки"
+}

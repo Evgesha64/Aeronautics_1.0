@@ -1,0 +1,294 @@
+{
+  "creativetab.celestisynth_tab": "Celestisynth",
+
+  "rarity.celestial.name": "Небесный",
+
+  "attribute.celestisynth.celestial_damage": "Урон небесного оружия",
+  "attribute.celestisynth.celestial_damage_reduction": "Снижение урона небесного оружия",
+
+  "entity.celestisynth.star_monolith": "Небесный монолит",
+  "entity.celestisynth.traverser": "Странник",
+  "entity.celestisynth.rainfall_turret": "Турель Небесного ливня",
+
+  "block.celestisynth.no_more_celestial_workbench": "Этот предмет больше нельзя использовать. Преобразуйте этот блок в Starlit Factory в сетке крафта!",
+  "item.celestisynth.test": "СВИТОК: %s",
+  "item.celestisynth.scroll_notice": "[Прокрутите, чтобы переключаться между способностями]",
+  "item.celestisynth.shift_notice": "[Нажмите Shift или Ctrl, чтобы переключать страницы]",
+  "item.celestisynth.passive_notice": "ПАССИВНЫЕ ЭФФЕКТЫ",
+  "item.celestisynth.skill_notice": "НАВЫКИ",
+  "item.celestisynth.celestial_tier": "НЕБЕСНЫЙ РАНГ",
+  "item.celestisynth.starlit_fuel_amount": "Количество звёздного топлива: %s",
+
+  "item.celestisynth.solar_crystal_armor_bonus": "При получении урона броня выпускает круг пламени, который наносит урон и поджигает ближайшие цели. Каждый предмет брони увеличивает урон вспышки и длительность горения.",
+  "item.celestisynth.lunar_stone_armor_bonus": "Когда носитель получает урон, броня имеет шанс 1 к 5 значительно уменьшить получаемый урон. Каждый предмет брони увеличивает величину уменьшения урона.",
+
+  "item.celestisynth.celestial_core": "Небесное ядро",
+  "item.celestisynth.celestial_core_heated": "Нагретое небесное ядро",
+  "item.celestisynth.supernal_netherite_ingot": "Высший незеритовый слиток",
+  "item.celestisynth.celestial_netherite_ingot": "Небесный незеритовый слиток",
+  "item.celestisynth.lunar_scrap": "Лунный скрап",
+  "block.celestisynth.solar_crystal": "Солнечный кристалл",
+  "block.celestisynth.lunar_stone": "Лунный камень",
+  "block.celestisynth.zephyr_deposit": "Залежи зефира",
+  "item.celestisynth.eyebomination": "Глазомерзость",
+  "item.celestisynth.starstruck_scrap": "Звездопоражённый скрап",
+  "item.celestisynth.starstruck_feather": "Звездопоражённое перо",
+  "block.celestisynth.wintereis": "Винтерэйс",
+  "item.celestisynth.wintereis_shard": "Осколок Винтерэйса",
+  "item.celestisynth.crimson_piece": "Багряный осколок",
+  "item.celestisynth.traverser_spawn_egg": "Яйцо призыва странника",
+  "item.celestisynth.star_monolith": "Пустой небесный монолит",
+  "item.celestisynth.star_monolith_blood": "Небесный монолит кровавой руны",
+  "block.celestisynth.celestial_crafting_table": "Небесный верстак",
+  "block.celestisynth.starlit_factory": "Starlit Factory",
+  "item.celestisynth.solar_crystal_helmet": "Шлем из солнечного кристалла",
+  "item.celestisynth.solar_crystal_chestplate": "Нагрудник из солнечного кристалла",
+  "item.celestisynth.solar_crystal_leggings": "Поножи из солнечного кристалла",
+  "item.celestisynth.solar_crystal_boots": "Ботинки из солнечного кристалла",
+  "item.celestisynth.lunar_stone_helmet": "Шлем из лунного камня",
+  "item.celestisynth.lunar_stone_chestplate": "Нагрудник из лунного камня",
+  "item.celestisynth.lunar_stone_leggings": "Поножи из лунного камня",
+  "item.celestisynth.lunar_stone_boots": "Ботинки из лунного камня",
+
+  "item.celestisynth.celestial_debugger": "СУПЕР-ПУПЕР небесный отладчик",
+
+  "item.celestisynth.celestial_spell_book": "Небесный генезис",
+
+  "container.celestisynth.starlit_factory": "Starlit Factory",
+
+  "tip.celestisynth.starlit_factory_0": "А вы знали? Rainfall Serenity можно зачаровать некоторыми чарами для арбалета, такими как Multishot, Piercing и Quick Charge.",
+  "tip.celestisynth.starlit_factory_1": "Poltergeist – это невероятно мощное тяжёлое оружие, нужно лишь использовать его правильно!",
+  "tip.celestisynth.starlit_factory_2": "Кровавые монолиты естественно появляются в незерских крепостях, так что берегитесь странников! Они быстрые, осторожные и универсальные!",
+  "tip.celestisynth.starlit_factory_3": "Вы когда-нибудь задумывались, как выглядело бы PvP с этим оружием? Лично я – да.",
+  "tip.celestisynth.starlit_factory_4": "Keres – самое разрушительное оружие в моде, используйте его с осторожностью!",
+
+  "effect.celestisynth.hellbane": "Погибель ада",
+  "effect.celestisynth.hellbane.description": "Усиливает любые эффекты регенерации, действующие на сущность",
+  "effect.celestisynth.cursebane": "Погибель проклятия",
+  "effect.celestisynth.cursebane.description": "Ослабляет любые эффекты регенерации, действующие на сущность",
+
+  "enchantment.celestisynth.pulsation": "Пульсация",
+  "enchantment.celestisynth.pulsation.desc": "Имеет шанс вызвать дополнительный импульс при ударе, который отбрасывает цель и наносит дополнительный урон",
+
+  "commands.celestisynth.clear_animation": "Анимация успешно очищена",
+
+  "death.attack.basic_player_attack": "%s был убит игроком %s.",
+  "death.attack.rapid_player_attack": "%s получил от %s столько ударов подряд, что умер.",
+  "death.attack.basic_player_attack_nokb": "%s был убит игроком %s.",
+  "death.attack.rapid_player_attack_nokb": "%s получил от %s столько ударов подряд, что умер.",
+  "death.attack.erasure": "%s был полностью стёрт игроком %s.",
+  "death.attack.pulsation": "%s наделил %s вспышкой огромной силы.",
+
+  "------------------- SOLARIS ------------------":  "",
+
+  "item.celestisynth.solaris": "Solaris",
+  "advancement.celestisynth.obtain_solaris.title": "На миллион градусов выше",
+  "advancement.celestisynth.obtain_solaris.description": "Получите Solaris",
+
+  "item.celestisynth.solaris.passive_1": "Благословение уголька",
+  "item.celestisynth.solaris.passive_desc_1": "Игрок получает иммунитет к огню, пока держит этот предмет – обычные атаки этим оружием поджигают цель на несколько секунд.",
+
+  "item.celestisynth.solaris.passive_2": "Формирование солнечных бомб",
+  "item.celestisynth.solaris.passive_desc_2": "При удержании правой кнопки с Solaris игрок может призвать до 5 солнечных бомб, которые будут кружить вокруг него. Нанесение урона цели направляет к ней солнечную бомбу.",
+
+  "item.celestisynth.solaris.skill_1": "Вращающееся пламя – полный оборот",
+  "item.celestisynth.solaris.condition_1": "Активация: ПКМ",
+  "item.celestisynth.solaris.desc_1": "Выполняет изящное вращение, нанося урон и поджигая ближайших существ.",
+
+  "item.celestisynth.solaris.skill_2": "Вращающееся пламя – прямой рывок души",
+  "item.celestisynth.solaris.condition_2": "Активация: ПКМ с зажатым SHIFT",
+  "item.celestisynth.solaris.desc_2": "Совершает рывок вперёд, поражая и временно поджигая существ на своём пути.",
+
+  "chant.celestisynth.solaris": "Зажигатель",
+  "chant.celestisynth.solaris1": "Полное вращение.",
+  "chant.celestisynth.solaris2": "Несокрушимый дух.",
+  "chant.celestisynth.solaris3": "ЖАР.",
+
+  "------------------- CRESCENTIA ------------------":  "",
+
+  "item.celestisynth.crescentia": "Crescentia",
+  "advancement.celestisynth.obtain_crescentia.title": "Прекрасные фейерверки",
+  "advancement.celestisynth.obtain_crescentia.description": "Получите Crescentia",
+
+  "item.celestisynth.crescentia.passive_1": "Тяжеловес",
+  "item.celestisynth.crescentia.passive_desc_1": "Игрок получает уровень сопротивления урону, пока держит этот предмет – обычные атаки этим оружием замедляют цель на несколько секунд.",
+
+  "item.celestisynth.crescentia.skill_1": "Залп лунного торжества",
+  "item.celestisynth.crescentia.condition_1": "Активация: ПКМ",
+  "item.celestisynth.crescentia.desc_1": "Высвобождает ослепительный шквал ударов по ближайшим существам, сопровождаемый завораживающим фейерверком.",
+
+  "item.celestisynth.crescentia.skill_2": "Око дракона",
+  "item.celestisynth.crescentia.condition_2": "Активация: ПКМ с зажатым SHIFT",
+  "item.celestisynth.crescentia.desc_2": "Выпускает набор снарядов, похожих на драконов, которые тянут врагов за собой и непрерывно разрубают их.",
+
+  "chant.celestisynth.crescentia": "Искры судьбы.",
+  "chant.celestisynth.crescentia1": "Праздник судеб.",
+  "chant.celestisynth.crescentia2": "Драконы луны.",
+  "chant.celestisynth.crescentia3": "Я призываю вас.",
+
+  "------------------- BREEZEBREAKER ------------------":  "",
+
+  "item.celestisynth.breezebreaker": "Breezebreaker",
+  "advancement.celestisynth.obtain_breezebreaker.title": "Стремительный и звучный",
+  "advancement.celestisynth.obtain_breezebreaker.description": "Получите Breezebreaker",
+
+  "item.celestisynth.breezebreaker.passive_1": "Проворный",
+  "item.celestisynth.breezebreaker.passive_desc_1": "Игрок получает огромный бонус к прыжку и иммунитет к урону от падения, пока держит этот предмет, но получает в 2,3 раза больше урона от всех остальных источников.",
+
+  "item.celestisynth.breezebreaker.passive_2": "Благосклонная душа",
+  "item.celestisynth.breezebreaker.passive_desc_2": "Каждые 15 применений навыков этот пассивный эффект включается или выключается. Пока он активен, игрок получает ускорение и сокращает время восстановления навыков вдвое. Эффект исчезает через 8 секунд.",
+
+  "item.celestisynth.breezebreaker.skill_1": "Штормовой шквал",
+  "item.celestisynth.breezebreaker.condition_1": "Активация: ПКМ",
+  "item.celestisynth.breezebreaker.desc_1": "Высвобождает мощный ветровой разрез, который наносит огромный урон при попадании.",
+
+  "item.celestisynth.breezebreaker.skill_2": "Двойной штормовой шквал",
+  "item.celestisynth.breezebreaker.condition_2": "Активация: Удерживайте ПКМ 0,5 секунды или дольше",
+  "item.celestisynth.breezebreaker.desc_2": "Дважды подряд выполняет Штормовой шквал, подавляя врагов непрерывным натиском ветровых разрезов.",
+
+  "item.celestisynth.breezebreaker.skill_3": "Полнейшая вихревая феерия",
+  "item.celestisynth.breezebreaker.condition_3": "Активация: ПКМ с зажатым SHIFT",
+  "item.celestisynth.breezebreaker.desc_3": "Призывает разрушительный торнадо, который разрезает любых существ, которым не повезло попасться на его пути.",
+
+  "item.celestisynth.breezebreaker.skill_4": "Рёв ветра",
+  "item.celestisynth.breezebreaker.condition_4": "Активация: ПКМ во время бега",
+  "item.celestisynth.breezebreaker.desc_4": "Стремительно делает рывок вперёд, нанося огромный урон первому существу, которое встретит на пути.",
+
+  "item.celestisynth.breezebreaker.skill_5": "Смертельное колесо зефира",
+  "item.celestisynth.breezebreaker.condition_5": "Активация: ПКМ в воздухе",
+  "item.celestisynth.breezebreaker.desc_5": "Создаёт вокруг игрока огромное вертикальное колесо ветра, уничтожающее ближайших существ своей сокрушительной силой.",
+
+  "------------------- POLTERGEIST ------------------":  "",
+
+  "item.celestisynth.poltergeist": "Poltergeist",
+  "advancement.celestisynth.obtain_poltergeist.title": "Призрачный топор",
+  "advancement.celestisynth.obtain_poltergeist.description": "Получите Poltergeist",
+
+  "item.celestisynth.poltergeist.passive_1": "Фантомная метка",
+  "item.celestisynth.poltergeist.passive_desc_1": "Все навыки этого оружия помечают каждое задетое существо Фантомной меткой. Поверженные враги с этой меткой становятся чудовищными аберрациями, которые притягивают ближайших существ в течение 5 секунд.",
+
+  "item.celestisynth.poltergeist.skill_1": "Аннигиляция космической стали",
+  "item.celestisynth.poltergeist.condition_1": "Активация: ПКМ",
+  "item.celestisynth.poltergeist.desc_1": "Обрушивает удар в землю, нанося огромный взрывной урон окружающим существам. После 10 последовательных ударов оружие открывает свою «Форму аберрации», позволяя следующему удару увеличить и мутировать засасывающую аберрацию из земли. Убийство существа во время «Формы аберрации» или прыжок в воздухе во время удара мгновенно сбрасывает время восстановления этой способности.",
+
+  "item.celestisynth.poltergeist.skill_2": "Призыв барьера",
+  "item.celestisynth.poltergeist.condition_2": "Активация: ПКМ с зажатым SHIFT",
+  "item.celestisynth.poltergeist.desc_2": "Создаёт защитный барьер, способный разбить любые летящие снаряды и резко отбросить игрока назад.",
+
+  "------------------- AQUAFLORA ------------------":  "",
+
+  "item.celestisynth.aquaflora": "Aquaflora",
+  "advancement.celestisynth.obtain_aquaflora.title": "Когда в тот день расцвели цветы",
+  "advancement.celestisynth.obtain_aquaflora.description": "Получите Aquaflora",
+
+  "item.celestisynth.aquaflora.passive_1": "Сквозной взмах",
+  "item.celestisynth.aquaflora.passive_desc_1": "Каждое применение навыка даёт заклинателю 3 секунды скорости.",
+
+  "item.celestisynth.aquaflora.skill_1": "Пронзающие лепестки",
+  "item.celestisynth.aquaflora.condition_1": "Активация: ПКМ",
+  "item.celestisynth.aquaflora.desc_1": "Запускает серию атак, способных пронзить ряд существ.",
+
+  "item.celestisynth.aquaflora.skill_2": "Взлетаем вместе",
+  "item.celestisynth.aquaflora.condition_2": "Активация: ПКМ с зажатым SHIFT",
+  "item.celestisynth.aquaflora.desc_2": "Совершает удар головой по группе существ, отталкивая их и нанося значительный урон. Активация этой способности запускает Состояние цветения, изменяя набор навыков оружия.",
+
+  "item.celestisynth.aquaflora.skill_3": "Чрезмерное безумие рассечений",
+  "item.celestisynth.aquaflora.condition_3": "Активация: ПКМ во время Состояния цветения",
+  "item.celestisynth.aquaflora.desc_3": "Во время выполнения этого навыка игрок становится невосприимчивым к урону и наносит до 20 отдельных ударов по существам в радиусе действия. Если взять такое же оружие в обе руки, игрок сможет выполнить до 40 и более ударов, но с уменьшенным уроном.",
+  "item.celestisynth.aquaflora.skill_3.notice": "Не удалось найти ближайших существ.",
+
+  "item.celestisynth.aquaflora.skill_4": "Цветы прочь",
+  "item.celestisynth.aquaflora.condition_4": "Активация: ПКМ с зажатым SHIFT во время Состояния цветения",
+  "item.celestisynth.aquaflora.desc_4": "Игрок выполняет рывок назад, оставляя цветочный эффект, который притягивает к себе ближайших существ. Эта способность отключает Состояние цветения, из-за чего набор навыков оружия меняется.",
+
+  "------------------- RAINFALL_SERENITY ------------------":  "",
+
+  "item.celestisynth.rainfall_serenity": "Rainfall Serenity",
+  "advancement.celestisynth.obtain_rainfall_serenity.title": "За пределами атмосферы Земли",
+  "advancement.celestisynth.obtain_rainfall_serenity.description": "Получите Rainfall Serenity",
+
+  "item.celestisynth.rainfall_serenity.skill_1": "Эоны и эоны сквозь небо",
+  "item.celestisynth.rainfall_serenity.condition_1": "Активация: Полностью натянутый лук",
+  "item.celestisynth.rainfall_serenity.desc_1": "Когда лук выпускает стрелу, он испускает лазер, который может пронзить каждое существо, помечая их «Квазарной меткой» на 5 секунд. Эта метка может заставить ближайших существ стрелять лазерами в помеченную цель.",
+
+  "item.celestisynth.rainfall_serenity.skill_2": "Квазарный ливень",
+  "item.celestisynth.rainfall_serenity.condition_2": "Активация: Попасть по существу оружием",
+  "item.celestisynth.rainfall_serenity.desc_2": "Когда лазер поражает цель с «Квазарной меткой», над ней появляется портал, и вокруг цели начинает литься дождь из лазеров.",
+
+  "item.celestisynth.rainfall_serenity.skill_3": "Истинное спокойствие",
+  "item.celestisynth.rainfall_serenity.condition_3": "Активация: ПКМ с зажатым SHIFT",
+  "item.celestisynth.rainfall_serenity.desc_3": "Сильно увеличивает скорость и даёт «Истинную невидимость» на 5 секунд.",
+
+  "item.celestisynth.rainfall_serenity.skill_4": "Развёртывание",
+  "item.celestisynth.rainfall_serenity.condition_4": "Активация: Выбросить предмет на твёрдую поверхность",
+  "item.celestisynth.rainfall_serenity.desc_4": "Если выбросить этот предмет на твёрдую поверхность, оружие превратится в турель, которая стреляет по всему поблизости.",
+
+  "------------------- FROSTBOUND ------------------":  "",
+
+  "item.celestisynth.frostbound": "Frostbound",
+  "advancement.celestisynth.obtain_frostbound.title": "Сокровище Борея",
+  "advancement.celestisynth.obtain_frostbound.description": "Получите Frostbound",
+
+  "item.celestisynth.frostbound.passive_1": "Шепчущий холод",
+  "item.celestisynth.frostbound.passive_desc_1": "Нанесение урона цели этим оружием накладывает состояние Frostbound, значительно ослабляя её силу и снижая скорость.",
+
+  "item.celestisynth.frostbound.passive_2": "Массив сосулек",
+  "item.celestisynth.frostbound.passive_desc_2": "При удержании правой кнопки с Frostbound оружие расходует осколки Frostbound и выпускает их в случайных ближайших существ, замораживая их на несколько секунд.",
+
+  "item.celestisynth.frostbound.skill_1": "Танец семи тысяч снежинок",
+  "item.celestisynth.frostbound.condition_1": "Активация: ПКМ",
+  "item.celestisynth.frostbound.desc_1": "Выполняет ритмичную последовательность движений, многократно нанося урон ближайшим существам и накладывая на них эффект Frostbound.",
+
+  "item.celestisynth.frostbound.skill_2": "Гибельное морозное заклинание",
+  "item.celestisynth.frostbound.condition_2": "Активация: ПКМ с зажатым SHIFT",
+  "item.celestisynth.frostbound.desc_2": "Призывает перед заклинателем до пяти крупных ледяных образований, которые наносят урон существам и накладывают на них эффект Frostbound.",
+
+  "------------------- KERES ------------------":  "",
+
+  "item.celestisynth.keres": "Keres",
+  "advancement.celestisynth.obtain_keres.title": "Жаждущий силы",
+  "advancement.celestisynth.obtain_keres.description": "Получите Keres",
+
+  "item.celestisynth.keres.passive_1": "Последовательность погибели ада",
+  "item.celestisynth.keres.passive_desc_1": "После 5 последовательных атак по целям держатель входит в состояние Hellbane – оно увеличивает вампиризм Keres и многократно выпускает самонаводящиеся теневые снаряды в ближайших врагов.",
+  "item.celestisynth.keres.passive_2": "Поглощение",
+  "item.celestisynth.keres.passive_desc_2": "Во время использования Keres для применения навыка держатель жертвует 1,5 здоровья каждые несколько секунд, но каждый навык в некоторой степени восстанавливает его здоровье при попадании по цели.",
+  "item.celestisynth.keres.passive_3": "Пагуба погибели проклятия",
+  "item.celestisynth.keres.passive_desc_3": "Когда навык поражает цель, он накладывает на неё эффект Cursebane на 5 секунд. Этот эффект значительно снижает скорость лечения цели.",
+
+  "item.celestisynth.keres.skill_1": "Кроваво-красная суровость",
+  "item.celestisynth.keres.condition_1": "Активация: ПКМ",
+  "item.celestisynth.keres.desc_1": "Посылает волны рассечений, которые игнорируют броню. Количество рассечений пропорционально степени «Крови, поглощённой оружием».",
+  "item.celestisynth.keres.skill_2": "Ужасная скорбь",
+  "item.celestisynth.keres.condition_2": "Активация: ПКМ с зажатым SHIFT",
+  "item.celestisynth.keres.desc_2": "Прыгает в выбранное место и выпускает ударную волну вокруг. Дальность прыжка пропорциональна степени «Крови, поглощённой оружием».",
+  "item.celestisynth.keres.skill_3": "Воплощённая бойня",
+  "item.celestisynth.keres.condition_3": "Удерживайте ПКМ 10 секунд или дольше",
+  "item.celestisynth.keres.desc_3": "Выпускает гигантское рассечение, которое стирает блоки и наносит огромный урон целям на пути. Этот удар полностью игнорирует броню.",
+
+  "item.celestisynth.keres.notice": "Не удалось поглотить кровь для Keres. Требуется регенерация.",
+  "item.celestisynth.keres.notice1": "Поглотить.",
+
+  "chant.celestisynth.keres": "Я пришёл...",
+  "chant.celestisynth.keres1": "Я увидел...",
+  "chant.celestisynth.keres2": "Я УНИЧТОЖИЛ.",
+
+  "{o}================{o} ADVANCEMENTS [NON-WEAPONS] {o}================{o}":  "",
+
+  "advancement.celestisynth.place_celestial_table.title": "Потерянное воспоминание",
+  "advancement.celestisynth.place_celestial_table.description": "Установите небесный стол – основу оружия Celestisynth.",
+  "advancement.celestisynth.obtain_celestial_core.title": "До самого ядра",
+  "advancement.celestisynth.obtain_celestial_core.description": "Начало небесного пути! Получите небесное ядро.",
+  "advancement.celestisynth.obtain_supernal_netherite_ingot.title": "Извержение",
+  "advancement.celestisynth.obtain_supernal_netherite_ingot.description": "Получите высший незеритовый слиток – важный материал для создания небесного оружия.",
+  "advancement.celestisynth.obtain_celestial_netherite_ingot.title": "Небесное проявление",
+  "advancement.celestisynth.obtain_celestial_netherite_ingot.description": "Получите небесный незеритовый слиток – важный материал для создания небесного оружия.",
+  "advancement.celestisynth.obtain_core.title": "К величественному путешествию!",
+  "advancement.celestisynth.obtain_core.description": "Создайте небесное ядро",
+  "advancement.celestisynth.obtain_supernal_ingot.title": "О нет, только не ещё один незеритовый слиток!",
+  "advancement.celestisynth.obtain_supernal_ingot.description": "Получите высший незеритовый слиток",
+  "advancement.celestisynth.obtain_celestial_ingot.title": "Возможно, этот отличается?",
+  "advancement.celestisynth.obtain_celestial_ingot.description": "Получите небесный незеритовый слиток",
+  "advancement.celestisynth.placed_celestial_table.title": "Развитие дальше и выше",
+  "advancement.celestisynth.placed_celestial_table.description": "Установите небесный верстак"
+}

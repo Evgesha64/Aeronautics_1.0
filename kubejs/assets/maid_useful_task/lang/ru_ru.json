@@ -1,0 +1,17 @@
+{
+  "task.maid_useful_task.maid_tree": "Рубка леса",
+  "task.maid_useful_task.maid_tree.desc": "Горничная будет рубить брёвна вокруг себя и сажать саженцы.",
+  "task.maid_useful_task.locate": "Поиск",
+  "task.maid_useful_task.locate.desc": "Горничная может искать некоторые структуры или ваш дом при помощи особых предметов.",
+  "task.maid_useful_task.revive_player": "Оживление игрока",
+  "task.maid_useful_task.revive_player.desc": "Горничная будет оживлять истекающего кровью игрока рядом.",
+  "key.maid_useful_tasks.switch_vehicle_control": "Сменить режим управления транспортом",
+  "maid_useful_task.allow_handle_vehicle.none": "Запретить горничной управление транспортом",
+  "maid_useful_task.allow_handle_vehicle.rot_only": "Разрешить горничной только поворот транспорта",
+  "maid_useful_task.allow_handle_vehicle.full": "Разрешить горничной управление транспортом",
+  "key.maid_useful_tasks.categories.main": "Полезные задачи горничной",
+  "gui.maid_useful_task.logging.plant": "Сажать саженцы",
+  "gui.maid_useful_task.no": "Нет",
+  "gui.maid_useful_task.yes": "Да",
+  "gui.maid_useful_task.revive.ownerOnly": "Оживлять только владельца"
+}

@@ -1,0 +1,17 @@
+{
+  "_comment": "Translation (en_us) by Affehund",
+  "advancements.voidtotem.adventure.totem_of_void_undying.description": "Используй Totem of Void Undying, чтобы избежать смерти при падении в пустоту",
+  "advancements.voidtotem.adventure.totem_of_void_undying.title": "Посмертный 2",
+  "item.voidtotem.totem_of_void_undying": "Тотем бессмертия пустоты",
+  "text.autoconfig.voidtotem.option.ADD_END_CITY_TREASURE": "Добавлять сокровища в города Энда",
+  "text.autoconfig.voidtotem.option.BLACKLISTED_DIMENSIONS": "Измерения в чёрном списке",
+  "text.autoconfig.voidtotem.option.DISPLAY_TOTEM_ON_CHEST": "Показывать тотем на груди",
+  "text.autoconfig.voidtotem.option.GIVE_TOTEM_EFFECTS": "Давать эффекты тотема",
+  "text.autoconfig.voidtotem.option.IS_INVERTED_BLACKLIST": "Инвертированный чёрный список",
+  "text.autoconfig.voidtotem.option.NEEDS_TOTEM": "Требуется тотем",
+  "text.autoconfig.voidtotem.option.SHOW_TOTEM_TOOLTIP": "Показывать подсказку тотема",
+  "text.autoconfig.voidtotem.option.TELEPORT_HEIGHT_OFFSET": "Смещение высоты телепортации",
+  "text.autoconfig.voidtotem.option.USE_TOTEM_FROM_INVENTORY": "Использовать тотем из инвентаря",
+  "tooltip.voidtotem.totem_of_void_undying": "Держи в основной или дополнительной руке, чтобы не погибнуть при падении в пустоту.",
+  "trinkets.slot.charm.charm": "Оберег"
+}

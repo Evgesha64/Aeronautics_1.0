@@ -1,0 +1,42 @@
+{
+	"name": "Специи",
+	"icon": "caupona:chives_spice_jar",
+	"category": "caupona:intro",
+	"sortnum": 24,
+	"pages": [
+		{
+			"type": "text",
+			"text": "Специи можно добавлять в рагу и обжаренные блюда, когда вы забираете их из котлов или сковород. Обычно специи дают еде эффект на короткое время. При повторной готовке приправленная еда теряет эффект от специй. Специи хранятся в банках для специй, хотя на деле это цветочные горшки, а некоторые из них получают через выдержку."
+		},
+		{
+			"type": "crafting",
+			"recipe": "caupona:crafting/sugar_spice_jar",
+			"text": "Сахар даёт Скорость."
+		},
+		{
+			"type": "crafting",
+			"recipe": "caupona:crafting/chives_spice_jar",
+			"text": "Шнитт-лук даёт Медленное падение."
+		},
+		{
+			"type": "spotlight",
+			"item": "caupona:garum_spice_jar",
+			"text": "Гарум делается из рыбы в долиях и даёт Прыгучесть."
+		},
+		{
+			"type": "spotlight",
+			"item": "caupona:vinegar_spice_jar",
+			"text": "Уксус делается из ягод или яблок в долиях и даёт Ночное зрение."
+		},
+		{
+			"type": "spotlight",
+			"item": "caupona:sapa_spice_jar",
+			"text": "Дефрутум нельзя получить сам по себе, но он появляется в еде, приготовленной в $(l:intro/lead_cookwares)свинцовой посуде$(/l), и даёт Гиперактивность. Этот эффект работает похоже на Силу, но удваивает получаемый вами урон."
+		},
+		{
+			"type": "crafting",
+			"recipe": "caupona:crafting/asafoetida_spice_jar",
+			"text": "Асафетида в итоге получается из $(l:intro/vege#silphium)сильфия$(/l) и даёт Сопротивление."
+		}
+	]
+}

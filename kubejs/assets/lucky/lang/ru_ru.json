@@ -1,0 +1,14 @@
+{
+    "block.lucky.lucky_block": "Счастливый блок",
+    "item.lucky.lucky_block.luck": "Удача",
+    "item.lucky.lucky_block.customDrop": "Имеет особую добычу",
+
+    "item.lucky.lucky_sword": "Меч удачи",
+    "item.lucky.lucky_bow": "Лук удачи",
+    "item.lucky.lucky_potion": "Зелье удачи",
+
+    "block.lucky.lucky_block.veryLucky": "Очень удачливый блок",
+    "block.lucky.lucky_block.unlucky": "Неудачливый блок",
+    "item.lucky.lucky_potion.veryLucky": "Очень удачливое зелье",
+    "item.lucky.lucky_potion.unlucky": "Неудачливое зелье"
+}

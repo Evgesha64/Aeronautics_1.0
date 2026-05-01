@@ -1,0 +1,45 @@
+{
+	"name": "Растения",
+	"icon": "caupona:walnut",
+	"category": "caupona:worldgen",
+	"sortnum": 0,
+	"pages": [
+		{
+			"type": "text",
+			"text": "Caupona добавляет одно дерево и два кустарника, которые естественно встречаются в разных биомах. Их общая особенность в том, что соответствующие плоды постепенно вырастают под листвой."
+		},
+		{
+			"type": "empty"
+		},
+		{
+			"type": "image",
+			"images": ["caupona:textures/gui/entries/walnut_tree.png"],
+			"title": "Орех"
+		},
+		{
+			"type": "spotlight",
+			"item": "caupona:walnut",
+			"text": "Ореховые деревья растут в лесах. Их можно использовать как древесину, а их плоды служат сырьём для масла."
+		},
+		{
+			"type": "image",
+			"images": ["caupona:textures/gui/entries/fig_tree.png"],
+			"title": "Инжир"
+		},
+		{
+			"type": "spotlight",
+			"item": "caupona:fig",
+			"text": "Инжирные деревья растут на равнинах. При разрушении их древесины выпадают только палки. Инжир — это фрукт."
+		},
+		{
+			"type": "image",
+			"images": ["caupona:textures/gui/entries/wolfberry_tree.png"],
+			"title": "Волчьи ягоды"
+		},
+		{
+			"type": "spotlight",
+			"item": "caupona:wolfberries",
+			"text": "Деревья волчьих ягод растут в продуваемых ветрами горах. При разрушении их древесины тоже выпадают только палки. Волчьи ягоды — это фрукты, но они также используются в особом рецепте рагу."
+		}
+	]
+}

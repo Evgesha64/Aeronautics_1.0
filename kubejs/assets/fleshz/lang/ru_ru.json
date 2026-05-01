@@ -1,0 +1,19 @@
+{
+    "item.fleshz.rotten_leather": "Гнилая кожа",
+    "item.fleshz.hide": "Шкура",
+    "item.fleshz.prepared_hide": "Подготовленная шкура",
+    "block.fleshz.oak_wood_rack": "Дубовая сушилка",
+    "block.fleshz.spruce_wood_rack": "Еловая сушилка",
+    "block.fleshz.birch_wood_rack": "Березовая сушилка",
+    "block.fleshz.jungle_wood_rack": "Сушилка из тропического дерева",
+    "block.fleshz.acacia_wood_rack": "Акациевая сушилка",
+    "block.fleshz.dark_oak_wood_rack": "Сушилка из темного дуба",
+    "block.fleshz.cherry_wood_rack": "Вишневая сушилка",
+    "block.fleshz.mangrove_wood_rack": "Мангровая сушилка",
+    "block.fleshz.bamboo_wood_rack": "Бамбуковая сушилка",
+    "block_type.fleshz.wood_rack": "Сушилка из %s",
+    "jei.category.fleshz.drying": "Сушка на стойке",
+    "emi.category.fleshz.rack": "Сушка на стойке",
+    "tag.item.fleshz.racks": "Деревянные сушилки",
+    "tag.block.fleshz.racks": "Деревянные сушилки"
+}

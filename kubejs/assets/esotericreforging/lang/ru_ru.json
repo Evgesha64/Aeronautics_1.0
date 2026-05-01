@@ -1,0 +1,5 @@
+{
+  "block.esotericreforging.esoteric_reforging_table": "Стол эзотерической перековки",
+  "block.esotericreforging.esoteric_reforging_table.desc": "Использует самоцветную пыль и материалы редкости для переброса аффиксов",
+  "block.esotericreforging.esoteric_reforging_table.desc2": "Макс. редкость: %s"
+}

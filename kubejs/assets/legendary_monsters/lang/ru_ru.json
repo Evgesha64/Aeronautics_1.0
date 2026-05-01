@@ -1,0 +1,455 @@
+{
+  "item.legendary_monsters.dinosaur_bone" : "Кость динозавра",
+  "item.legendary_monsters.ambushers_skin" : "Шкура засадника",
+  "item.legendary_monsters.sharp_battle_axe" : "Острый боевой топор",
+  "item.legendary_monsters.anchor_handle" : "Рукоять якоря",
+  "item.legendary_monsters.reinforced_monstrous_anchor" : "Укреплённый чудовищный якорь",
+  "item.legendary_monsters.ancient_spike" : "Древний шип",
+
+  "item.legendary_monsters.shulker_mimic_spawn_egg" : "Яйцо призыва мимика-шалкера",
+  "item.legendary_monsters.ancient_guardian_spawn_egg" : "Яйцо призыва древнего стража",
+  "item.legendary_monsters.posessed_paladin_spawn_egg" : "Яйцо призыва одержимого паладина",
+  "item.legendary_monsters.monstrous_anchor" : "Чудовищный якорь",
+  "item.legendary_monsters.spiky_shield" : "Шипастый щит",
+  "item.legendary_monsters.withered_ribcage" : "Иссохшая грудная клетка",
+  "item.legendary_monsters.chorus_blade" : "Хорусный клинок",
+  "item.legendary_monsters.chorus_mask" : "Хорусная маска",
+  "item.legendary_monsters.chorus_crystal" : "Хорусный кристалл",
+  "item.legendary_monsters.chorus_cannon" : "Хорусная пушка",
+  "item.legendary_monsters.infected_chorus_fruit" : "Заражённый плод хоруса",
+  "item.legendary_monsters.chorus_bomb_projectile" : "Хорусная бомба",
+  "item.legendary_monsters.large_shulker_shell" : "Большая раковина шалкера",
+  "item.legendary_monsters.shulker_shield" : "Щит шалкера",
+  "item.legendary_monsters.shulker_helmet" : "Шлем шалкера",
+  "item.legendary_monsters.the_great_frost" : "Великий мороз",
+  "item.legendary_monsters.dinosaur_bone_shield" : "Щит из кости динозавра",
+  "item.legendary_monsters.frozen_rune" : "Замёрзшая руна",
+  "item.legendary_monsters.frostbitten_shield" : "Обмороженный щит",
+  "item.legendary_monsters.mossy_chestplate" : "Замшелый нагрудник",
+  "item.legendary_monsters.lava_eaters_skin" : "Шкура пожирателя лавы",
+  "item.legendary_monsters.fiery_jaw" : "Огненная челюсть",
+  "item.legendary_monsters.void_sword" : "Меч пустоты",
+  "item.legendary_monsters.dinosaur_bone_meal" : "Костная мука динозавра",
+  "item.legendary_monsters.entity_warper" : "Телепортатор сущностей",
+  "item.legendary_monsters.nature_crystal" : "Кристалл природы",
+  "item.legendary_monsters.warped_mushroom_cap_part" : "Часть шляпки искажённого гриба",
+  "item.legendary_monsters.void_gem" : "Самоцвет пустоты",
+  "item.legendary_monsters.withered_bone" : "Иссохшая кость",
+  "item.legendary_monsters.void_entity_warper" : "Телепортатор сущностей пустоты",
+  "item.legendary_monsters.mossy_hammer" : "Замшелый молот",
+  "item.legendary_monsters.overgrown_colossus_spawn_egg" : "Яйцо призыва заросшего колосса",
+  "item.legendary_monsters.mossy_golem_spawn_egg" : "Яйцо призыва замшелого голема",
+
+  "item.legendary_monsters.hovering_hurricane_spawn_egg" : "Яйцо призыва парящего урагана",
+  "item.legendary_monsters.stratling_spawn_egg" : "Яйцо призыва Стратлинга",
+  "item.legendary_monsters.spike_bug_spawn_egg" : "Яйцо призыва шипастого червя",
+  "item.legendary_monsters.ambusher_spawn_egg" : "Яйцо призыва засадника",
+  "item.legendary_monsters.skeletosaurus_spawn_egg" : "Яйцо призыва скелетозавра",
+  "item.legendary_monsters.warped_fungussus_spawn_egg" : "Яйцо призыва искажённого Фунгуссуса",
+  "item.legendary_monsters.chorusling_spawn_egg" : "Яйцо призыва Хоруслинга",
+  "item.legendary_monsters.lava_eater_spawn_egg" : "Яйцо призыва пожирателя лавы",
+  "item.legendary_monsters.endersent_spawn_egg" : "Яйцо призыва Эндерсента",
+  "item.legendary_monsters.frostbitten_golem_spawn_egg" : "Яйцо призыва обмороженного голема",
+  "item.legendary_monsters.withered_abomination_spawn_egg" : "Яйцо призыва иссохшей абоминации",
+  "item.legendary_monsters.dune_sentinel_spawn_egg" : "Яйцо призыва стража дюн",
+  "item.legendary_monsters.cloud_golem_spawn_egg" : "Яйцо призыва Кучеводождя, облачного голема",
+  "item.legendary_monsters.haunted_knight_spawn_egg" : "Яйцо призыва призрачного рыцаря",
+  "item.legendary_monsters.haunted_guard_spawn_egg" : "Яйцо призыва призрачного стража",
+  "item.legendary_monsters.bomber_spawn_egg" : "Яйцо призыва бомбометателя",
+  "item.legendary_monsters.fatal_mortar" : "Яйцо призыва гибельной мортиры",
+  "item.legendary_monsters.ender_hammer" : "Эндер-молот",
+  "item.legendary_monsters.withered_scythe" : "Иссохшая коса",
+  "item.legendary_monsters.dinosaur_bone_club" : "Дубина из кости динозавра",
+  "item.legendary_monsters.air_rune" : "Руна воздуха",
+  "item.legendary_monsters.wand_of_clouds" : "Палочка облаков",
+  "item.legendary_monsters.sharp_sai" : "Острый сай",
+  "item.legendary_monsters.axe_of_lightning" : "Топор молний",
+  "item.legendary_monsters.molten_metal_ingot" : "Слиток расплавленного металла",
+  "item.legendary_monsters.atmospheric_boots" : "Атмосферные ботинки",
+  "item.legendary_monsters.soul_great_sword" : "Двуручный меч души",
+  "item.legendary_monsters.spiky_spear" : "Шипастое копьё",
+  "item.legendary_monsters.golden_halbert" : "Золотая алебарда",
+  "item.legendary_monsters.knights_sword" : "Меч рыцаря",
+  "item.legendary_monsters.corrupted_soul" : "Осквернённая душа",
+  "item.legendary_monsters.purified_soul" : "Очищенная душа",
+  "item.legendary_monsters.knight_summoner" : "Призыватель рыцаря",
+  "item.legendary_monsters.guard_summoner" : "Призыватель стража",
+  "item.legendary_monsters.deactivated_knight_summoner" : "Неактивный призыватель рыцаря",
+  "item.legendary_monsters.deactivated_guard_summoner" : "Неактивный призыватель стража",
+  "item.legendary_monsters.knights_sword_blade_half" : "Половина клинка меча рыцаря",
+  "item.legendary_monsters.long_stick_half" : "Половина длинной палки",
+  "item.legendary_monsters.primal_ice_shard" : "Первозданный осколок льда",
+  "item.legendary_monsters.withered_horn" : "Иссохший рог",
+  "item.legendary_monsters.guide_book" : "Книга путеводителя",
+  "item.legendary_monsters.skeloraptor_spawn_egg" : "Яйцо призыва скелораптора",
+  "item.legendary_monsters.fatal_mortar_spawn_egg" : "Яйцо призыва гибельной мортиры",
+  "item.legendary_monsters.chiseled_ancient_dripstone_shard" : "Резной осколок древнего натёчного камня",
+  "item.legendary_monsters.sand_cannon" : "Песчаная пушка",
+  "item.legendary_monsters.blastproof_metal_scrap" : "Взрывостойкий металлический лом",
+  "item.legendary_monsters.blastproof_helmet" : "Взрывостойкий шлем",
+  "item.legendary_monsters.ancient_sandstone_shard" : "Осколок древнего песчаника",
+  "item.legendary_monsters.ancient_detonator" : "Древний детонатор",
+  "item.legendary_monsters.crystal_of_sandstorm" : "Кристалл песчаной бури",
+  "item.legendary_monsters.explosive_sand" : "Взрывной песок",
+  "item.legendary_monsters.sickle_of_harvest" : "Серп жатвы",
+
+  "item.legendary_monsters.heart_of_tornado" : "Сердце торнадо",
+
+  "item.legendary_monsters.cloud_rod" : "Облачный жезл",
+
+  "item.legendary_monsters.music_disc_advance" : "Пластинка",
+
+  "item.legendary_monsters.music_disc_advance.desc" : "Light Canvas - Advance",
+  "item.legendary_monsters.crystal_of_air" : "Кристалл воздуха",
+  "item.legendary_monsters.fiery_boots" : "Огненные ботинки",
+
+  "item.legendary_monsters.eye_of_sandstorm" : "Око песчаной бури",
+  "item.legendary_monsters.eye_of_many_ribs" : "Око множества рёбер",
+  "item.legendary_monsters.eye_of_frost" : "Око мороза",
+  "item.legendary_monsters.eye_of_soul" : "Око души",
+  "item.legendary_monsters.eye_of_air" : "Око воздуха",
+  "item.legendary_monsters.eye_of_moss" : "Око мха",
+  "item.legendary_monsters.eye_of_chorus" : "Око хоруса",
+  "item.legendary_monsters.eye_of_shulker" : "Око шалкера",
+  "item.legendary_monsters.eye_of_bones" : "Око костей",
+  "item.legendary_monsters.eye_of_magma" : "Око магмы",
+  "item.legendary_monsters.eye_of_ghost" : "Око призрака",
+
+
+  "entity.legendary_monsters.ice_spike": "Ледяной шип",
+  "entity.legendary_monsters.skeletosaurus": "Скелетозавр",
+
+  "entity.legendary_monsters.hovering_hurricane": "Парящий ураган",
+  "entity.legendary_monsters.stratling": "Стратлинг",
+  "entity.legendary_monsters.mossy_golem": "Замшелый голем",
+  "entity.legendary_monsters.overgrown_colossus": "Заросший колосс",
+  "entity.legendary_monsters.warped_fungussus": "Искажённый Фунгуссус",
+  "entity.legendary_monsters.frostbitten_golem": "Обмороженный голем",
+  "entity.legendary_monsters.lava_eater": "Пожиратель лавы",
+  "entity.legendary_monsters.endersent": "Эндерсент",
+  "entity.legendary_monsters.chorusling": "Хоруслинг",
+  "entity.legendary_monsters.shulker_mimic": "Мимик-шалкер",
+  "entity.legendary_monsters.ambusher": "Засадник",
+  "entity.legendary_monsters.spiky_bug": "Шипастый червь",
+  "entity.legendary_monsters.withered_abomination": "Иссохшая абоминация",
+  "entity.legendary_monsters.ancient_guardian": "Древний страж",
+  "entity.legendary_monsters.cloud_golem": "Кучеводождь",
+  "entity.legendary_monsters.dark_cloud_golem": "Облачный голем",
+  "entity.legendary_monsters.knights_armor": "Рыцарь",
+  "entity.legendary_monsters.guard": "Страж",
+  "entity.legendary_monsters.haunted_knight": "Призрачный рыцарь",
+  "entity.legendary_monsters.haunted_guard": "Призрачный страж",
+  "entity.legendary_monsters.posessed_paladin": "Одержимый паладин",
+  "entity.legendary_monsters.dune_sentinel": "Страж дюн",
+  "entity.legendary_monsters.skeloraptor": "Скелораптор",
+  "entity.legendary_monsters.bomb": "Бомба",
+  "entity.legendary_monsters.bomber": "Бомбометатель",
+
+  "entity.legendary_monsters.the_warped_one": "Искажённый",
+
+  "creativetab.legendary_monsters" : "Legendary Monsters",
+
+  "sounds.legendary_monsters.endersent_attack": "Эндерсент бьёт по земле",
+  "sounds.legendary_monsters.endersent_ambient": "Эндерсент разговаривает",
+  "sounds.legendary_monsters.endersent_death": "Эндерсент умирает в муках",
+
+  "effect.legendary_monsters.chorus_infection": "Хорусное заражение",
+  "effect.legendary_monsters.freeze": "Заморозка",
+  "effect.legendary_monsters.soul_eater": "Пожиратель душ",
+  "effect.legendary_monsters.bleeding": "Кровотечение",
+  "effect.legendary_monsters.soul_rage": "Ярость души",
+  "effect.legendary_monsters.stun": "Оглушение",
+  "effect.legendary_monsters.fear": "Страх",
+  "effect.legendary_monsters.broken_armor": "Сломанная броня",
+  "effect.legendary_monsters.gravity_pull": "Притяжение гравитации",
+  "effect.legendary_monsters.curse_of_desert": "Проклятие пустыни",
+  "block.legendary_monsters.ancient_dripstone_bricks": "Древние кирпичи из натёчного камня",
+  "block.legendary_monsters.ancient_dripstone_block": "Древний блок натёчного камня",
+  "block.legendary_monsters.ancient_dripstone_brick_pillar": "Колонна из древних кирпичей натёчного камня",
+  "block.legendary_monsters.chiseled_ancient_dripstone_bricks": "Резные древние кирпичи из натёчного камня",
+  "block.legendary_monsters.ancient_dripstone_tiles": "Древняя плитка из натёчного камня",
+  "block.legendary_monsters.ancient_dripstone_brick_slab": "Плита из древних кирпичей натёчного камня",
+  "block.legendary_monsters.ancient_dripstone_brick_wall": "Стена из древних кирпичей натёчного камня",
+  "block.legendary_monsters.ancient_dripstone_brick_stairs": "Ступени из древних кирпичей натёчного камня",
+  "block.legendary_monsters.ancient_dripstone_tile_slab": "Плита из древней плитки натёчного камня",
+  "block.legendary_monsters.ancient_dripstone_tile_stairs": "Ступени из древней плитки натёчного камня",
+  "block.legendary_monsters.ancient_dripstone_tile_wall": "Стена из древней плитки натёчного камня",
+  "block.legendary_monsters.cloud_block": "Облачный блок",
+  "block.legendary_monsters.cloud_bricks": "Облачные кирпичи",
+  "block.legendary_monsters.skeletosaurus_egg": "Яйцо скелетозавра",
+
+  "block.legendary_monsters.polished_diorite_pillar": "Колонна из полированного диорита",
+
+  "block.legendary_monsters.chiseled_diorite": "Резной диорит",
+
+  "advancements.legendary_monsters.legendary_monsters_root.title": "Legendary Monsters",
+  "advancements.legendary_monsters.legendary_monsters_root.description": "Новые опасные мобы!",
+  "advancements.legendary_monsters.nether_root.title": "Legendary Monsters: Незер",
+  "advancements.legendary_monsters.nether_root.description": "Новые испытания в Незере!",
+  "advancements.legendary_monsters.end_root.title": "Legendary Monsters: Энд",
+  "advancements.legendary_monsters.end_root.description": "Новые испытания в Энде!",
+
+  "advancements.legendary_monsters.locate_skeletosaurus_nest.title": "Давным-давно",
+  "advancements.legendary_monsters.locate_skeletosaurus_nest.description": "найдите гнездо скелетозавра",
+  "advancements.legendary_monsters.defeat_skeletosaurus.title": "Древний скелет",
+  "advancements.legendary_monsters.defeat_skeletosaurus.description": "Победите скелетозавра",
+
+  "advancements.legendary_monsters.locate_soul_fortress_remains.title": "Крепость душ",
+  "advancements.legendary_monsters.locate_soul_fortress_remains.description": "найдите руины крепости душ",
+  "advancements.legendary_monsters.defeat_withered_abomination.title": "Пожиратель душ",
+  "advancements.legendary_monsters.defeat_withered_abomination.description": "Победите иссохшую абоминацию",
+
+  "advancements.legendary_monsters.locate_mossy_temple.title": "Покрыто мхом",
+  "advancements.legendary_monsters.locate_mossy_temple.description": "найдите замшелый храм",
+  "advancements.legendary_monsters.defeat_overgrown_colossus.title": "Замшелый зверь",
+  "advancements.legendary_monsters.defeat_overgrown_colossus.description": "Победите заросшего колосса",
+
+  "advancements.legendary_monsters.locate_ancient_stronghold.title": "Повсюду натёчный камень",
+  "advancements.legendary_monsters.locate_ancient_stronghold.description": "найдите древнюю крепость",
+  "advancements.legendary_monsters.defeat_ancient_guardian.title": "Однорукое чудовище",
+  "advancements.legendary_monsters.defeat_ancient_guardian.description": "Победите древнего стража",
+  "advancements.legendary_monsters.defeat_ambusher.title": "Самозванец",
+  "advancements.legendary_monsters.defeat_ambusher.description": "Победите засадника",
+  "advancements.legendary_monsters.defeat_spiky_bug.title": "Отвратительный червь",
+  "advancements.legendary_monsters.defeat_spiky_bug.description": "Победите шипастого червя",
+
+  "advancements.legendary_monsters.locate_shulker_tower.title": "Здесь нет гравитации!",
+  "advancements.legendary_monsters.locate_shulker_tower.description": "найдите башню шалкеров",
+  "advancements.legendary_monsters.defeat_shulker_mimic.title": "Жуткий страшный шалкер",
+  "advancements.legendary_monsters.defeat_shulker_mimic.description": "Победите мимика-шалкера",
+
+  "advancements.legendary_monsters.locate_ancient_tower_remains.title": "Далеко от дома",
+  "advancements.legendary_monsters.locate_ancient_tower_remains.description": "найдите руины древней башни",
+  "advancements.legendary_monsters.defeat_endersent.title": "Высокий парень",
+  "advancements.legendary_monsters.defeat_endersent.description": "Победите Эндерсента",
+  "advancements.legendary_monsters.defeat_chorusling.title": "Хорусное заражение",
+  "advancements.legendary_monsters.defeat_chorusling.description": "Победите Хоруслинга",
+
+  "advancements.legendary_monsters.locate_cloudy_temple.title": "Сделано из облаков...",
+  "advancements.legendary_monsters.locate_cloudy_temple.description": "найдите облачный храм",
+  "advancements.legendary_monsters.defeat_cloud_golem.title": "Против богов",
+  "advancements.legendary_monsters.defeat_cloud_golem.description": "Победите облачного голема",
+
+  "advancements.legendary_monsters.locate_lava_eater.title": "Место вулканов",
+  "advancements.legendary_monsters.locate_lava_eater.description": "Найдите гнездо пожирателя лавы",
+  "advancements.legendary_monsters.defeat_lava_eater.title": "Огненный зверь",
+  "advancements.legendary_monsters.defeat_lava_eater.description": "Победите пожирателя лавы",
+
+  "advancements.legendary_monsters.locate_frostbitten_temple.title": "Ледяное место",
+  "advancements.legendary_monsters.locate_frostbitten_temple.description": "Найдите обмороженный храм",
+  "advancements.legendary_monsters.defeat_frostbitten_golem.title": "Самый холодный голем",
+  "advancements.legendary_monsters.defeat_frostbitten_golem.description": "Победите обмороженного голема",
+
+  "advancements.legendary_monsters.defeat_warped_fungussus.title": "Он телепортируется!",
+  "advancements.legendary_monsters.defeat_warped_fungussus.description": "Победите искажённого Фунгуссуса",
+
+  "advancements.legendary_monsters.locate_abandoned_crypt.title": "Жуткий вход",
+  "advancements.legendary_monsters.locate_abandoned_crypt.description": "Найдите заброшенную крипту",
+  "advancements.legendary_monsters.defeat_haunted_knight.title": "Живая броня",
+  "advancements.legendary_monsters.defeat_haunted_knight.description": "Победите призрачного рыцаря",
+  "advancements.legendary_monsters.defeat_haunted_guard.title": "Неживой страж",
+  "advancements.legendary_monsters.defeat_haunted_guard.description": "Победите призрачного стража",
+  "advancements.legendary_monsters.defeat_posessed_paladin.title": "Павший рыцарь",
+  "advancements.legendary_monsters.defeat_posessed_paladin.description": "Победите одержимого паладина",
+
+  "advancements.legendary_monsters.defeat_bomber.title": "Песчаниковая бомба",
+  "advancements.legendary_monsters.defeat_bomber.description": "Победите бомбометателя",
+  "advancements.legendary_monsters.defeat_dune_sentinel.title": "Древняя военная машина",
+  "advancements.legendary_monsters.defeat_dune_sentinel.description": "Победите стража дюн",
+  "advancements.legendary_monsters.locate_ruined_pyramid.title": "Ещё один пустынный храм!",
+  "advancements.legendary_monsters.locate_ruined_pyramid.description": "Найдите разрушенную пирамиду",
+
+  "death.attack.legendary_monsters.spikes": "%s пронзили шипы.",
+  "item.legendary_monsters.soul_great_sword1": "\u00A76Особая способность: \u00A77 шанс 50% наложить на врагов эффект 'кровотечение'",
+  "item.legendary_monsters.soul_great_sword2": "\u00A77после критического удара.",
+  "item.legendary_monsters.soul_great_sword3": "\u00A72Особая способность 2:\u00A77 этот меч даёт эффект 'ярость души' на 10 секунд",
+  "item.legendary_monsters.soul_great_sword4": "\u00A77и повышает скорость атаки на 0.5, очки брони на 6 и прочность брони на 1.",
+  "item.legendary_monsters.soul_great_sword5": "\u00A77[ЗАЖМИТЕ ПКМ ДЛЯ ИСПОЛЬЗОВАНИЯ]]",
+
+
+  "block.legendary_monsters.chiseled_enderstone_pillar": "Резная колонна из эндер-камня",
+
+  "item.legendary_monsters.wand_of_clouds1": "\u00A76Особая способность: \u00A77 призывает 1 большое взрывное облако [14 урона] и",
+  "item.legendary_monsters.wand_of_clouds2": "\u00A773 маленьких взрывных облака [по 5 урона] над врагами. \u00A76[НАЖМИТЕ ПКМ ПО СУЩНОСТИ ДЛЯ ИСПОЛЬЗОВАНИЯ]",
+
+
+  "item.legendary_monsters.withered_ribcage1": "§6Особая способность: §7этот нагрудник защищает игрока",
+  "item.legendary_monsters.withered_ribcage2": "§7от эффекта иссушения и накладывает иссушение на сущностей, которые наносят вам урон",
+
+  "item.legendary_monsters.withered_scythe1": "§6Особая способность: зажмите ПКМ, чтобы рвануть вперёд",
+  "item.legendary_monsters.withered_scythe2": "§7и нанести урон сущностям",
+
+
+
+  "item.legendary_monsters.m_anchor1": "§6Особая способность: §7зажмите ПКМ на 1,5 секунды, чтобы взлететь в воздух",
+  "item.legendary_monsters.m_anchor2": "§7и полностью оглушить на 3 секунды все сущности рядом с вами в радиусе 4 блоков. Мобы не смогут двигаться и атаковать.",
+  "item.legendary_monsters.m_anchor3": "§6Особая способность 2: §7атака наносит 4 урона ближайшим сущностям в радиусе 3 блоков ",
+
+
+  "item.legendary_monsters.mossy_chestplate1": "\u00A76Особая способность: \u00A77 нажмите клавишу 'R', чтобы создать вокруг себя ядовитые облака, ",
+  "item.legendary_monsters.mossy_chestplate2": "§7которые наносят урон мобам и лечат вас.",
+
+
+  "item.legendary_monsters.mossy_hammer1": "§6Особая способность: §7 наносит 10 урона всем сущностям и накладывает",
+  "item.legendary_monsters.mossy_hammer2": "§7эффект отравления на каждую сущность в радиусе 4 блоков, а если у игрока есть костная мука",
+  "item.legendary_monsters.mossy_hammer3": "§7в инвентаре, под каждой раненой сущностью в радиусе 3 блоков появятся блоки мха!",
+  "item.legendary_monsters.mossy_hammer4": "§6[НАЖМИТЕ ПКМ ПО БЛОКУ ДЛЯ ИСПОЛЬЗОВАНИЯ] ",
+  "item.legendary_monsters.mossy_hammer5": "§7Ещё его можно использовать как кирку!  ",
+
+  "item.legendary_monsters.sand_cannon1": "§6Особая способность: §7 зажмите кнопку на 1.5 секунды, чтобы выстрелить песчаниковой бомбой",
+
+
+  "item.legendary_monsters.chorus_helmet1": "§6Особая способность:§7 эта маска защищает игрока",
+
+  "item.legendary_monsters.chorus_helmet2": "§7от хорусного заражения.",
+
+
+
+
+  "item.legendary_monsters.chorus_blade1": "§6Особая способность: §7 телепортирует игрока в случайное место поблизости.",
+  "item.legendary_monsters.chorus_blade2": "§7Например, это можно использовать для уклонения от атаки. §6[НАЖМИТЕ ПКМ ДЛЯ ИСПОЛЬЗОВАНИЯ]",
+
+
+  "item.legendary_monsters.axe_of_lightning1": "§6Особая способность:§7 нажмите ПКМ, чтобы призвать удар молнии§6[9 урона за тик, игнорирует броню],",
+  "item.legendary_monsters.axe_of_lightning2": "§7нажмите ПКМ по блоку, чтобы призвать электрическую ударную волну в направлении",
+  "item.legendary_monsters.axe_of_lightning3": "§7взгляда§6[урон этого оружия за каждое попадание волны, игнорирует броню]",
+
+
+  "item.legendary_monsters.atm_boots1": "§6Особая способность: §750% снижения урона от падения",
+
+
+  "item.legendary_monsters.dino_club1": "§6Особая способность: §7нажмите ПКМ по блоку, чтобы создать",
+  "item.legendary_monsters.dino_club2": "§7ударные волны по кругу.",
+
+  "item.legendary_monsters.entity_warper1": "§6Особая способность: §7телепортирует все сущности",
+  "item.legendary_monsters.entity_warper2": "§7в радиусе 4 блоков к игроку! §6[НАЖМИТЕ ПКМ ДЛЯ ИСПОЛЬЗОВАНИЯ].",
+
+  "item.legendary_monsters.void_entity_warper1": "§6Особая способность: §7позволяет выбрать любую",
+  "item.legendary_monsters.void_entity_warper2": "§7сущность в радиусе 6 блоков и телепортировать её к себе! §6[НАЖМИТЕ ПКМ ДЛЯ ИСПОЛЬЗОВАНИЯ]",
+
+
+  "item.legendary_monsters.great_frost1": "§6Особая способность: §7нажмите ПКМ, чтобы призвать ледяные шипы",
+  "item.legendary_monsters.great_frost2": "§6Особая способность 2: §7нажмите ПКМ + Shift по блоку, чтобы призвать ледяные шипы вокруг себя",
+
+
+  "item.legendary_monsters.shulker_helmet1": "§7 Этот шлем защищает игрока от эффекта левитации.",
+
+  "item.legendary_monsters.dino_shield": "§6Очень высокая прочность!",
+
+  "item.legendary_monsters.blast_proof_helmet1": "§6Особая способность:§7 35% снижения урона от взрывов",
+  "item.legendary_monsters.blast_proof_helmet2": "§6(Крипер-скримеры теперь не так опасны!)",
+
+
+  "item.legendary_monsters.fiery_jaw1": "§6Особая способность: §7 Огненная челюсть отталкивает все сущности",
+  "item.legendary_monsters.fiery_jaw2": "§7в радиусе 3 блоков от игрока, а игрок начинает дышать огнём§6[НАЖМИТЕ ПКМ ДЛЯ ИСПОЛЬЗОВАНИЯ]",
+
+
+  "item.legendary_monsters.golden_halberd1": "§6Особая способность: §7 шанс 25% наложить на врагов эффект 'кровотечение'",
+
+  "item.legendary_monsters.golden_halberd2": "§7после критического удара.",
+
+
+  "item.legendary_monsters.fiery_boots1": "§6Особая способность: §7нажмите клавишу 'X', чтобы оставлять огонь под собой во время ходьбы.",
+
+  "item.legendary_monsters.frost_shield1": "§6Особая способность: §7 замораживает врага на 3 секунды",
+
+  "item.legendary_monsters.frost_shield2": "§6[БЛОКИРУЙТЕ ДЛЯ ИСПОЛЬЗОВАНИЯ]",
+
+  "item.legendary_monsters.chorus_cannon1": "§6Особая способность: §7 зажмите кнопку на 1.5 секунды, чтобы выстрелить хорусной бомбой, которая",
+
+  "item.legendary_monsters.chorus_cannon2": "§7накладывает на врагов эффект хорусного заражения",
+
+  "item.legendary_monsters.spiky_shield1": "\u00A76Особая способность: \u00A77 шанс 50% наложить на врагов эффект 'кровотечение'",
+  "item.legendary_monsters.spiky_shield2": "\u00A77и отразить урон обратно во врага, когда вы блокируете щитом",
+  "item.legendary_monsters.spiky_shield3": "§2[Урон: 5 + 25% от силы атаки врага] ",
+  "item.legendary_monsters.spiky_shield4": "§6[БЛОКИРУЙТЕ ДЛЯ ИСПОЛЬЗОВАНИЯ]",
+
+  "item.legendary_monsters.shulker_shield1": "§6Особая способность: §760% шанс наложить на врагов эффект левитации",
+  "item.legendary_monsters.shulker_shield2": "§6[БЛОКИРУЙТЕ ДЛЯ ИСПОЛЬЗОВАНИЯ",
+
+  "item.legendary_monsters.heartoftornado1": "§6Зажмите ПКМ, чтобы выпустить торнадо, которое захватывает сущностей [длится 3 секунды]",
+
+  "death.attack.legendary_monsters.laser": "%s был уничтожен %s с помощью чистой энергии молнии",
+
+  "death.attack.legendary_monsters.clouds": "%s был раздавлен %s",
+
+  "death.attack.legendary_monsters.ghost": "%s покинул реальность",
+
+  "death.attack.legendary_monsters.void": "%s был аннигилирован %s",
+  "legendary_monsters.message.stratling_interaction": "Нажмите ПКМ для взаимодействия (обмен)",
+
+
+  "item.legendary_monsters.totem_of_moss" : "Тотем мха",
+
+  "item.legendary_monsters.totem_of_moss.desc" : "Нажмите ПКМ, чтобы призвать замшелого голема, который помогает в бою и ускоряет рост культур рядом с молодыми посевами. Голема можно призвать снова после смерти",
+
+
+  "legendary_monsters.message.pet_sit_enable": " §cРежим сидеть§f включён",
+  "legendary_monsters.message.pet_walk_enable": " §aРежим ходить§f включён",
+  "legendary_monsters.message.pet_stand_enable": " §cРежим стоять на месте§f включён",
+  "legendary_monsters.message.pet_stand_disable": " §aРежим свободной ходьбы§f включён",
+
+  "legendary_monsters.message.mossy_golem_string_message_name": "Замшелый голем",
+  "legendary_monsters.message.knight_string_message_name": "Рыцарь",
+  "legendary_monsters.message.guard_string_message_name": "Страж",
+  "legendary_monsters.message.skeloraptor_string_message_name": "Скелораптор",
+
+
+
+  "key.categories.legendary_monsters": "Категория клавиш Legendary Monsters",
+  "key.legendary_monsters.mossy_chestplate_ability": "Способность нагрудника Legendary Monsters",
+  "key.legendary_monsters.fiery_boots_ability": "Способность ботинок Legendary Monsters",
+
+  "key.legendary_monsters.skeloraptor_roar": "Способность рёва скелораптора",
+
+  "item.legendary_monsters.totem_of_moss1": "§6Нажмите ПКМ по блоку, чтобы призвать замшелого голема, который заметно ускоряет рост культур рядом с незрелыми посевами ",
+  "item.legendary_monsters.totem_of_moss2": "§7и может помогать вам в бою. Голем приручается автоматически. Его можно легко призвать снова после смерти ",
+
+  "item.legendary_monsters.totem_of_moss3": "§fShift + ПКМ по голему, чтобы включить '§aрежим стоять на месте§7'",
+
+
+  "item.legendary_monsters.guard_summoner1": "§6Нажмите ПКМ по блоку, чтобы призвать стража, который будет вас защищать. ",
+  "item.legendary_monsters.guard_summoner2": "§7Вы можете приручить его железными слитками",
+  "item.legendary_monsters.guard_summoner3": "§6Наносит больше урона и бьёт по большей дуге, чем рыцарь, но он медленнее.",
+  "item.legendary_monsters.guard_summoner4": "§7Его можно легко призвать снова после смерти с помощью железных слитков и неактивного призывателя",
+
+  "item.legendary_monsters.knight_summoner1": "§6Нажмите ПКМ по блоку, чтобы призвать рыцаря, который будет вас защищать. ",
+  "item.legendary_monsters.knight_summoner2": "§7Вы можете приручить его железными слитками",
+
+  "item.legendary_monsters.knight_summoner3": "§6Наносит меньше урона, чем страж, но умеет быстро бить сериями и может блокировать входящие атаки",
+  "item.legendary_monsters.knight_summoner4": "§7Его можно легко призвать снова после смерти с помощью железных слитков и неактивного призывателя",
+  "legendary_monsters.message.skeloraptor_time_until_next_roar": "Перезарядка рёва: ",
+  "block.legendary_monsters.skeletosaurus_egg1": "§7Поставьте его и подождите, чтобы вылупился скелораптор. Когда он вырастет, приручите его сырым мясом,",
+  "block.legendary_monsters.skeletosaurus_egg2": "§7на нём можно ездить и заставлять его атаковать во время езды по схемам атаки скелетозавра",
+  "block.legendary_monsters.skeletosaurus_egg3": "§7вы можете нажать клавишу 'R', чтобы зарычать и напугать мобов.",
+  "block.legendary_monsters.skeletosaurus_egg4": "§6-ставьте на песок душ для более быстрого вылупления.",
+  "legendary_monsters.message.skeloraptor_mount": "Нажмите 'R', чтобы зарычать, нажмите Left Shift, чтобы слезть",
+
+  "item.legendary_monsters.enderitium_ingot": "Слиток эндерития",
+
+  "item.legendary_monsters.warped_shard": "Искажённый осколок",
+  "item.legendary_monsters.enderitium_gem": "Самоцвет эндерития",
+  "item.legendary_monsters.raw_enderitium": "Рудный эндеритий",
+  "item.legendary_monsters.enderitium_sword": "Меч из эндерития",
+  "item.legendary_monsters.enderitium_axe": "Топор из эндерития",
+  "item.legendary_monsters.enderitium_shovel": "Лопата из эндерития",
+  "item.legendary_monsters.enderitium_hoe": "Мотыга из эндерития",
+  "item.legendary_monsters.enderitium_pickaxe": "Кирка из эндерития",
+
+
+  "block.legendary_monsters.enderitium_ore": "Эндеритиевая руда",
+  "block.legendary_monsters.enderitium_block": "Блок эндерития",
+
+  "block.legendary_monsters.chiseled_enderstone_bricks": "Резные кирпичи из эндер-камня",
+  "block.legendary_monsters.enderstone_bricks": "Кирпичи из эндер-камня",
+
+  "block.legendary_monsters.enderstone_brick_stairs": "Ступени из кирпичей эндер-камня",
+
+  "block.legendary_monsters.enderstone_brick_slab": "Плита из кирпичей эндер-камня",
+
+  "block.legendary_monsters.enderstone_brick_wall": "Стена из кирпичей эндер-камня",
+
+  "block.legendary_monsters.enderstone_pillar": "Колонна из эндер-камня",
+
+  "item.legendary_monsters.ancient_sandstone_shard1": "§7Можно получить за убийство бомбометателей ночью в пустыне"
+}

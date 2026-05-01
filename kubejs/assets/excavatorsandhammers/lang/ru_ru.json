@@ -1,0 +1,15 @@
+{
+  "itemGroup.excavatorsandhammers.tab": "Excavators and Hammers",
+  "item.excavatorsandhammers.wooden_excavator": "Деревянный экскаватор",
+  "item.excavatorsandhammers.stone_excavator": "Каменный экскаватор",
+  "item.excavatorsandhammers.iron_excavator": "Железный экскаватор",
+  "item.excavatorsandhammers.golden_excavator": "Золотой экскаватор",
+  "item.excavatorsandhammers.diamond_excavator": "Алмазный экскаватор",
+  "item.excavatorsandhammers.netherite_excavator": "Незеритовый экскаватор",
+  "item.excavatorsandhammers.wooden_hammer": "Деревянный молот",
+  "item.excavatorsandhammers.stone_hammer": "Каменный молот",
+  "item.excavatorsandhammers.iron_hammer": "Железный молот",
+  "item.excavatorsandhammers.golden_hammer": "Золотой молот",
+  "item.excavatorsandhammers.diamond_hammer": "Алмазный молот",
+  "item.excavatorsandhammers.netherite_hammer": "Незеритовый молот"
+}

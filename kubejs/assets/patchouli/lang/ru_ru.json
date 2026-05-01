@@ -1,0 +1,5 @@
+{
+  "item.patchouli:pamphlet.name": "Тестовая брошюра",
+  "item.patchouli:pamphlet.landing": "Тестовая брошюра. В этой книге всего одна категория.",
+  "patchouli.gui.lexicon.button.toggle_mock_header": "Сменить макет заголовка"
+}

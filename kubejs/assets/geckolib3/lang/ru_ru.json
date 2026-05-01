@@ -1,0 +1,11 @@
+{
+  "itemGroup.geckolib_examples": "Примеры Geckolib",
+  "item.geckolib3.geckoarmor_head": "Шлем Gecko",
+  "item.geckolib3.geckoarmor_chest": "Нагрудник Gecko",
+  "item.geckolib3.geckoarmor_leggings": "Поножи Gecko",
+  "item.geckolib3.geckoarmor_boots": "Ботинки Gecko",
+  "item.geckolib3.jackintheboxitem": "Попрыгунчик в коробке",
+  "item.geckolib3.pistol": "Пистолет",
+  "block.geckolib3.habitatblock": "Среда обитания Gecko",
+  "block.geckolib3.fertilizerblock": "Удобрение"
+}

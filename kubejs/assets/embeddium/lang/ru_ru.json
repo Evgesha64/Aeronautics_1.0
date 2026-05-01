@@ -1,0 +1,9 @@
+{
+  "embeddium.conflicting_mod": "Embeddium обнаружил моды, которые, как известно, вызывают проблемы с рендерингом или краши. Рекомендуется удалить их. Список ниже.",
+  "embeddium.conflicting_mod_list": "[{2}]",
+  "embeddium.search_bar_empty": "Поиск настроек...",
+  "embeddium.options.added_by_mod_string": "Добавлено модом: %s",
+  "embeddium.options.fullscreen.resolution.tooltip": "Управляет разрешением игры в полноэкранном режиме.",
+  "embeddium.options.use_quad_normals_for_lighting.name": "Использовать точное затенение квадов",
+  "embeddium.options.use_quad_normals_for_lighting.tooltip": "Если включено, Embeddium будет применять затенение к неванильным граням блоков по их настоящему направлению, а не по направлению их оси. Это может улучшить качество освещения, когда экспериментальный световой конвейер Forge отключён (что рекомендуется для лучшей производительности).\n\nНе даёт эффекта, если экспериментальный световой конвейер включён."
+}

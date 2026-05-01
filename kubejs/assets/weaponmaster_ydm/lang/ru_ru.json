@@ -1,0 +1,53 @@
+{
+	"weaponmaster_ydm.screen":"YDM's Weapon Master",
+	"key.weaponmaster_ydm.category":"YDM's Weapon Master",
+	"key.weaponmaster_ydm.opengui":"Открыть настройки",
+	"weaponmaster_ydm.screen2":"Дополнительные настройки",
+	"weaponmaster_ydm.screen3":"Настройки чёрного и белого списка",
+	"weaponmaster_ydm.screen4":"Настройки уникальных предметов",
+	"weaponmaster_ydm.screen.reset_to_previous": "Сбросить",
+	"weaponmaster_ydm.screen.reset": "Сбросить",
+	"weaponmaster_ydm.screen.reset_to_null":"Сбросить всё до 0",
+	"weaponmaster_ydm.screen.blacklist": "Чёрный список",
+	"weaponmaster_ydm.screen.whitelist": "Белый список",
+	"weaponmaster_ydm.screen.addtext":"Добавить",
+	"weaponmaster_ydm.screen.shiftscroll":"Shift+Прокрутка",
+	"weaponmaster_ydm.screen.remove":"Удалить",
+	"weaponmaster_ydm.screen.save":"Сохранить",
+	"weaponmaster_ydm.screen.copy_server_settings":"Скопировать настройки сервера",
+	
+	"gui.weaponmaster_ydm.slot.scale":"Масштаб: ",
+	
+	"gui.weaponmaster_ydm.slot.posx":"Позиция X: ",
+	"gui.weaponmaster_ydm.slot.posy":"Позиция Y: ",
+	"gui.weaponmaster_ydm.slot.posz":"Позиция Z: ",
+	
+	"gui.weaponmaster_ydm.slot.rotx":"Поворот X: ",
+	"gui.weaponmaster_ydm.slot.roty":"Поворот Y: ",
+	"gui.weaponmaster_ydm.slot.rotz":"Поворот Z: ",
+	
+	"weaponmaster_ydm.screen.other_settings":"Ещё",
+	"weaponmaster_ydm.screen.shield":"Щит",
+	"weaponmaster_ydm.screen.banner":"Флаг",
+	
+	"weaponmaster_ydm.screen.mainhand":"Основная рука",
+	"weaponmaster_ydm.screen.offhand":"Левая рука",
+	"weaponmaster_ydm.screen.quiver":"Колчан",
+	
+	"gui.weaponmaster_ydm.attach.head":"Голова",
+	"gui.weaponmaster_ydm.attach.body":"Тело",
+	"gui.weaponmaster_ydm.attach.larm":"Левая рука",
+	"gui.weaponmaster_ydm.attach.rarm":"Правая рука",
+	"gui.weaponmaster_ydm.attach.lleg":"Левая нога",
+	"gui.weaponmaster_ydm.attach.rleg":"Правая нога",
+	"gui.weaponmaster_ydm.rotate":"Тяни для поворота",
+	"gui.weaponmaster_ydm.slot.shield":"Щит",
+	"gui.weaponmaster_ydm.slot.banner":"Флаг",
+	"gui.weaponmaster_ydm.slot.mainhand":"Основная рука",
+	"gui.weaponmaster_ydm.slot.offhand":"Левая рука",
+	"gui.weaponmaster_ydm.slot.quiver":"Колчан",
+	"gui.weaponmaster_ydm.mover":"Менять позицию от:",
+	"gui.weaponmaster_ydm.arrowright":"->",
+	"gui.weaponmaster_ydm.attach":"Прикрепить к части тела:"
+	
+}

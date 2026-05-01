@@ -1,0 +1,45 @@
+{
+  "item_group.lrtactical.throwable": "LesRaisins - Метательное",
+  "item_group.lrtactical.melee": "LesRaisins - Ближний бой",
+
+  "item.lrtactical.m67": "Граната M67",
+  "item.lrtactical.rgn": "Граната RGN",
+  "item.lrtactical.smoke_grenade": "Дымовая граната",
+  "item.lrtactical.flash_grenade": "Светошумовая граната",
+
+  "item.lrtactical.dagger": "Кинжал",
+  "item.lrtactical.baseball_bat": "Бейсбольная бита",
+  "item.lrtactical.karambit": "Керамбит",
+
+  "item.lrtactical.flash_shield": "Светошумовой щит",
+
+  "lrtactical.block.smith_table.name": "Кузнечный стол LRT",
+  "lrtactical.block.smith_table.desc": "Классический кузнечный стол",
+  "lrtactical.type.melee.name": "БЛИЖНИЙ БОЙ",
+  "lrtactical.type.throwable.name": "МЕТАТЕЛЬНОЕ",
+  "lrtactical.type.misc.name": "РАЗНОЕ",
+
+  "effect.lrtactical.blinded": "Ослепление",
+  "effect.lrtactical.deafened": "Оглушение",
+  "enchantment.lrtactical.backstab": "Удар в спину",
+
+  "config.lrtactical.effect": "Эффекты",
+  "config.lrtactical.effect.blackflash": "Чёрная вспышка",
+  "config.lrtactical.effect.blackflash.desc": "Использовать чёрный экран вместо белого при ослеплении светошумовой гранатой",
+
+  "key.category.lrtactical": "LesRaisins Tactical",
+  "key.lrtactical.normal_attack.desc": "Обычная атака",
+  "key.lrtactical.sp_attack.desc": "Особая атака или действие",
+
+  "pack.lrtactical.default_pack.name": "LesRaisins Tactical",
+  "pack.lrtactical.default_pack.desc": "Стандартный набор для LesRaisins Tactical",
+
+  "subtitle.lrtactical.entity.grenade.bounce": "Граната отскакивает",
+  "subtitle.lrtactical.entity.grenade.flash.explode": "Взрыв светошумовой гранаты",
+  "subtitle.lrtactical.entity.grenade.m67.explode": "Взрыв гранаты M67",
+  "subtitle.lrtactical.entity.grenade.rgn.explode": "Взрыв гранаты RGN",
+  "subtitle.lrtactical.entity.grenade.smoke.start": "Открытие дымовой гранаты",
+  "subtitle.lrtactical.entity.grenade.smoke.loop": "Выход дыма из гранаты",
+  "subtitle.lrtactical.entity.grenade.smoke.end": "Рассеивание дыма",
+  "subtitle.lrtactical.player.ring": "*Звон в ушах*"
+}

@@ -1,0 +1,6 @@
+{
+  "commands.curios.drop.success": "Предметы из слота %s игрока %s выпали",
+  "commands.curios.dropAll.success": "Предметы из всех слотов игрока %s выпали",
+  "commands.curios.replace.success": "Слот %s игрока %s теперь содержит %s",
+  "argument.entity.options.curios.description": "Инвентарь Curios сущности"
+}

@@ -1,0 +1,20 @@
+{
+  "item.createaddition.copper_spool.tooltip.condition1": "ПКМ по двум соединителям",
+  "item.createaddition.copper_spool.tooltip.behaviour1": "Создаст связь между ними и вернёт _пустую катушку_.",
+  "item.createaddition.gold_spool.tooltip.condition1": "ПКМ по двум соединителям",
+  "item.createaddition.gold_spool.tooltip.behaviour1": "Создаст связь между ними и вернёт _пустую катушку_.",
+  "item.createaddition.festive_spool.tooltip.condition1": "ПКМ по двум соединителям",
+  "item.createaddition.festive_spool.tooltip.behaviour1": "Создаст связь между ними и вернёт _пустую катушку_.",
+  "item.createaddition.spool.tooltip.condition1": "ПКМ по двум связанным соединителям",
+  "item.createaddition.spool.tooltip.behaviour1": "Удалит связь и вернёт заполненную _катушку_.",
+  "block.createaddition.connector.tooltip.condition1": "ПКМ",
+  "block.createaddition.connector.tooltip.behaviour1": "Если в руках _Медная катушка_ или _Золотая катушка_, вы сможете создать _связь_ между двумя _соединителями_.",
+  "block.createaddition.connector.tooltip.condition2": "ПКМ гаечным ключом",
+  "block.createaddition.connector.tooltip.behaviour2": "Переключает режимы: _Отдача_, _Тяга_, _Пассивный_ и _Выкл_.",
+  "block.createaddition.connector_copper.tooltip.condition1": "ПКМ",
+  "block.createaddition.connector_copper.tooltip.behaviour1": "Если в руках _Медная катушка_, вы сможете создать _связь_ между двумя _соединителями_.",
+  "block.createaddition.connector_gold.tooltip.condition1": "ПКМ",
+  "block.createaddition.connector_gold.tooltip.behaviour1": "Если в руках _Золотая катушка_, вы сможете создать _связь_ между двумя _соединителями_.",
+  "block.createaddition.liquid_blaze_burner": "Всполоховая горелка с соломинкой",
+  "createaddition.display_source.digital_adapter_source_digital_adapter": "Цифровой адаптер"
+}

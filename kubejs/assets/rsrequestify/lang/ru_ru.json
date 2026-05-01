@@ -1,0 +1,9 @@
+{
+  "itemGroup.rsrequestify": "RS: Requestify",
+  "block.rsrequestify.requester": "Запросчик",
+  "button.refinedstoragerequestify:requester.save": "Сохранить",
+  "tooltip.refinedstoragerequestify:requester.missing": "Не хватает ингредиентов",
+  "block.rsrequestify.crafting_emitter": "Излучатель крафта",
+  "block.rsrequestify.crafting_emitter.tooltip": "Испускает сигнал красного камня, когда любой предмет или жидкость из фильтра находится в процессе крафта.",
+  "block.rsrequestify.requester.tooltip": "Поддерживает запас выбранного предмета или жидкости в нужном количестве."
+}

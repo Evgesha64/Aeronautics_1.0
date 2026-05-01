@@ -1,0 +1,23 @@
+{
+  "itemGroup.botania_seeds": "Семена Botania",
+
+  "item.botania_seeds.white_mystical_flower_seed": "Семя мистического белого цветка",
+  "item.botania_seeds.orange_mystical_flower_seed": "Семя мистического оранжевого цветка",
+  "item.botania_seeds.magenta_mystical_flower_seed": "Семя мистического пурпурного цветка",
+  "item.botania_seeds.light_blue_mystical_flower_seed": "Семя мистического голубого цветка",
+  "item.botania_seeds.yellow_mystical_flower_seed": "Семя мистического жёлтого цветка",
+  "item.botania_seeds.lime_mystical_flower_seed": "Семя мистического лаймового цветка",
+  "item.botania_seeds.pink_mystical_flower_seed": "Семя мистического розового цветка",
+  "item.botania_seeds.gray_mystical_flower_seed": "Семя мистического серого цветка",
+  "item.botania_seeds.light_gray_mystical_flower_seed": "Семя мистического светло-серого цветка",
+  "item.botania_seeds.cyan_mystical_flower_seed": "Семя мистического бирюзового цветка",
+  "item.botania_seeds.purple_mystical_flower_seed": "Семя мистического фиолетового цветка",
+  "item.botania_seeds.blue_mystical_flower_seed": "Семя мистического синего цветка",
+  "item.botania_seeds.brown_mystical_flower_seed": "Семя мистического коричневого цветка",
+  "item.botania_seeds.green_mystical_flower_seed": "Семя мистического зелёного цветка",
+  "item.botania_seeds.red_mystical_flower_seed": "Семя мистического красного цветка",
+  "item.botania_seeds.black_mystical_flower_seed": "Семя мистического чёрного цветка",
+  "botania.page.flowers0": "Из семян можно вырастить $(thing)16$(0) $(item)мистических цветов$(0) разных цветов. $(p)Эти цветы также можно вырастить с помощью $(item)цветочного удобрения$(0) (читайте дальше).",
+  "botania.page.flowers18": "Существуют и более высокие варианты обычных $(item)мистических цветов$(0). Их можно сорвать и получить вдвое больше лепестков, чем с обычного цветка.",
+  "botania.page.mushrooms0": "Если посыпать $(item)лепестками$(0) $(item)грибы$(0), похоже, последние мутируют. $(item)Гриб$(0) меняет форму, приобретает цвет лепестка и слабо светится; кроме того, его можно использовать как замену $(l:basics/flowers)$(item)мистическому лепестку$(0)$(/l)."
+}

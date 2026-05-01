@@ -1,0 +1,111 @@
+{
+  "item.strainers.amethyst_mesh": "Аметистовая сетка",
+  "item.strainers.bamboo_mesh": "Бамбуковая сетка",
+  "item.strainers.copper_mesh": "Медная сетка",
+  "item.strainers.diamond_mesh": "Алмазная сетка",
+  "item.strainers.echo_mesh": "Сетка эха",
+  "item.strainers.emerald_mesh": "Изумрудная сетка",
+  "item.strainers.flint_mesh": "Кремнёвая сетка",
+  "item.strainers.gold_mesh": "Золотая сетка",
+  "item.strainers.iron_mesh": "Железная сетка",
+  "item.strainers.leafy_mesh": "Лиственная сетка",
+  "item.strainers.netherite_mesh": "Незеритовая сетка",
+  "item.strainers.quartz_mesh": "Кварцевая сетка",
+  "item.strainers.string_mesh": "Нитяная сетка",
+  "item.strainers.eroding_water_bucket": "Ведро разъедающей воды",
+  "item.strainers.purified_water_bucket": "Ведро очищенной воды",
+  "item.strainers.stone_pebble": "Камешек",
+  "item.strainers.deepslate_pebble": "Сланцевый камешек",
+  "item.strainers.purifying_salt_mulch": "Очищающая соляная мульча",
+  "item.strainers.eroding_salt_mulch": "Разъедающая соляная мульча",
+
+  "fluid_type.strainers.eroding_water_fluid": "Разъедающая вода",
+  "fluid_type.strainers.purified_water_fluid": "Очищенная вода",
+
+  "block.strainers.wooden_strainer": "Деревянный фильтр",
+  "block.strainers.eroding_water_block": "Разъедающая вода",
+  "block.strainers.purified_water_block": "Очищенная вода",
+  "block.strainers.mulch": "Мульча",
+  "block.strainers.summoning_block": "Блок призыва",
+  "block.strainers.strainer_tank": "Бак фильтра",
+
+  "item.strainers.improved_input_upgrade": "Улучшение входа",
+  "item.strainers.sturdy_input_upgrade": "Прочное улучшение входа",
+  "item.strainers.reinforced_input_upgrade": "Усиленное улучшение входа",
+  "item.strainers.everlasting_input_upgrade": "Вечное улучшение входа",
+  
+  "item.strainers.improved_duration_upgrade": "Улучшение длительности",
+  "item.strainers.sturdy_duration_upgrade": "Прочное улучшение длительности",
+  "item.strainers.reinforced_duration_upgrade": "Усиленное улучшение длительности",
+  "item.strainers.everlasting_duration_upgrade": "Вечное улучшение длительности",
+  
+  "item.strainers.improved_mesh_upgrade": "Улучшение сетки",
+  "item.strainers.sturdy_mesh_upgrade": "Прочное улучшение сетки",
+  "item.strainers.reinforced_mesh_upgrade": "Усиленное улучшение сетки",
+  "item.strainers.everlasting_mesh_upgrade": "Вечное улучшение сетки",
+  
+  "item.strainers.improved_output_upgrade": "Улучшение выхода",
+  "item.strainers.sturdy_output_upgrade": "Прочное улучшение выхода",
+  "item.strainers.reinforced_output_upgrade": "Усиленное улучшение выхода",
+  "item.strainers.everlasting_output_upgrade": "Вечное улучшение выхода",
+
+  "item.strainers.improved_everything_upgrade": "Улучшение всего",
+  "item.strainers.sturdy_everything_upgrade": "Прочное улучшение всего",
+  "item.strainers.reinforced_everything_upgrade": "Усиленное улучшение всего",
+  "item.strainers.everlasting_everything_upgrade": "Вечное улучшение всего",
+
+  "item.strainers.specialized_input_upgrade": "Специализированное улучшение входа",
+  "item.strainers.specialized_mesh_upgrade": "Специализированное улучшение сетки",
+  "item.strainers.specialized_output_upgrade": "Специализированное улучшение выхода",
+  "item.strainers.specialized_speed_upgrade": "Специализированное улучшение длительности",
+
+  "tooltips.strainers.upgrade": "Нажмите §eSHIFT§r для подробностей!",
+  "tooltips.strainers.improved_input_upgrade.shift": "§aПредметы на входе с шансом 20% не расходуются.",
+  "tooltips.strainers.sturdy_input_upgrade.shift": "§aПредметы на входе с шансом 40% не расходуются.",
+  "tooltips.strainers.reinforced_input_upgrade.shift": "§aПредметы на входе с шансом 60% не расходуются.",
+  "tooltips.strainers.everlasting_input_upgrade.shift": "§aПредметы на входе с шансом 80% не расходуются.",
+  
+  "tooltips.strainers.improved_mesh_upgrade.shift": "§aСетки с шансом 20% не получают урон при использовании.",
+  "tooltips.strainers.sturdy_mesh_upgrade.shift": "§aСетки с шансом 40% не получают урон при использовании.",
+  "tooltips.strainers.reinforced_mesh_upgrade.shift": "§aСетки с шансом 60% не получают урон при использовании.",
+  "tooltips.strainers.everlasting_mesh_upgrade.shift": "§aСетки с шансом 80% не получают урон при использовании.",
+
+  "tooltips.strainers.improved_duration_upgrade.shift": "§aДлительность рецепта уменьшается до 80% от полной длительности.",
+  "tooltips.strainers.sturdy_duration_upgrade.shift": "§aДлительность рецепта уменьшается до 60% от полной длительности.",
+  "tooltips.strainers.reinforced_duration_upgrade.shift": "§aДлительность рецепта уменьшается до 40% от полной длительности.",
+  "tooltips.strainers.everlasting_duration_upgrade.shift": "§aДлительность рецепта уменьшается до 20% от полной длительности.",
+
+  "tooltips.strainers.improved_output_upgrade.shift": "§aВыходы рецепта получают дополнительный шанс 20% на дополнительный бросок.",
+  "tooltips.strainers.sturdy_output_upgrade.shift": "§aВыходы рецепта получают дополнительный шанс 40% на дополнительный бросок.",
+  "tooltips.strainers.reinforced_output_upgrade.shift": "§aВыходы рецепта получают дополнительный шанс 60% на дополнительный бросок.",
+  "tooltips.strainers.everlasting_output_upgrade.shift": "§aВыходы рецепта получают дополнительный шанс 80% на дополнительный бросок.",
+
+  "tooltips.strainers.improved_everything_upgrade.shift": "§aОбъединяет все эффекты улучшений!",
+  "tooltips.strainers.sturdy_everything_upgrade.shift": "§aОбъединяет все эффекты улучшений!",
+  "tooltips.strainers.reinforced_everything_upgrade.shift": "§aОбъединяет все эффекты улучшений!",
+  "tooltips.strainers.everlasting_everything_upgrade.shift": "§aОбъединяет все эффекты улучшений!",
+
+  "tooltips.strainers.specialized_output_upgrade.shift": "§aВыход увеличен в 5 раз!§r,§c Длительность увеличена в 3 раза!",
+  "tooltips.strainers.specialized_speed_upgrade.shift": "§aДлительность снижена до 20 тиков!§r,§c Сетки получают урон в 5 раз сильнее!",
+  "tooltips.strainers.specialized_mesh_upgrade.shift": "§aСетки никогда не получают урон!§r,§c Длительность увеличена в 1.5 раза!",
+  "tooltips.strainers.specialized_input_upgrade.shift": "§aПредметы на входе никогда не расходуются!§r,§c Сетки получают урон в 10 раз сильнее!, Длительность увеличена в 4 раза!",
+
+  "tooltips.strainers.mesh.shift": "Сведения о сетке!",
+  "tooltips.strainers.mesh": "Сведения о сетке!",
+
+  "tooltips.strainers.tier_1_mesh": "Сетка 1 уровня",
+  "tooltips.strainers.tier_2_mesh": "Сетка 2 уровня",
+  "tooltips.strainers.tier_3_mesh": "Сетка 3 уровня",
+  "tooltips.strainers.tier_4_mesh": "Сетка 4 уровня",
+  "tooltips.strainers.tier_5_mesh": "Сетка 5 уровня",
+  "tooltips.strainers.tier_6_mesh": "Сетка 6 уровня",
+
+  "jei.strainers.purified_water": "Нажмите ПКМ по блоку мульчи с Очищающей соляной мульчей, чтобы создать источник Очищенной воды.",
+  "jei.strainers.eroding_water": "Нажмите ПКМ по блоку мульчи с Разъедающей соляной мульчей, чтобы создать источник Разъедающей воды.",
+  "jei.strainers.mulch_block": "Нажмите ПКМ мотыгой, чтобы создать источник воды.\n\nНажмите ПКМ по блоку мульчи с Разъедающей соляной мульчей, чтобы создать источник Разъедающей воды.\n\nНажмите ПКМ по блоку мульчи с Разъедающей соляной мульчей, чтобы создать источник Разъедающей воды.",
+  "jei.strainer.place_block": "Поставьте блок сверху",
+  "jei.strainer.place_fluid": "Разместите жидкость сверху",
+  "jei.strainer.duration": "Длительность",
+
+  "itemGroup.strainers": "Фильтры BBL"
+}

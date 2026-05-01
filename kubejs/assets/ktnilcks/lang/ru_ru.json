@@ -1,0 +1,37 @@
+{
+  "_comment": "Base data",
+  "config.ktnilcks.base.modname": "ItemLocks",
+  "config.ktnilcks.base.config_title": "Настройки ItemLocks",
+
+  "_comment": "Config Sections",
+  "config.ktnilcks.section.versions": "Уведомления о версиях",
+  "config.ktnilcks.section.actions": "Действия",
+  "config.ktnilcks.section.hotbar": "Панель быстрого доступа",
+
+  "_comment": "Config Options",
+  "config.ktnilcks.notify.global.long": "Если включено, мод будет показывать отклик в зависимости от смены версии.",
+  "config.ktnilcks.notify.global.short": "Включить уведомления",
+  "config.ktnilcks.notify.chat.long": "Если включено, при входе в мир или на сервер отклик о версии появится в чате.",
+  "config.ktnilcks.notify.chat.short": "Включить уведомление в чате",
+  "config.ktnilcks.notify.hud.long": "Если включено, отклик о версии появится в игровом интерфейсе.",
+  "config.ktnilcks.notify.hud.short": "Включить индикатор HUD",
+  "config.ktnilcks.action.bypassheld.long": "Если включено, удержание предмета в инвентаре всегда будет обходить блокировки",
+  "config.ktnilcks.action.bypassheld.short": "Автообход удерживаемых предметов",
+  "config.ktnilcks.action.bypassaoffhand.long": "Если включено, обмен предметами с дополнительной рукой всегда будет обходить блокировки",
+  "config.ktnilcks.action.bypassoffhand.short": "Автообход обмена с дополнительной рукой",
+  "config.ktnilcks.action.bypassall.long": "Если включено, обход всегда активен, кроме выброса предметов клавишей выброса",
+  "config.ktnilcks.action.bypassall.short": "Автообход всех предметов",
+  "config.ktnilcks.hotbar.visible.long": "Если выключено, замки не будут видны на панели быстрого доступа.",
+  "config.ktnilcks.hotbar.visible.short": "Показывать замки на панели быстрого доступа",
+
+  "_comment": "Key Bindings",
+  "key.categories.ktnilcks": "ItemLocks",
+  "key.ktnilcks.lock.toggle.hold": "Переключить замок (удержание)",
+  "key.ktnilcks.lock.bypass.hold": "Обойти замки (удержание)",
+  "key.ktnilcks.options.show": "Показать настройки",
+
+  "_comment": "Key Binding Error Messages",
+  "error.key.ktnilcks.lock.toggle": "\u00A76ItemLocks\u00A78: \u00A77Клавиша переключения замка сброшена на стандартную, чтобы не было краша!",
+  "error.key.ktnilcks.lock.bypass": "\u00A76ItemLocks\u00A78: \u00A77Клавиша обхода замков сброшена на стандартную, чтобы не было краша!",
+  "error.key.ktnilcks.options.show": "\u00A76ItemLocks\u00A78: \u00A77Клавиша показа настроек сброшена на стандартную, чтобы не было краша!"
+}

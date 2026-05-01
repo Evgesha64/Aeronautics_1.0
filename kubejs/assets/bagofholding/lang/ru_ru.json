@@ -1,0 +1,8 @@
+{
+  "enchantment.bagofholding.preservation": "Сохранение",
+  "enchantment.bagofholding.preservation.desc": "Не даёт сумке хранения потеряться после смерти. Уровень чар уменьшается на единицу при каждом срабатывании.",
+  "item.bagofholding.golden_bag_of_holding": "Золотая сумка хранения",
+  "item.bagofholding.iron_bag_of_holding": "Железная сумка хранения",
+  "item.bagofholding.leather_bag_of_holding": "Кожаная сумка хранения",
+  "itemGroup.bagofholding.main": "Bag Of Holding"
+}

@@ -1,0 +1,185 @@
+{
+  "itemGroup.spudaciousshops.shop_item_group": "Spud's shops",
+
+  "block.spudaciousshops.shop_acacia": "Акациевый магазин",
+  "item.spudaciousshops.shop_acacia": "Акациевый магазин",
+
+  "block.spudaciousshops.shop_bamboo": "Бамбуковый магазин",
+  "item.spudaciousshops.shop_bamboo": "Бамбуковый магазин",
+
+  "block.spudaciousshops.shop_birch": "Берёзовый магазин",
+  "item.spudaciousshops.shop_birch": "Берёзовый магазин",
+
+  "block.spudaciousshops.shop_cherry": "Вишнёвый магазин",
+  "item.spudaciousshops.shop_cherry": "Вишнёвый магазин",
+
+  "block.spudaciousshops.shop_crimson": "Багровый магазин",
+  "item.spudaciousshops.shop_crimson": "Багровый магазин",
+
+  "block.spudaciousshops.shop_dark_oak": "Магазин из тёмного дуба",
+  "item.spudaciousshops.shop_dark_oak": "Магазин из тёмного дуба",
+
+  "block.spudaciousshops.shop_mangrove": "Мангровый магазин",
+  "item.spudaciousshops.shop_mangrove": "Мангровый магазин",
+
+  "block.spudaciousshops.shop_oak": "Дубовый магазин",
+  "item.spudaciousshops.shop_oak": "Дубовый магазин",
+
+  "block.spudaciousshops.shop_spruce": "Еловый магазин",
+  "item.spudaciousshops.shop_spruce": "Еловый магазин",
+
+  "block.spudaciousshops.shop_warped": "Искажённый магазин",
+  "item.spudaciousshops.shop_warped": "Искажённый магазин",
+
+  "block.spudaciousshops.shop_jungle": "Магазин из тропического дерева",
+  "item.spudaciousshops.shop_jungle": "Магазин из тропического дерева",
+
+  "block.spudaciousshops.shop_window_andesite": "Магазин с андезитовым подоконником",
+  "item.spudaciousshops.shop_window_andesite": "Магазин с андезитовым подоконником",
+
+  "block.spudaciousshops.shop_window_calcite": "Магазин с кальцитовым подоконником",
+  "item.spudaciousshops.shop_window_calcite": "Магазин с кальцитовым подоконником",
+
+  "block.spudaciousshops.shop_window_deepslate": "Магазин с подоконником из глубинного сланца",
+  "item.spudaciousshops.shop_window_deepslate": "Магазин с подоконником из глубинного сланца",
+
+  "block.spudaciousshops.shop_window_granite": "Магазин с гранитным подоконником",
+  "item.spudaciousshops.shop_window_granite": "Магазин с гранитным подоконником",
+
+  "block.spudaciousshops.shop_window_stone": "Магазин с каменным подоконником",
+  "item.spudaciousshops.shop_window_stone": "Магазин с каменным подоконником",
+
+  "block.spudaciousshops.shop_window_tuff": "Магазин с туфовым подоконником",
+  "item.spudaciousshops.shop_window_tuff": "Магазин с туфовым подоконником",
+
+  "block.spudaciousshops.shop_window_dripstone": "Магазин с натёчным подоконником",
+  "item.spudaciousshops.shop_window_dripstone": "Магазин с натёчным подоконником",
+
+  "block.spudaciousshops.shop_window_blackstone": "Магазин с чернитовым подоконником",
+  "item.spudaciousshops.shop_window_blackstone": "Магазин с чернитовым подоконником",
+
+  "block.spudaciousshops.shop_window_amethyst": "Магазин с аметистовым подоконником",
+  "item.spudaciousshops.shop_window_amethyst": "Магазин с аметистовым подоконником",
+
+  "block.spudaciousshops.shop_window_end_stone": "Магазин с эндерняковым подоконником",
+  "item.spudaciousshops.shop_window_end_stone": "Магазин с эндерняковым подоконником",
+
+  "block.spudaciousshops.hook_shop": "Подвесной магазин",
+  "item.spudaciousshops.hook_shop": "Подвесной магазин",
+
+  "block.spudaciousshops.rug_shop_white": "Белый ковровый магазин",
+  "item.spudaciousshops.rug_shop_white": "Белый ковровый магазин",
+
+  "block.spudaciousshops.rug_shop_orange": "Оранжевый ковровый магазин",
+  "item.spudaciousshops.rug_shop_orange": "Оранжевый ковровый магазин",
+
+  "block.spudaciousshops.rug_shop_magenta": "Пурпурный ковровый магазин",
+  "item.spudaciousshops.rug_shop_magenta": "Пурпурный ковровый магазин",
+
+  "block.spudaciousshops.rug_shop_light_blue": "Голубой ковровый магазин",
+  "item.spudaciousshops.rug_shop_light_blue": "Голубой ковровый магазин",
+
+  "block.spudaciousshops.rug_shop_yellow": "Жёлтый ковровый магазин",
+  "item.spudaciousshops.rug_shop_yellow": "Жёлтый ковровый магазин",
+
+  "block.spudaciousshops.rug_shop_lime": "Лаймовый ковровый магазин",
+  "item.spudaciousshops.rug_shop_lime": "Лаймовый ковровый магазин",
+
+  "block.spudaciousshops.rug_shop_pink": "Розовый ковровый магазин",
+  "item.spudaciousshops.rug_shop_pink": "Розовый ковровый магазин",
+
+  "block.spudaciousshops.rug_shop_gray": "Серый ковровый магазин",
+  "item.spudaciousshops.rug_shop_gray": "Серый ковровый магазин",
+
+  "block.spudaciousshops.rug_shop_light_gray": "Светло-серый ковровый магазин",
+  "item.spudaciousshops.rug_shop_light_gray": "Светло-серый ковровый магазин",
+
+  "block.spudaciousshops.rug_shop_cyan": "Бирюзовый ковровый магазин",
+  "item.spudaciousshops.rug_shop_cyan": "Бирюзовый ковровый магазин",
+
+  "block.spudaciousshops.rug_shop_purple": "Фиолетовый ковровый магазин",
+  "item.spudaciousshops.rug_shop_purple": "Фиолетовый ковровый магазин",
+
+  "block.spudaciousshops.rug_shop_blue": "Синий ковровый магазин",
+  "item.spudaciousshops.rug_shop_blue": "Синий ковровый магазин",
+
+  "block.spudaciousshops.rug_shop_brown": "Коричневый ковровый магазин",
+  "item.spudaciousshops.rug_shop_brown": "Коричневый ковровый магазин",
+
+  "block.spudaciousshops.rug_shop_green": "Зелёный ковровый магазин",
+  "item.spudaciousshops.rug_shop_green": "Зелёный ковровый магазин",
+
+  "block.spudaciousshops.rug_shop": "Красный ковровый магазин",
+  "item.spudaciousshops.rug_shop": "Красный ковровый магазин",
+
+  "block.spudaciousshops.rug_shop_black": "Чёрный ковровый магазин",
+  "item.spudaciousshops.rug_shop_black": "Чёрный ковровый магазин",
+
+
+  "block.spudaciousshops.crate_shop": "Ящик торговца",
+  "item.spudaciousshops.crate_shop": "Ящик торговца",
+
+  "item.spudaciousshops.contract_scroll": "Свиток контракта",
+
+  "gui.spudaciousshops.currency_type": "£",
+
+  "gui.spudaciousshops.owner": "ВЛАДЕЛЕЦ",
+  "gui.spudaciousshops.manager": "МЕНЕДЖЕР",
+  "gui.spudaciousshops.supervisor": "СУПЕРВАЙЗЕР",
+  "gui.spudaciousshops.clerk": "ПРОДАВЕЦ",
+
+  "gui.spudaciousshops.delete_warn_title": "УДАЛИТЬ ВАШ КОНТРАКТ",
+  "gui.spudaciousshops.delete_warn_message_line1": "Вы собираетесь удалить свой контракт",
+  "gui.spudaciousshops.delete_warn_message_line2": "и убрать все свои разрешения!",
+  "gui.spudaciousshops.cancel": "ОТМЕНА",
+  "gui.spudaciousshops.delete": "УДАЛИТЬ",
+
+  "gui.spudaciousshops.text_permissions": "Разрешения",
+  "gui.spudaciousshops.text_import_items": "Импорт предметов",
+  "gui.spudaciousshops.text_take_items": "Забирать предметы",
+  "gui.spudaciousshops.text_edit_perms": "Изменить разрешения для",
+  "gui.spudaciousshops.text_change_trade": "Изменить сделку магазина",
+  "gui.spudaciousshops.text_break_shop": "Сломать магазин",
+  "gui.spudaciousshops.text_yes": "ДА",
+  "gui.spudaciousshops.text_no": "НЕТ",
+  "gui.spudaciousshops.text_all": "ВСЕ",
+  "gui.spudaciousshops.text_supervisor_and_lower": "Супервайзер и ниже",
+  "gui.spudaciousshops.text_none": "НЕТ",
+
+  "gui.spudaciousshops.toggle_creative": "Переключить режим творческого магазина",
+  "gui.spudaciousshops.toggle_effects": "Переключить значки и частицы",
+
+
+  "block.spudaciousshops.shelf_shop_acacia": "Акациевый полочный магазин",
+  "item.spudaciousshops.shelf_shop_acacia": "Акациевый полочный магазин",
+
+  "block.spudaciousshops.shelf_shop_bamboo": "Бамбуковый полочный магазин",
+  "item.spudaciousshops.shelf_shop_bamboo": "Бамбуковый полочный магазин",
+
+  "block.spudaciousshops.shelf_shop_birch": "Берёзовый полочный магазин",
+  "item.spudaciousshops.shelf_shop_birch": "Берёзовый полочный магазин",
+
+  "block.spudaciousshops.shelf_shop_cherry": "Вишнёвый полочный магазин",
+  "item.spudaciousshops.shelf_shop_cherry": "Вишнёвый полочный магазин",
+
+  "block.spudaciousshops.shelf_shop_crimson": "Багровый полочный магазин",
+  "item.spudaciousshops.shelf_shop_crimson": "Багровый полочный магазин",
+
+  "block.spudaciousshops.shelf_shop_dark_oak": "Полочный магазин из тёмного дуба",
+  "item.spudaciousshops.shelf_shop_dark_oak": "Полочный магазин из тёмного дуба",
+
+  "block.spudaciousshops.shelf_shop_mangrove": "Мангровый полочный магазин",
+  "item.spudaciousshops.shelf_shop_mangrove": "Мангровый полочный магазин",
+
+  "block.spudaciousshops.shelf_shop_oak": "Дубовый полочный магазин",
+  "item.spudaciousshops.shelf_shop_oak": "Дубовый полочный магазин",
+
+  "block.spudaciousshops.shelf_shop_spruce": "Еловый полочный магазин",
+  "item.spudaciousshops.shelf_shop_spruce": "Еловый полочный магазин",
+
+  "block.spudaciousshops.shelf_shop_warped": "Искажённый полочный магазин",
+  "item.spudaciousshops.shelf_shop_warped": "Искажённый полочный магазин",
+
+  "block.spudaciousshops.shelf_shop_jungle": "Полочный магазин из тропического дерева",
+  "item.spudaciousshops.shelf_shop_jungle": "Полочный магазин из тропического дерева"
+}

@@ -1,0 +1,9 @@
+{
+  "tradeuses.default_tooltip": "§lОсталось использований: §r{uses_left}",
+  "tradeuses.placeholders": "Заполнители: {uses}, {max_uses}, {uses_left}",
+  "tradeuses.preview": "Предпросмотр",
+  "tradeuses.copy_color_code_char": "Копировать символ цветового кода",
+  "tradeuses.copied": "Скопировано!",
+  "tradeuses.tradeuses_config": "Настройки использований сделки",
+  "tradeuses.tooltip_text": "Текст подсказки"
+}

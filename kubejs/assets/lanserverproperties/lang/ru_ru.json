@@ -1,0 +1,21 @@
+{
+  "lanserverproperties.options.online_mode": "Сетевой режим",
+  "lanserverproperties.options.online_mode.on": "Сетевой режим: ВКЛ",
+  "lanserverproperties.options.online_mode.on.message": "Включение сетевого режима позволит входить на LAN-сервер только игрокам с действительной учётной записью Microsoft/Mojang.",
+  "lanserverproperties.options.online_mode.off.vanilla": "Сетевой режим: ВЫКЛ",
+  "lanserverproperties.options.online_mode.off.vanilla.message": "Выключение сетевого режима позволит любому игроку входить на LAN-сервер.",
+  "lanserverproperties.options.online_mode.off.fixed": "Офлайн-режим + исправление UUID",
+  "lanserverproperties.options.online_mode.off.fixed.message": "Этот режим позволит любому игроку входить на LAN-сервер, при этом UUID игроков с учётной записью Microsoft/Mojang сохранится. Используйте этот режим при переходе с сетевого режима, если хотите сохранить инвентари.",
+  "lanserverproperties.options.preference_enabled": "Автозагрузка предпочтений",
+  "lanserverproperties.options.preference_enabled.message": "Автоматически загружать настройки из сохранённых предпочтений, если сервер не опубликован. Иначе это окно покажет текущую конфигурацию сервера.",
+  "lanserverproperties.button.lan_server_options": "Настройки LAN-сервера",
+  "lanserverproperties.button.preference_load": "Загрузить предпочтения",
+  "lanserverproperties.button.preference_save": "Сохранить предпочтения",
+
+  "lanserverproperties.gui.pvp_allowed": "PvP разрешён",
+  "lanserverproperties.gui.port_listening": "Прослушивание на:",
+  "lanserverproperties.gui.port": "Порт:",
+  "lanserverproperties.gui.max_player": "Макс. игроков:",
+  "lanserverproperties.gui.always_offline": "Всегда офлайн-игроки",
+  "lanserverproperties.gui.always_offline.message": "Список имён игроков через пробел, которые всегда считаются офлайн-игроками. Работает только в режиме 'Офлайн-режим + исправление UUID' и может помочь решить конфликт имён между офлайн-игроком и зарегистрированным онлайн-игроком."
+}

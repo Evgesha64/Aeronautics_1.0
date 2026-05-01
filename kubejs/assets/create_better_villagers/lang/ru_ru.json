@@ -1,0 +1,21 @@
+{
+  "text.autoconfig.create_better_villagers.title": "Настройки Create Better Villagers",
+  "text.autoconfig.create_better_villagers.option.common.ENABLE_IN_GAME_MESSAGE.@Tooltip": "Для применения изменений нужен перезапуск игры.",
+  "text.autoconfig.create_better_villagers.option.common.ENABLE_IN_GAME_MESSAGE": "Включить или выключить приветствие",
+  "text.autoconfig.create_better_villagers.option.common.ENABLE_ANDESITE_WORKER.@Tooltip": "Для применения изменений нужен перезапуск игры.",
+  "text.autoconfig.create_better_villagers.option.common.ENABLE_ANDESITE_WORKER": "Включить профессию андезитового рабочего",
+  "text.autoconfig.create_better_villagers.option.common.ENABLE_BRASSWORKER.@Tooltip": "Для применения изменений нужен перезапуск игры.",
+  "text.autoconfig.create_better_villagers.option.common.ENABLE_BRASSWORKER": "Включить профессию латунного рабочего",
+  "text.autoconfig.create_better_villagers.option.common.ENABLE_COPPERWORKER.@Tooltip": "Для применения изменений нужен перезапуск игры.",
+  "text.autoconfig.create_better_villagers.option.common.ENABLE_COPPERWORKER": "Включить профессию медного рабочего",
+  "text.autoconfig.create_better_villagers.option.common.ENABLE_MINER.@Tooltip": "Для применения изменений нужен перезапуск игры.",
+  "text.autoconfig.create_better_villagers.option.common.ENABLE_MINER": "Включить профессию шахтёра",
+  "entity.minecraft.villager.create_better_villagers.brassworker": "Латунный рабочий",
+  "entity.minecraft.villager.create_better_villagers.copperworker": "Медный рабочий",
+  "entity.minecraft.villager.create_better_villagers.miner": "Шахтёр",
+  "entity.minecraft.villager.create_better_villagers.andesite_worker": "Андезитовый рабочий",
+  "entity.minecraft.villager.create_better_villagers:andesite_worker": "Андезитовый рабочий",
+  "entity.minecraft.villager.create_better_villagers:brassworker": "Латунный рабочий",
+  "entity.minecraft.villager.create_better_villagers:copperworker": "Медный рабочий",
+  "entity.minecraft.villager.create_better_villagers:miner": "Шахтёр"
+}

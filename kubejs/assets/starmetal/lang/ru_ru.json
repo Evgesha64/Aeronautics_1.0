@@ -1,0 +1,17 @@
+{
+  "item.starmetal.star_metal": "Звёздный металл",
+  "item.starmetal.star_metal.desc": "Этот странный металл обладает свойствами самовосстановления.",
+  "item.starmetal.star_fragment": "Звёздный осколок",
+
+  "sounds.starmetal.star_metal_spawn": "Громкий грохот доносится с небес",
+
+  "commands.starmetals.help1": "Звёздные металлы – альтернатива книге починки",
+  "commands.starmetals.help2": "/starmetals reset_spawn_timer – Сбрасывает текущий таймер появления. Это особенно полезно при изменении настроек времени появления в файле конфигурации.",
+  "commands.starmetals.help3": "/starmetals force_spawn – Принудительно создаёт сверху осколок звёздного металла. Это не влияет на текущий таймер появления, а игрок должен либо находиться в творческом режиме, либо иметь включённые читы.",
+  "commands.starmetals.help4": "",
+  "commands.starmetals.reset": "Таймер появления сброшен!",
+  "commands.starmetals.force_starfall": "Взгляните на звёзды! Появился новый осколок звёздного металла.",
+
+  "advancements.adventure.chase_a_falling_star.title": "Погоня за падающей звездой",
+  "advancements.adventure.chase_a_falling_star.description": "Найдите звёздный металл или звёздный осколок"
+}

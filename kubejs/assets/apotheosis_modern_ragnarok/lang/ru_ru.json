@@ -1,0 +1,181 @@
+{
+  "entity.apotheosis_modern_ragnarok.magic_laser": "Магический лазер",
+  "entity.apotheosis_modern_ragnarok.magic_fireball": "Магический огненный шар",
+  "subtitles.apotheosis_modern_ragnarok.affix.magical_shot.shotgun": "Выстрел энергетического дробовика",
+  "subtitles.apotheosis_modern_ragnarok.affix.magical_shot.semi_auto": "Выстрел энергетического оружия",
+  "subtitles.apotheosis_modern_ragnarok.affix.magical_shot.full_auto": "Выстрел энергетического оружия",
+  "subtitles.apotheosis_modern_ragnarok.affix.magical_shot.bolt_action": "Мощный выстрел энергетического оружия",
+  "subtitles.apotheosis_modern_ragnarok.affix.magical.fireball": "Взрывная магия",
+  "subtitles.apotheosis_modern_ragnarok.affix.head_explosion": "Взрыв головы",
+  "subtitles.apotheosis_modern_ragnarok.critical_hit": "Критический удар",
+  "subtitles.apotheosis_modern_ragnarok.execution": "Цель казнена",
+  "subtitles.apotheosis_modern_ragnarok.perfect_block": "Идеальный блок",
+  "subtitles.apotheosis_modern_ragnarok.perfect_block_neutralized_target": "Пробитие стойки",
+  "item.apotheosis_modern_ragnarok.izanagi_object": "Объект Идзанаги",
+  "attribute.name.apotheosis_modern_ragnarok.posture": "Счётчик стойки",
+  "attribute.name.apotheosis_modern_ragnarok.posture.desc": "Счётчик стойки (0-1). Только для внутреннего использования, не добавляйте модификаторы!",
+  "death.attack.apotheosis_modern_ragnarok.execution": "%1$s был казнён %2$s",
+  "death.attack.apotheosis_modern_ragnarok.execution.item": "%1$s был казнён %2$s с помощью %3$s",
+  "enchantment.apotheosis_modern_ragnarok.stability": "Стабильность",
+  "enchantment.apotheosis_modern_ragnarok.stability.desc": "Снижает отдачу",
+  "enchantment.apotheosis_modern_ragnarok.emergency_protector": "Аварийный защитник",
+  "enchantment.apotheosis_modern_ragnarok.emergency_protector.desc": "Увеличивает броню при размещении во второй руке",
+  "enchantment.apotheosis_modern_ragnarok.riptide_warhead": "Боеголовка риптайда",
+  "enchantment.apotheosis_modern_ragnarok.riptide_warhead.desc": "Снижает трение пуль под водой",
+  "enchantment.apotheosis_modern_ragnarok.survival_instinct": "Инстинкт выживания",
+  "enchantment.apotheosis_modern_ragnarok.survival_instinct.desc": "При убийстве выбрасывает патроны",
+  "enchantment.apotheosis_modern_ragnarok.last_stand": "Последний рубеж",
+  "enchantment.apotheosis_modern_ragnarok.last_stand.desc": "Увеличивает урон в ближнем бою при пустом магазине",
+  "enchantment.apotheosis_modern_ragnarok.perfect_block": "Идеальный блок",
+  "enchantment.apotheosis_modern_ragnarok.perfect_block.desc": "Атака в ближнем бою может на несколько кадров блокировать урон в ближнем бою от других",
+  "enchantment.apotheosis_modern_ragnarok.projection_magic": "Проекционная магия",
+  "enchantment.apotheosis_modern_ragnarok.projection_magic.desc": "Со временем создаёт боеприпасы",
+  "effect.apotheosis_modern_ragnarok.tyranny": "Форма тирана",
+
+  "affix.apotheosis_modern_ragnarok.rated_potion_affix.target.attack_self": "При попадании шанс %s получить %s",
+  "affix.apotheosis_modern_ragnarok.rated_potion_affix.target.attack_target": "При попадании шанс %s наложить %s",
+  "affix.apotheosis_modern_ragnarok.rated_potion_affix.target.hurt_self": "При получении урона шанс %s получить %s",
+  "affix.apotheosis_modern_ragnarok.rated_potion_affix.target.hurt_attacker": "При получении урона шанс %s наложить %s",
+  "affix.apotheosis_modern_ragnarok.rated_potion_affix.target.break_self": "При ломании блока шанс %s получить %s",
+  "affix.apotheosis_modern_ragnarok.rated_potion_affix.target.arrow_self": "При попадании выстрела шанс %s получить %s",
+  "affix.apotheosis_modern_ragnarok.rated_potion_affix.target.arrow_target": "При попадании выстрела шанс %s наложить %s",
+  "affix.apotheosis_modern_ragnarok.rated_potion_affix.target.block_self": "При блокировании шанс %s получить %s",
+  "affix.apotheosis_modern_ragnarok.rated_potion_affix.target.block_attacker": "При блокировании шанс %s наложить %s",
+  "affix.apotheosis_modern_ragnarok.rated_potion_affix.target.ads_self": "При прицеливании в цель получить %s",
+  "affix.apotheosis_modern_ragnarok.rated_potion_affix.target.ads_target": "При прицеливании наложить %s на цель, на которую вы смотрите",
+
+  "affix.apotheosis_modern_ragnarok.spectral.gun.desc": "Ваши пули имеют %s шанс заставить цель светиться.",
+
+  "affix.apotheosis:cleaving.apotheosis_modern_ragnarok.alt": "Болт",
+  "affix.apotheosis:cleaving.apotheosis_modern_ragnarok.alt.suffix": "ББ и ОФ и зажигательный",
+
+  "affix.apotheosis_modern_ragnarok:all_gun/attribute/lightweight": "Лёгкий",
+  "affix.apotheosis_modern_ragnarok:all_gun/attribute/lightweight.suffix": "лёгкой версии",
+
+  "affix.apotheosis_modern_ragnarok:all_gun/attribute/large_capacity": "Большая ёмкость",
+  "affix.apotheosis_modern_ragnarok:all_gun/attribute/large_capacity.suffix": "с увеличенным магазином",
+
+  "affix.apotheosis_modern_ragnarok:all_gun/attribute/adrenalinic": "Адреналиновый",
+  "affix.apotheosis_modern_ragnarok:all_gun/attribute/adrenalinic.suffix": "критического времени",
+
+  "affix.apotheosis_modern_ragnarok:all_gun/mob_effect/eldritch": "Древний",
+  "affix.apotheosis_modern_ragnarok:all_gun/mob_effect/eldritch.suffix": "древнего",
+
+  "affix.apotheosis_modern_ragnarok:all_gun/mob_effect/studious": "Прилежный",
+  "affix.apotheosis_modern_ragnarok:all_gun/mob_effect/studious.suffix": "отличника",
+
+  "affix.apotheosis_modern_ragnarok:all_gun/special/frugality": "Бережливый",
+  "affix.apotheosis_modern_ragnarok:all_gun/special/frugality.suffix": "экономии патронов",
+  "affix.apotheosis_modern_ragnarok:all_gun/special/frugality.desc": "С шансом %s выстрел в голову не израсходует патрон",
+
+  "affix.apotheosis_modern_ragnarok:all_gun/special/magical_shot": "Магический",
+  "affix.apotheosis_modern_ragnarok:all_gun/special/magical_shot.suffix": "тайной магии",
+  "affix.apotheosis_modern_ragnarok:all_gun/special/magical_shot.desc": "Пули, выпущенные из этого оружия, наносят магический урон.",
+
+  "affix.apotheosis_modern_ragnarok:all_gun/special/armor_squash": "Разрушитель брони",
+  "affix.apotheosis_modern_ragnarok:all_gun/special/armor_squash.suffix": "с бронеразрушающей боеголовкой",
+  "affix.apotheosis_modern_ragnarok:all_gun/special/armor_squash.desc": "Попадание оружия имеет %s шанс уничтожить одну часть брони цели",
+  "subtitles.apotheosis_modern_ragnarok.affix.armor_crack": "Трещина брони",
+
+  "affix.apotheosis_modern_ragnarok:all_gun/special/head_explode": "Головная боль",
+  "affix.apotheosis_modern_ragnarok:all_gun/special/head_explode.suffix": "взрыва головы",
+  "affix.apotheosis_modern_ragnarok:all_gun/special/head_explode.desc": "Попадание в голову нанесёт ближайшим к цели врагам %s от исходного урона",
+
+
+
+  "// 暴击率": "",
+  "affix.apotheosis_modern_ragnarok:bolt_action/attribute/crit_chance": "Разящий",
+  "affix.apotheosis_modern_ragnarok:bolt_action/attribute/crit_chance.suffix": "сердец",
+  "affix.apotheosis_modern_ragnarok:non_bolt_action/attribute/crit_chance": "Разящий",
+  "affix.apotheosis_modern_ragnarok:non_bolt_action/attribute/crit_chance.suffix": "сердец",
+
+  "// 暴击伤害": "",
+  "affix.apotheosis_modern_ragnarok:bolt_action/attribute/crit_damage": "Смертельный",
+  "affix.apotheosis_modern_ragnarok:bolt_action/attribute/crit_damage.suffix": "фатальности",
+  "affix.apotheosis_modern_ragnarok:non_bolt_action/attribute/crit_damage": "Смертельный",
+  "affix.apotheosis_modern_ragnarok:non_bolt_action/attribute/crit_damage.suffix": "фатальности",
+
+  "// 火焰伤害（灼热的）": "",
+  "affix.apotheosis_modern_ragnarok:bolt_action/attribute/fire_damage": "Паля́щий",
+  "affix.apotheosis_modern_ragnarok:bolt_action/attribute/fire_damage.suffix": "термита",
+  "affix.apotheosis_modern_ragnarok:rapid_fire/attribute/fire_damage": "Паля́щий",
+  "affix.apotheosis_modern_ragnarok:rapid_fire/attribute/fire_damage.suffix": "термита",
+  "affix.apotheosis_modern_ragnarok:shotgun/attribute/fire_damage": "Паля́щий",
+  "affix.apotheosis_modern_ragnarok:shotgun/attribute/fire_damage.suffix": "термита",
+  "effect.apotheosis_modern_ragnarok.fire_dot": "Паля́щий",
+
+  "// 冷冻伤害（冰封的）": "",
+  "affix.apotheosis_modern_ragnarok:bolt_action/attribute/cold_damage": "Ледяной",
+  "affix.apotheosis_modern_ragnarok:bolt_action/attribute/cold_damage.suffix": "идеальной заморозки",
+  "affix.apotheosis_modern_ragnarok:rapid_fire/attribute/cold_damage": "Ледяной",
+  "affix.apotheosis_modern_ragnarok:rapid_fire/attribute/cold_damage.suffix": "идеальной заморозки",
+  "affix.apotheosis_modern_ragnarok:shotgun/attribute/cold_damage": "Ледяной",
+  "affix.apotheosis_modern_ragnarok:shotgun/attribute/cold_damage.suffix": "идеальной заморозки",
+  "effect.apotheosis_modern_ragnarok.freeze": "Замерзающий",
+
+  "// 吸血/过量治疗": "",
+  "affix.apotheosis_modern_ragnarok:bolt_action/attribute/life_steal_x": "Вампирический",
+  "affix.apotheosis_modern_ragnarok:bolt_action/attribute/life_steal_x.suffix": "кровопускания",
+  "affix.apotheosis_modern_ragnarok:non_bolt_action/attribute/life_steal": "Вампирический",
+  "affix.apotheosis_modern_ragnarok:non_bolt_action/attribute/life_steal.suffix": "кровопускания",
+
+  "affix.apotheosis_modern_ragnarok:bolt_action/mob_effect/grievous": "Античеловечный",
+  "affix.apotheosis_modern_ragnarok:bolt_action/mob_effect/grievous.suffix": "злящий ООН",
+  "affix.apotheosis_modern_ragnarok:non_bolt_action/mob_effect/grievous": "Нарушающий Гаагскую конвенцию",
+  "affix.apotheosis_modern_ragnarok:non_bolt_action/mob_effect/grievous.suffix": "злящий ООН",
+
+  "affix.apotheosis_modern_ragnarok:bolt_action/mob_effect/bleeding": "Антикоагулянтный",
+  "affix.apotheosis_modern_ragnarok:bolt_action/mob_effect/bleeding.suffix": "антикоагулянта",
+  "affix.apotheosis_modern_ragnarok:non_bolt_action/mob_effect/bleeding": "Антикоагулянтный",
+  "affix.apotheosis_modern_ragnarok:non_bolt_action/mob_effect/bleeding.suffix": "антикоагулянта",
+
+  "affix.apotheosis_modern_ragnarok:bolt_action/mob_effect/sundering": "Разъедающий",
+  "affix.apotheosis_modern_ragnarok:bolt_action/mob_effect/sundering.suffix": "растворителя ткани",
+  "affix.apotheosis_modern_ragnarok:non_bolt_action/mob_effect/sundering": "Разъедающий",
+  "affix.apotheosis_modern_ragnarok:non_bolt_action/mob_effect/sundering.suffix": "растворителя ткани",
+
+
+
+
+
+
+  "// 宝石名称": "",
+  "item.apotheosis.gem.apotheosis_modern_ragnarok:core/amr/magnum": "Самоцвет магнума",
+
+
+
+
+
+
+  "text.apotheosis.category.apotheosis_modern_ragnarok:semi_auto": "Полуавтоматическое оружие",
+  "text.apotheosis.category.apotheosis_modern_ragnarok:semi_auto.plural": "Полуавтоматическое оружие",
+  "text.apotheosis.category.apotheosis_modern_ragnarok:full_auto": "Автоматическое оружие",
+  "text.apotheosis.category.apotheosis_modern_ragnarok:full_auto.plural": "Автоматическое оружие",
+  "text.apotheosis.category.apotheosis_modern_ragnarok:shotgun": "Дробовик",
+  "text.apotheosis.category.apotheosis_modern_ragnarok:shotgun.plural": "Дробовики",
+  "text.apotheosis.category.apotheosis_modern_ragnarok:bolt_action": "Оружие с продольно-скользящим затвором",
+  "text.apotheosis.category.apotheosis_modern_ragnarok:bolt_action.plural": "Оружие с продольно-скользящим затвором",
+  "gem_class.apotheosis_modern_ragnarok.all_gun": "Огнестрельное оружие",
+  "gem_class.apotheosis_modern_ragnarok.all_auto": "Автоматическое огнестрельное оружие",
+  "gem_class.apotheosis_modern_ragnarok.all_auto_including_shotgun": "Автоматическое огнестрельное оружие (включая дробовики)",
+  "gem_class.apotheosis_modern_ragnarok.bolt_action": "Оружие с продольно-скользящим затвором",
+  "gem_class.apotheosis_modern_ragnarok.full_auto": "Автоматическое оружие",
+  "gem_class.apotheosis_modern_ragnarok.shotgun": "Дробовики",
+  "bonus.apotheosis:multi_attr.desc.amr:but2": "%s, но %s",
+  "bonus.apotheosis_modern_ragnarok.tyrannical.desc": "Непрерывная стрельба повышает скорострельность, но снижает скорость передвижения. Максимум до %d уровня",
+
+
+
+
+
+
+  "affix.apotheosis_modern_ragnarok:magnum": "Магнум",
+  "affix.apotheosis_modern_ragnarok:magnum.suffix": "магнума",
+
+  "affix.apotheosis_modern_ragnarok:clip_expansion": "Широкий",
+  "affix.apotheosis_modern_ragnarok:clip_expansion.suffix": "большого магазина",
+
+  "affix.apotheosis_modern_ragnarok:ads_charge": "Спокойный",
+  "affix.apotheosis_modern_ragnarok:ads_charge.suffix": "спокойного стрелка",
+  "affix.apotheosis_modern_ragnarok:ads_charge.desc": "Удержание ADS повышает урон вплоть до %s (не реализовано)"
+}

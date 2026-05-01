@@ -1,0 +1,16 @@
+{
+  "item.cataclysm_tools.ignitium_shovel": "§dЛопата из игнитиума",
+  "item.cataclysm_tools.ignitium_axe": "§dТопор из игнитиума",
+  "advancements.too_much_dedication.descr": "Получите мотыгу из игнитиума",
+  "item.cataclysm_tools.cursium_sword": "§dМеч из курсиума",
+  "item.cataclysm_tools.cursium_axe": "§dТопор из курсиума",
+  "item.cataclysm_tools.cursium_pickaxe": "§dКирка из курсиума",
+  "advancements.very_serious_dedication.descr": "Получите мотыгу из курсиума",
+  "item.cataclysm_tools.ignitium_hoe": "§dМотыга из игнитиума",
+  "advancements.too_much_dedication.title": "Слишком большая преданность",
+  "item.cataclysm_tools.ignitium_pickaxe": "§dКирка из игнитиума",
+  "advancements.very_serious_dedication.title": "Очень серьёзная преданность",
+  "item.cataclysm_tools.cursium_shovel": "§dЛопата из курсиума",
+  "item_group.cataclysm_tools.cataclysm_tools_tab": "Инструменты Cataclysm",
+  "item.cataclysm_tools.cursium_hoe": "§dМотыга из курсиума"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Кухонная печь",
+  "icon": "caupona:brick_kitchen_stove",
+  "category": "caupona:intro",
+  "sortnum": 3,
+  "pages": [
+     {
+      "type": "text",
+      "text": "Кухонные печи можно использовать для нагрева кухонной посуды."
+    },
+    {
+      "type": "text",
+      "text": "Кухонные печи перестают работать, если долго стоят без дела."
+    },
+    {
+      "type": "crafting",
+      "recipe": "caupona:mud_kitchen_stove",
+      "text": "Печи из грязи и сухой кладки дёшевы, но производят тепло в два раза медленнее, чем другие варианты печей, и по скорости равны $(l:worldgen/volcanic_fumarole)фумарольным жерлам$(/l)."
+    },
+    {
+      "type": "crafting",
+      "recipe": "caupona:crafting/brick_kitchen_stove",
+      "text": "Также есть печи из $(l:intro/kitchen_materials)других материалов$(/l). Они работают быстрее, но расходуют больше топлива."
+    }
+  ]
+}

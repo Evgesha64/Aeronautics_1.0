@@ -1,0 +1,17 @@
+{
+  "block.enchantinginfuser.enchanting_infuser": "Стол зачарований-инфузер",
+  "block.enchantinginfuser.advanced_enchanting_infuser": "Продвинутый инфузер",
+  "block.enchantinginfuser.description.choose": "Позволяет выбирать нужные зачарования.",
+  "block.enchantinginfuser.description.chooseAndModify": "Позволяет выбирать зачарования, а также менять или удалять уже существующие.",
+  "block.enchantinginfuser.description.repair": "Также чинит предметы за уровни опыта.",
+  "gui.enchantinginfuser.tooltip.enchanting_power": "Мощность: %s / %s",
+  "gui.enchantinginfuser.tooltip.enchanting_power.hint": "Расставьте книжные полки квадратом вокруг инфузера (до двух слоёв). Не забудьте заполнить углы!",
+  "gui.enchantinginfuser.tooltip.durability": "Прочность: %s",
+  "gui.enchantinginfuser.tooltip.change": "%s -> %s",
+  "gui.enchantinginfuser.tooltip.points": "Получить очки опыта",
+  "gui.enchantinginfuser.tooltip.required_enchanting_power": "Текущая мощность зачарования: %s / %s",
+  "gui.enchantinginfuser.tooltip.unknown_enchantment": "Это зачарование слишком сильное для инфузера с такой низкой мощностью.",
+  "gui.enchantinginfuser.tooltip.lowPower1": "Для повышения уровня этого зачарования нужен инфузер с большей мощностью.",
+  "gui.enchantinginfuser.tooltip.lowPower2": "Для изменения уровня этого зачарования нужен инфузер с большей мощностью.",
+  "gui.enchantinginfuser.tooltip.incompatible": "Это зачарование несовместимо с: %s"
+}

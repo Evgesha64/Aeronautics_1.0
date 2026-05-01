@@ -1,0 +1,99 @@
+{
+  "layer.origins_backgrounds.background.name": "Предыстория",
+  "layer.origins_backgrounds.background.missing_origin.name": "Отсутствует",
+  "layer.origins_backgrounds.background.missing_origin.description": "У вас нет предыстории.",
+
+  "origin.origins_backgrounds.acolyte.name": "Аколит",
+  "origin.origins_backgrounds.acolyte.description": "Аколиты проходили обучение у клириков и обладают глубокой верой.",
+
+  "origin.origins_backgrounds.athlete.name": "Атлет",
+  "origin.origins_backgrounds.athlete.description": "Атлеты довели своё тело до совершенства.",
+
+  "origin.origins_backgrounds.farmhand.name": "Батрак",
+  "origin.origins_backgrounds.farmhand.description": "Они проводили время, работая на чужой ферме.",
+
+  "origin.origins_backgrounds.fisher.name": "Рыбак",
+  "origin.origins_backgrounds.fisher.description": "Рыбаки постигли искусство рыбной ловли.",
+
+  "origin.origins_backgrounds.guard.name": "Стражник",
+  "origin.origins_backgrounds.guard.description": "Защищая других и их ценности, они научились защищать и самих себя.",
+
+  "origin.origins_backgrounds.haunted.name": "Преследуемый",
+  "origin.origins_backgrounds.haunted.description": "Не понаслышке знакомые с тьмой и трагедией, преследуемые молча несут свою травму. Обычно.",
+
+  "origin.origins_backgrounds.retainer.name": "Слуга",
+  "origin.origins_backgrounds.retainer.description": "Продолжает семейную традицию службы лорду или рыцарю.",
+
+  "origin.origins_backgrounds.novice_mage.name": "Начинающий маг",
+  "origin.origins_backgrounds.novice_mage.description": "Новички начинали обучение под наставничеством волшебника.",
+
+  "origin.origins_backgrounds.sailor.name": "Моряк",
+  "origin.origins_backgrounds.sailor.description": "Моряки проводят слишком много времени, драя палубу.",
+
+  "origin.origins_backgrounds.pirate.name": "Пират",
+  "origin.origins_backgrounds.pirate.description": "Их единственная любовь – море. И изумруды. Много изумрудов.",
+
+  "origin.origins_backgrounds.cultist.name": "Культист",
+  "origin.origins_backgrounds.cultist.description": "Культисты служат своим богам таинственными способами.",
+
+  "origin.origins_backgrounds.scribe.name": "Писец",
+  "origin.origins_backgrounds.scribe.description": "Судороги в руке со временем проходят.",
+
+  "origin.origins_backgrounds.soldier.name": "Солдат",
+  "origin.origins_backgrounds.soldier.description": "Рядовой состав армии лорда.",
+
+  "origin.origins_backgrounds.fresh_face.name": "Зелёный новичок",
+  "origin.origins_backgrounds.fresh_face.description": "Они ещё не сделали ничего примечательного. Пока что.",
+  
+  "origin.origins_backgrounds.coalminer.name": "Шахтёр",
+  "origin.origins_backgrounds.coalminer.description": "Под землёй нужно добывать все руды, а не только уголь.",
+
+  "origin.origins_backgrounds.cryptkeeper.name": "Смотритель склепа",
+  "origin.origins_backgrounds.cryptkeeper.description": "Ухаживать за могилами мёртвых – тяжёлый труд, когда они не лежат смирно.",
+
+  "power.origins_backgrounds.improved_healing.name": "Улучшенное исцеление",
+  "power.origins_backgrounds.improved_healing.description": "Исцеление действует на вас на 10% сильнее.",
+
+  "power.origins_backgrounds.faster_speed.name": "Быстроногий",
+  "power.origins_backgrounds.faster_speed.description": "Скорость вашего передвижения по земле увеличена на 10%.",
+
+  "power.origins_backgrounds.cooked_fishes.name": "Свиные отбивные моря",
+  "power.origins_backgrounds.cooked_fishes.description": "Вы получаете больше питательности от поедания приготовленной рыбы. (Не отображается с AppleSkin)",
+
+  "power.origins_backgrounds.shield_prowess.name": "Мастерство щита",
+  "power.origins_backgrounds.shield_prowess.description": "При использовании щита вы получаете Сопротивление I.",
+
+  "power.origins_backgrounds.hello_darkness": "Здравствуй, тьма",
+  "power.origins_backgrounds.hello_darkness.description": "Вы невосприимчивы к эффекту тьмы.",
+
+  "power.origins_backgrounds.trusty_hoe.name": "Надёжная мотыга",
+  "power.origins_backgrounds.trusty_hoe.description": "У вас есть зачарованная железная мотыга, передававшаяся из поколения в поколение.",
+
+  "power.origins_backgrounds.attack_in_ocean.name": "Стремительный удар",
+  "power.origins_backgrounds.attack_in_ocean.description": "В море ваши атаки становятся вдвое быстрее.",
+
+  "power.origins_backgrounds.eyepatch.name": "Повязка на глаз",
+  "power.origins_backgrounds.eyepatch.description": "Ношение повязки на глаз в открытом море позволяет вам сохранять Ночное зрение.",
+
+  "power.origins_backgrounds.graves.name": "Назад в склепы",
+  "power.origins_backgrounds.graves.description": "Знание о мёртвых позволяет вам наносить на 5% больше урона нежити.",
+
+  "power.origins_backgrounds.legacy_sword.name": "Родовое оружие",
+  "power.origins_backgrounds.legacy_sword.description": "Вы носите семейный меч. Он принадлежал вашему отцу, а до него – его матери, и...",
+
+  "power.origins_backgrounds.ore_harvesting.name": "Быстрая добыча",
+  "power.origins_backgrounds.ore_harvesting.description": "Вы добываете руды на 10% быстрее.",
+
+  "power.origins_backgrounds.paperbacks.name": "Мягкие обложки",
+  "power.origins_backgrounds.paperbacks.description": "Переписав так много книг, вам нужно всего три листа бумаги, чтобы переплести одну.",
+
+  "power.origins_backgrounds.sacrifice.name": "Жертвенная птица",
+  "power.origins_backgrounds.sacrifice.description": "Жертвоприношение кур вашему господину даёт вам двойной опыт.",
+
+  "power.origins_backgrounds.swordsmanship.name": "Фехтование",
+  "power.origins_backgrounds.swordsmanship.description": "Практика с мечом позволяет вам наносить на 5% больше урона, когда вы им вооружены.",
+
+  "power.origins_backgrounds.potion_food.name": "Зелья странника",
+  "power.origins_backgrounds.potion_food.description": "Вы выпили так много зелий, что теперь они питательны и исцеляют."
+
+}

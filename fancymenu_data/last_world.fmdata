@@ -1,0 +1,7 @@
+type = last_world
+
+last_world {
+  is_server = false
+  world = D:/Games/.minecraft/versions/Aeronautics_1.0/saves/Новый мир
+}
+

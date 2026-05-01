@@ -1,0 +1,17 @@
+{
+	"name": "Стойка",
+	"icon": "caupona:brick_counter",
+	"category": "caupona:intro",
+	"sortnum": 7,
+	"pages": [
+		{
+			"type": "crafting",
+			"recipe": "caupona:crafting/brick_counter",
+			"text": "Стойки — это кухонные устройства. Как и другие устройства, они имеют варианты из разных $(l:intro/kitchen_materials)материалов$(/l)."
+		},
+		{
+			"type": "text",
+			"text": "Они нужны только для декора, чтобы соединять $(l:intro/stove)печи$(/l), $(l:intro/counter_with_dolium)стойки с долиями$(/l) и некоторые другие кухонные устройства."
+		}
+	]
+}

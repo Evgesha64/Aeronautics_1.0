@@ -1,0 +1,25 @@
+{
+	"name": "Свинец",
+	"icon": "caupona:lead_ingot",
+	"category": "caupona:intro",
+	"sortnum": 5,
+	"pages": [
+		{
+			"type": "patchouli:spotlight",
+			"item": "caupona:leaden_walnut",
+			"link_recipe": true,
+			"text": "Есть шанс, что $(l:worldgen/plants#walnut_tree)ореховые деревья$(/l), растущие в Нижнем мире, вместо обычных орехов дадут свинцовые орехи."
+		},
+		{
+			"type": "patchouli:spotlight",
+			"item": "caupona:litharge_cake",
+			"link_recipe": true,
+			"text": "Если выдержать свинцовые орехи с наковальней, которая не расходуется, в $(l:intro/counter_with_dolium)долии$(/l), получится свинцовый глёт."
+		},
+		{
+			"type": "smelting",
+			"recipe": "caupona:smelting/lead_nugget",
+			"text": "Свинцовый глёт можно переплавить в свинцовые самородки."
+		}
+	]
+}

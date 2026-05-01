@@ -1,0 +1,76 @@
+{
+  "itemGroup.shoppy.shoppy": "Shoppy",
+  "itemGroup.shoppy": "Shoppy",
+
+  "block.shoppy.bartering_station": "Станция обмена",
+  "block.shoppy.creative_bartering_station": "Творческая станция обмена",
+  "block.shoppy.shop_block": "Торговый блок",
+  "block.shoppy.creative_shop_block": "Творческий торговый блок",
+
+  "barter.purchase.no_held_item": "Похоже, у вас нет нужных предметов для обмена в этой лавке. Убедитесь, что вы держите предмет в руке.",
+  "barter.purchase.not_enough_items": "У вас недостаточно предметов для завершения обмена. (Нужно: %s, было: %s)",
+  "barter.purchase.transaction_success": "Вы купили %s.",
+  "barter.purchase.owner.transaction_success": "%s купил %s на вашей станции обмена.",
+  "barter.purchase.shop_empty": "Эта станция обмена пуста.",
+  "barter.purchase.owner.shop_empty": "Ваша станция обмена по адресу %s пуста.",
+  "barter.purchase.currency_full": "Вы не можете купить на этой станции обмена, потому что она больше не может хранить %s.",
+  "barter.purchase.owner.currency_full": "Ваша станция обмена по адресу %s заполнена %s и больше не может торговать этим.",
+
+  "barter.information.owner.extraction": "Чтобы забрать прибыль, присядьте и ударьте по блоку. После извлечения прибыли предметы можно забрать тем же действием.",
+  "barter.information.owner.profits": "В этой лавке находится %s предмет(ов) прибыли.",
+  "barter.information.owner.barter": "и %s предметов для продажи.",
+
+  "barter.information.user.selling_info": "Эта лавка продаёт %s %s за %s %s.",
+
+  "barter.setup.owner.add_currency": "На этой станции обмена валюта установлена на %s. Чтобы очистить, присядьте и щёлкните ПКМ по станции. Это также выбросит все предметы, которые сейчас хранятся в станции.",
+  "barter.setup.owner.add_selling": "На этой станции обмена товар для продажи установлен на %s. Чтобы очистить, присядьте и щёлкните ПКМ по станции. Это также выбросит все предметы, которые сейчас хранятся в станции.",
+  "barter.setup.owner.add_currency_fail": "Невозможно установить",
+
+  "shop.purchase.no_account": "Похоже, отсутствуют счета, нужные для магазина, поэтому сделка не может быть выполнена. Сообщить администраторам?",
+  "shop.purchase.no_held_item": "Похоже, у вас нет нужных предметов для обмена в этой лавке. Убедитесь, что вы держите предмет в руке.",
+  "shop.purchase.not_enough_money": "У вас недостаточно денег, чтобы купить в этом магазине.",
+  "shop.purchase.transaction_success": "Вы купили %s.",
+  "shop.purchase.owner.transaction_success": "%s купил %s в вашем магазине.",
+  "shop.purchase.shop_empty": "Этот магазин пуст.",
+  "shop.purchase.owner.shop_empty": "Ваш магазин по адресу %s пуст.",
+
+  "shop.buying.full": "В этом магазине недостаточно места.",
+  "shop.buying.no_held_item": "Вы должны держать в руке предмет, который хотите продать, и это должен быть тот же самый предмет.",
+  "shop.buying.not_enough_funds": "У владельца магазина недостаточно денег, чтобы вы могли продать ему товар.",
+  "shop.buying.not_enough_items": "У вас должно быть достаточно предметов в руке, чтобы продать их магазину.",
+  "shop.buying.player.success": "Вы продали %s за %s.",
+  "shop.buying.owner.success": "%s продал вам %s за %s.",
+
+  "shop.information.owner.info": "Торговый блок работает с валютой и сразу зачисляет её на ваш игровой счёт.",
+  "shop.information.owner.info2": "и сразу зачисляет её на ваш игровой счёт.",
+  "shop.information.owner.insert": "Чтобы положить предметы в магазин, щёлкните ПКМ по стеклянной витрине.",
+  "shop.information.owner.reset": "Если внутри уже есть предмет, сначала нужно очистить его с помощью Shift + ПКМ.",
+  "shop.information.owner.update": "Чтобы переключаться между покупкой и продажей, зажмите приседание и щёлкните ПКМ по деревянной табличке магазина.",
+  "shop.information.owner.pricing": "Чтобы изменить цену магазина, щёлкните ПКМ по деревянной \n табличке магазина, а затем введите число в чат.\n Ваше следующее сообщение не будет отправлено никому на сервере.",
+  "shop.information.owner.contents": "Этот магазин %s %s и хранит %s предметов.",
+
+  "shop.information.user.selling_info": "Этот магазин продаёт %s %s за %s.",
+  "shop.information.user.buying_info": "Этот магазин покупает %s %s за %s.",
+
+  "shop.pricing.owner.update": "Сейчас вы изменяете цену своего магазина. Ваше следующее сообщение в чате НЕ будет отправлено игрокам. Обязательно введите число, чтобы обновить цену.",
+  "shop.pricing.owner.update_complete": "Вы установили цену своего магазина на %s.",
+  "shop.pricing.owner.update_fail": "Вы ввели неверное число для изменения цены магазина. Вы ввели: %s",
+
+  "shop.status.update": "Теперь этот магазин настроен на: %s.",
+  "shop.status.selling": "Продавать игрокам",
+  "shop.status.buying": "Покупать у игроков",
+
+  "shop.status.buy": "Покупает",
+  "shop.status.sell": "Продаёт",
+
+  "shop.setup.owner.add_selling": "Этот магазин теперь будет продавать %s игрокам.",
+  "shop.setup.owner.add_buying": "Этот магазин теперь будет покупать %s у игроков.",
+
+  "shop.error.no_economy": "Не установлен ни один поддерживаемый мод экономики. Взаимодействие прервано.",
+
+
+  "common.purchase.full_inventory": "Вы не можете торговать с полным инвентарём.",
+  "common.station.message_for": "за",
+  "common.station.message_buying": "Покупка",
+  "common.station.message_selling": "Продажа"
+}

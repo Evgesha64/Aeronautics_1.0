@@ -1,0 +1,16 @@
+{
+    "great-scrollable-tooltips.ui.title": "Great Scrollable Tooltips",
+    "great-scrollable-tooltips.ui.config.enable.true": "Включено: §aда",
+    "great-scrollable-tooltips.ui.config.enable.false": "Включено: §cнет",
+    "great-scrollable-tooltips.ui.config.auto-reset.true": "Автосброс: §aда",
+    "great-scrollable-tooltips.ui.config.auto-reset.false": "Автосброс: §cнет",
+    "great-scrollable-tooltips.ui.config.auto-reset.tooltip": "Сбрасывать прокрутку, когда курсор уходит с предмета",
+    "great-scrollable-tooltips.ui.config.sensitivity": "Чувствительность: %s",
+    "great-scrollable-tooltips.ui.config.reload": "Перезагрузить конфиг",
+    "great-scrollable-tooltips.ui.config.done": "Готово",
+    "great-scrollable-tooltips.key-binding.category": "Great Scrollable Tooltips",
+    "great-scrollable-tooltips.key-binding.scroll-up": "Прокрутка вверх",
+    "great-scrollable-tooltips.key-binding.scroll-left": "Прокрутка влево",
+    "great-scrollable-tooltips.key-binding.scroll-down": "Прокрутка вниз",
+    "great-scrollable-tooltips.key-binding.scroll-right": "Прокрутка вправо"
+}

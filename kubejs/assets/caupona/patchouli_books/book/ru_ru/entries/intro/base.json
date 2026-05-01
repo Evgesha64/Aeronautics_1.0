@@ -1,0 +1,27 @@
+{
+  "name": "Основа супа",
+  "icon": "caupona:water_or_stock_based",
+  "category": "caupona:intro",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Основа влияет не только на типы супов. Некоторые основы могут давать супам бонусы."
+    },
+    {
+      "type": "spotlight",
+      "item": "caupona:water",
+      "text": "Вода не имеет особых свойств и не даёт бонусов."
+    },
+    {
+      "type": "spotlight",
+      "item": "caupona:milk",
+      "text": "Молоко даёт дополнительное насыщение."
+    },
+    {
+      "type": "spotlight",
+      "item": "caupona:stock",
+      "text": "Бульон восстанавливает больше голода и даёт более высокое насыщение."
+    }
+  ]
+}

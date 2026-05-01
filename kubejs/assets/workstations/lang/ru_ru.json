@@ -1,0 +1,31 @@
+{
+  "item.workstations.blast_clay": "Огнеупорная глина",
+  "item.workstations.blast_brick": "Огнеупорный кирпич",
+
+  "block.workstations.blast_bricks": "Огнеупорные кирпичи",
+
+  "block.workstations.kiln": "Обжиговая печь",
+  "block.workstations.coking_oven": "Коксовая печь",
+  "block.workstations.glassblower": "Стеклодув",
+  "block.workstations.woodcutter": "Столярный станок",
+  "block.workstations.lesser_furnace_core": "Малое печное ядро",
+  "block.workstations.ingredient_input": "Интерфейс ввода ингредиентов",
+  "block.workstations.fuel_input": "Интерфейс ввода топлива",
+  "block.workstations.result_output": "Интерфейс вывода результата",
+  "block.workstations.furnace_stone": "Печной камень",
+
+  "container.workstations.kiln": "Обжиговая печь",
+  "container.workstations.coking_oven": "Коксовая печь",
+  "container.workstations.glassblower": "Стеклодув",
+  "container.workstations.woodcutter": "Столярный станок",
+  "container.workstations.ingredient_input": "Интерфейс ингредиентов",
+  "container.workstations.fuel_input": "Интерфейс топлива",
+  "container.workstations.result_output": "Интерфейс вывода",
+
+  "creativetab.workstations": "Улучшенные рабочие станции",
+
+  "gui.workstations.category.kiln_baking": "Обжиг",
+  "gui.workstations.category.coking": "Коксование",
+  "gui.workstations.category.glassblowing": "Стеклодувное дело",
+  "gui.workstations.category.woodcutting": "Обработка дерева"
+}

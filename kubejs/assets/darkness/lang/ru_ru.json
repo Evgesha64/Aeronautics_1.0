@@ -1,0 +1,24 @@
+{
+	"config.darkness.title" : "Настройки истинной тьмы",
+	
+	"config.darkness.label.block_light_only": "Влияет только на свет блоков",
+	"config.darkness.help.block_light_only": "Области, освещённые небом, не будут полностью тёмными",
+	
+	"config.darkness.label.ignore_moon_phase": "Игнорировать фазу луны",
+	"config.darkness.help.ignore_moon_phase": "Ночь полностью тёмная даже при полной луне",
+	
+	"config.darkness.label.dark_overworld": "Тёмный верхний мир",
+	"config.darkness.help.dark_overworld": "Включить в верхнем мире",
+	
+	"config.darkness.label.dark_nether": "Тёмный Нижний мир",
+	"config.darkness.help.dark_nether": "Включить в Нижнем мире",
+	
+	"config.darkness.label.dark_end": "Тёмный Край",
+	"config.darkness.help.dark_end": "Включить в Крае",
+	
+	"config.darkness.label.dark_default": "Тьма в модовых измерениях",
+	"config.darkness.help.dark_default": "Включить в модовых измерениях с небом",
+	
+	"config.darkness.label.dark_skyless": "Тьма в модовых измерениях без неба",
+	"config.darkness.help.dark_skyless": "Включить в модовых измерениях без неба"
+}

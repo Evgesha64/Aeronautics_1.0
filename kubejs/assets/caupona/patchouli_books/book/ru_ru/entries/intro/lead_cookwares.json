@@ -1,0 +1,18 @@
+{
+	"name": "Свинцовая посуда",
+	"icon": "caupona:lead_stew_pot",
+	"category": "caupona:intro",
+	"sortnum": 5,
+	"pages": [
+		{
+			"type": "crafting",
+			"recipe": "caupona:crafting/lead_stew_pot",
+			"text": "Свинцовый котёл для рагу работает почти так же, как $(l:intro/stew_pots)обычный вариант$(/l), но при достаточной концентрации рагу или добавлении уксуса в него будет выщелачиваться свинцовый сахар в виде специи дефрутум."
+		},
+		{
+			"type": "crafting",
+			"recipe": "caupona:crafting/lead_frying_pan",
+			"text": "Сковорода с свинцовым покрытием работает почти так же, как $(l:intro/frying_pans)обычный вариант$(/l), но любой добавленный уксус превращается в дефрутум."
+		}
+	]
+}

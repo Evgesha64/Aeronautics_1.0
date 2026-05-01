@@ -1,0 +1,8 @@
+{
+  "key.categories.traderefresh": "Клавиши обновления сделок",
+  "key.traderefresh.refresh": "Обновить сделку",
+  "traderefresh.enchantable.true": "Можно зачаровать на столе зачаровывания",
+  "traderefresh.enchantable.false": "Нельзя зачаровать на столе зачаровывания",
+  "traderefresh.tradable.true": "Можно получить в сделках с жителем",
+  "traderefresh.tradable.false": "Нельзя получить в сделках с жителем"
+}

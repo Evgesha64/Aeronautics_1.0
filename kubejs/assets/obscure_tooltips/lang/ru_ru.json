@@ -1,0 +1,8 @@
+{
+  "rarity.common": "Обычный",
+  "rarity.uncommon": "Необычный",
+  "rarity.rare": "Редкий",
+  "rarity.epic": "Эпический",
+  "toast.obscure_tooltips.hint_1": "Включите встроенный пакет %s",
+  "toast.obscure_tooltips.hint_2": "Он содержит анимированные эффекты и стили!"
+}

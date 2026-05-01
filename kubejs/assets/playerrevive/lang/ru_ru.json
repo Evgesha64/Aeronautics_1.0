@@ -1,0 +1,7 @@
+{
+    "playerrevive.chat.bleeding": "%s истекает кровью и может нуждаться в твоей помощи",
+    "playerrevive.gui.label.time_left": "Осталось времени: %s",
+    "playerrevive.gui.hold": "Жди помощи или удерживай '%s' %s секунд, чтобы сдаться",
+    "playerrevive.revive.item": "Нужно: %s",
+    "playerrevive.chat.no_commands": "Команды недоступны во время кровотечения"
+}

@@ -1,0 +1,26 @@
+{
+	"name": "Травы",
+	"icon": "caupona:silphium_block",
+	"category": "caupona:worldgen",
+	"sortnum": 0,
+	"pages": [
+		{
+			"type": "text",
+			"text": "Сильфий теперь генерируется в мире. Эту траву нельзя посадить, и её можно восстановить только костной мукой."
+		},
+		{
+			"type": "empty"
+		},
+		{
+			"type": "image",
+			"images": ["caupona:textures/gui/entries/silphium.png"],
+			"anchor": "silphium",
+			"title": "Сильфий"
+		},
+		{
+			"type": "spotlight",
+			"item": "caupona:silphium",
+			"text": "Сильфий растёт только на подсолнечных равнинах. Асафетиду, редкую специю, можно получить, если выдержать сильфий и наковальню, которая не расходуется, в $(l:intro/counter_with_dolium)долии$(/l)."
+		}
+	]
+}

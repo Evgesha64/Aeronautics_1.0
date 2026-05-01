@@ -1,0 +1,16 @@
+{
+  "block.society_trading.auto_trader": "Автоторговец",
+  "itemGroup.society_trading": "Society Trading",
+
+  "command.society_trading.wrong_id": "Не найден зарегистрированный магазин с идентификатором %s.",
+  "gui.society_trading.price": "$%s",
+  "gui.society_trading.hover_price_one": "Цена: $%s",
+  "gui.society_trading.hover_price_two": "С банковского счёта",
+  "gui.society_trading.balance": "§0$%s",
+  "gui.society_trading.shop_selector.title": "Магазины",
+  "gui.society_trading.search_trades": "Поиск сделок",
+
+  "jei.society_trading.category.trades": "Сделки",
+  "jei.society_trading.category.shops": "Магазины",
+  "jei.society_trading.price": "$%s"
+}

@@ -1,0 +1,71 @@
+{
+  "layer.origins_backgrounds_two.background.name": "Предыстория",
+  "layer.origins_backgrounds_two.background.missing_origin.name": "Отсутствует",
+  "layer.origins_backgrounds_two.background.missing_origin.description": "У вас нет предыстории.",
+
+  "layer.origins_backgrounds.background.name": "Предыстория",
+  "layer.origins_backgrounds.background.missing_origin.name": "Отсутствует",
+  "layer.origins_backgrounds.background.missing_origin.description": "У вас нет предыстории.",
+
+  "origin.origins_backgrounds_two.greenwitch.name": "Зелёная ведьма",
+  "origin.origins_backgrounds_two.greenwitch.description": "Зелёные ведьмы обладают природным талантом заставлять всё цвести.",
+
+  "origin.origins_backgrounds_two.hunter.name": "Охотник",
+  "origin.origins_backgrounds_two.hunter.description": "Охотники обучены искусству стрельбы из лука.",
+
+  "origin.origins_backgrounds_two.swashbuckler.name": "Головорез",
+  "origin.origins_backgrounds_two.swashbuckler.description": "Они освоили немало лихих приёмов.",
+
+  "origin.origins_backgrounds_two.trader.name": "Торговец",
+  "origin.origins_backgrounds_two.trader.description": "Торговцы знают толк в обмене товарами.",
+
+  "origin.origins_backgrounds_two.deep_miner.name": "Глубинный шахтёр",
+  "origin.origins_backgrounds_two.deep_miner.description": "Чем глубже они спускаются, тем сильнее становятся зелья для добычи.",
+
+  "origin.origins_backgrounds_two.miner.name": "Ученик шахтёра",
+  "origin.origins_backgrounds_two.miner.description": "Работа под началом мастера-шахтёра научила их копать быстро, иначе останешься в каменной пыли.",
+
+  "origin.origins_backgrounds_two.blacksmith.name": "Кузнец",
+  "origin.origins_backgrounds_two.blacksmith.description": "Добиться идеальной подгонки доспехов важнее, чем многие думают.",
+
+  "origin.origins_backgrounds_two.disenchanter.name": "Рассеиватель чар",
+  "origin.origins_backgrounds_two.disenchanter.description": "Гильдия рассеивателей чар сосредоточена на удалении нежелательных свойств.",
+
+  "origin.origins_backgrounds_two.cook.name": "Повар",
+  "origin.origins_backgrounds_two.cook.description": "Пусть они и не шеф-повара, зато не отравят вас. Случайно.",
+
+  "origin.origins_backgrounds_two.sentry.name": "Часовой",
+  "origin.origins_backgrounds_two.sentry.description": "Они могут быть немного медленнее, зато способны продержаться чуть дольше.",
+
+  "origin.origins_backgrounds_two.bounty_hunter.name": "Охотник за головами",
+  "origin.origins_backgrounds_two.bounty_hunter.description": "Если вам нужно доказательство смерти, они его добудут.",
+
+  "origin.origins_backgrounds_two.pickpocket.name": "Карманник",
+  "origin.origins_backgrounds_two.pickpocket.description": "Вам бы стоило получше прятать ценности, когда они рядом.",
+	
+  "origin.origins_backgrounds_two.acrobat.name": "Акробат",
+  "origin.origins_backgrounds_two.acrobat.description": "Для акробата заборы ничего не значат",
+
+  
+  "origin.origins_backgrounds_two.butcher.name": "Мясник",
+  "origin.origins_backgrounds_two.butcher.description": "Они знают, как разделывать тушу, не теряя ни куска мяса.",
+
+  
+  "origin.origins_backgrounds_two.alchemist.name": "Алхимик",
+  "origin.origins_backgrounds_two.alchemist.description": "Распространяет силу при употреблении зелий.",
+
+  "origin.origins_backgrounds_two.street_rat.name": "Уличная крыса",
+  "origin.origins_backgrounds_two.street_rat.description": "Выросши на улицах, они научились закалять свой желудок.",
+
+  "origin.origins_backgrounds_two.woodsman.name": "Дровосек",
+  "origin.origins_backgrounds_two.woodsman.description": "Владение топором стало для дровосеков второй натурой.",
+  
+  "origin.origins_backgrounds_two.angler.name": "Удильщик",
+  "origin.origins_backgrounds_two.angler.description": "С лодки или с берега – удильщик всегда получает лучший улов.",
+  
+  
+  "origin.origins_backgrounds.fresh_face.name": "Зелёный новичок",
+  "origin.origins_backgrounds.fresh_face.description": "Они ещё не сделали ничего примечательного. Пока."
+  
+  
+}
